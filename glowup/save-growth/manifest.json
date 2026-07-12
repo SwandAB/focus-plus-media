@@ -1,0 +1,98 @@
+{
+  "_purpose": "@glowup_architect save-growth publiceringskö. Molnroutinen läser detta varje morgon och stagar nästa pjäs som saknas i Buffer som ett DRAFT (aldrig publicera). Producenten (session) appendar nya pjäser med staged=null.",
+  "channel": {
+    "org": "6a0d9c8335df113b6b60dc94",
+    "channelId": "6a0effa8090476fb99440702",
+    "name": "glowup.architect"
+  },
+  "rules": {
+    "draft_only": true,
+    "disclosure_tag_if_shows_mia": true,
+    "max_hashtags": 5,
+    "stop_on": "Account is not allowed"
+  },
+  "pieces": [
+    {
+      "id": "w2-01",
+      "pillar": "GROWTH",
+      "order": 1,
+      "marker": "[w2-01]",
+      "caption": "you are not inconsistent. you were measured on a flat line while you run on a wave.\n\n\"just be more consistent\" is a metric built for a 24-hour hormone loop. yours runs on a ~28-day cycle. you were graded on the wrong axis your whole life.\n\nstop grading every day against the same line. grade the cycle. output is a phase-weighted average, never a daily quota.\n\nsave this. fill in your four modes — menstrual, follicular, ovulatory, luteal — and re-read it the next time someone says \"just be consistent.\"\n\n#adhdwomen #cyclesyncing #executivefunction #neurodivergent #focusprotocol",
+      "images": [
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-01-1.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-01-2.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-01-3.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-01-4.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-01-5.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-01-6.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-01-7.png"
+      ],
+      "staged": "2026-07-12"
+    },
+    {
+      "id": "w2-02",
+      "pillar": "PRESENCE",
+      "order": 2,
+      "marker": "[w2-02]",
+      "caption": "the same switch costs up to 3× some weeks. not in your head. in your phase.\n\ntask-switching runs on executive function, and executive function runs on the cycle. follicular week, switches are cheap. luteal week, the same switch can cost three times more.\n\nluteal is not a broken week. it's a low-switch week — fewer lanes, not more willpower. batch hard. one context per block. protect the re-entry.\n\nsave it for the luteal week your calendar forgot. re-set the lane count before you overschedule it again.\n\n#adhdwomen #cyclesyncing #luteal #executivefunction #hormonehealth",
+      "images": [
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-02-1.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-02-2.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-02-3.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-02-4.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-02-5.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-02-6.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-02-7.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-02-8.png"
+      ],
+      "staged": "2026-07-12"
+    },
+    {
+      "id": "w2-03",
+      "pillar": "TRUTH",
+      "order": 3,
+      "marker": "[w2-03]",
+      "caption": "3am. your brain is re-running every mistake from today, line by line. it calls it processing. it's a loop with no exit.\n\nthe ADHD brain doesn't close open loops on its own. you can't argue a loop into stopping — \"stop thinking\" is a command it ignores. it needs an interrupt, not a scolding.\n\nthe interrupt: 1) dump the open loop onto paper. 2) name tomorrow's single next move. 3) close the note. the loop runs to find an exit. give it one.\n\nsave it. keep it where 3am can reach it.\n\n#adhdwomen #adhdinwomen #executivefunction #neurodivergent #focusprotocol",
+      "images": [
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-03-1.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-03-2.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-03-3.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-03-4.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-03-5.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-03-6.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-03-7.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-03-8.png"
+      ],
+      "staged": "2026-07-12"
+    },
+    {
+      "id": "w2-04",
+      "pillar": "GROWTH",
+      "order": 4,
+      "marker": "[w2-04]",
+      "caption": "you treat rest like empty space. it's a load-bearing wall.\n\nyou were taught rest is what's left after the work. in a cyclical system, rest is the work that holds the other phases up. remove it and the follicular climb has nothing to stand on.\n\ndays 1–5 are built for recovery, not output. that is the method — not a lapse.\n\nsave it for day 1. open it before you apologize for resting.\n\n#adhdwomen #cyclesyncing #menstrualphase #hormonehealth #focusprotocol",
+      "images": [
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-04-1.png"
+      ],
+      "staged": "2026-07-12"
+    },
+    {
+      "id": "w2-05",
+      "pillar": "GROWTH",
+      "order": 5,
+      "marker": "[w2-05]",
+      "caption": "the last week of your cycle has one job. it is not output.\n\nday 22 hits and the system that ran all month stops answering. you read it as failure. it's a phase — and it runs a different protocol. four moves:\n\n1) close out — finish the open loops, start nothing that needs your peak.\n2) start nothing new — park every idea in one list; it keeps until follicular.\n3) schedule the buffer — put slack where the crash lands.\n4) delete one thing daily — subtract, never add.\n\nsave it for day 22. open it before you call the crash a failure.\n\n#adhdwomen #cyclesyncing #luteal #executivefunction #focusprotocol",
+      "images": [
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-05-1.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-05-2.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-05-3.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-05-4.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-05-5.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-05-6.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-05-7.png",
+        "https://raw.githubusercontent.com/SwandAB/focus-plus-media/main/glowup/save-growth/w2/W2-05-8.png"
+      ],
+      "staged": "2026-07-12"
+    }
+  ]
+}
