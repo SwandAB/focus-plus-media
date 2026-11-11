@@ -1,0 +1,1198 @@
+[
+ {
+  "id": "p01",
+  "date": "2026-11-12T08:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "plan the week <em>you have,</em> not the one you wanted.",
+    "bg": "",
+    "sub": "a four-minute check before you write a single task."
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "rate the week, not yourself.",
+    "p": [
+     "one number, 1 to 5: how much room does this week actually have?",
+     "meetings, sleep, people who need you. count them in."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "3 or lower: short list.",
+    "p": [
+     "three tasks that must move. everything else is optional, on purpose."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "4 or 5: full list.",
+    "p": [
+     "same goals, more lanes. you decide once, on monday, not every hour."
+    ]
+   },
+   {
+    "shared": "cta-reset"
+   }
+  ],
+  "caption": "plan the week you have, not the one you wanted.\n\none number before any task: how much room does this week actually have, 1 to 5? three or lower gets a short list. four or five gets the full one. same goals, a different number of lanes.\n\nsave this for monday morning.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #executivefunction #weeklyplanning #focusprotocol"
+ },
+ {
+  "id": "p02",
+  "date": "2026-11-13T11:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "a short list isn't a lower standard. it's a <em>decision made in advance.</em>",
+    "bg": "sage"
+   }
+  ],
+  "caption": "a short list isn't a lower standard. it's a decision made in advance.\n\nyou write it on a calm day, so the busy day only has to follow it. three tasks, in order. the rest waits on purpose.\n\nwhich three would make next week count?\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #executivefunction #weeklyplanning #focusprotocol"
+ },
+ {
+  "id": "p03",
+  "date": "2026-11-14T09:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "what opens when you <em>open it.</em>",
+    "bg": "",
+    "sub": "a look inside FOCUS+ Core.",
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "the home dashboard.",
+    "p": [
+     "a home dashboard, plus four daily phase protocols with a low-energy fallback each."
+    ],
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "a smaller version, already written.",
+    "p": [
+     "each daily phase protocol includes a low-energy fallback you can choose when it fits."
+    ],
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "no cycle tracking?",
+    "p": [
+     "pin a phase manually, or run the energy variant instead."
+    ],
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "shared": "cta-core"
+   }
+  ],
+  "caption": "what opens when you open it.\n\nthe workspace includes a home dashboard and four daily phase protocols, each with a low-energy fallback. and if you don't track a cycle, you pin a phase manually or use the energy variant.\n\nFOCUS+ Core is our own product: a Notion workspace, €27 one-time, 14-day money-back guarantee. the filled-in demo is public at focus-plus.space (link in bio).\n\n#notiontemplate #notionplanner #adhdwomen #focusprotocol"
+ },
+ {
+  "id": "p04",
+  "date": "2026-11-15T18:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "day one is <em>one question.</em>",
+    "bg": "",
+    "sub": "inside the free 7-Day Cycle Reset."
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "sixty seconds.",
+    "p": [
+     "what is the actual state of my brain today? not what i wish it were. what it is."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "ten minutes, at most.",
+    "p": [
+     "check your data. name your phase. set one intention."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "that's the whole day.",
+    "p": [
+     "read day one on the site before you sign up."
+    ]
+   },
+   {
+    "shared": "cta-reset"
+   }
+  ],
+  "caption": "day one is one question.\n\nwhat is the actual state of my brain today? not what i wish it were. what it is. then ten minutes at most: check your data, name your phase, set one intention. that's the whole first day.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #executivefunction #weeklyplanning #focusprotocol"
+ },
+ {
+  "id": "p05",
+  "date": "2026-11-16T18:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "try making <em>fewer decisions</em> at the start.",
+    "bg": ""
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "pick the first action tonight.",
+    "p": [
+     "not \"work on the report\". \"open the doc, write the heading.\""
+    ]
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "put it where your eyes land.",
+    "p": [
+     "top of the dashboard. not line nine of a list of twelve."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "start with the rough version.",
+    "p": [
+     "one ugly sentence counts as started."
+    ]
+   },
+   {
+    "shared": "cta-reset"
+   }
+  ],
+  "caption": "try making fewer decisions at the start.\n\nchoose the first physical action the evening before. put it where you'll see it first. let the rough version count.\n\nsave this for the task that keeps moving to tomorrow.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #executivefunction #weeklyplanning #focusprotocol"
+ },
+ {
+  "id": "p06",
+  "date": "2026-11-17T11:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "make the first step <em>specific enough to start.</em>",
+    "bg": "rose"
+   }
+  ],
+  "caption": "make the first step specific enough to start.\n\ninstead of \"plan q1\", try \"open last year's plan and copy the headings\". rewrite the first line of your list as something your hands can do.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #executivefunction #weeklyplanning #focusprotocol"
+ },
+ {
+  "id": "p07",
+  "date": "2026-11-18T17:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "too many open lanes? <em>choose what can wait.</em>",
+    "bg": ""
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "count your open fronts.",
+    "p": [
+     "projects, promises, half-started things. write the number down."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "close or park two.",
+    "p": [
+     "parking is a decision: write where it went and the date you'll look again."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "give the rest one next step each.",
+    "p": [
+     "one line per front. specific enough to start cold."
+    ]
+   },
+   {
+    "shared": "cta-reset"
+   }
+  ],
+  "caption": "too many open lanes? choose what can wait.\n\ncount what's open. close or park two of them, with a date to look again. give everything left one next step. write down what remains and what you've chosen to postpone.\n\nsave this for the next time everything feels urgent.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #executivefunction #weeklyplanning #focusprotocol"
+ },
+ {
+  "id": "p08",
+  "date": "2026-11-19T08:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "what phase are you in this week? <em>start with what you notice.</em>",
+    "bg": ""
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "three words about today.",
+    "p": [
+     "not the score you think you should have. what is true at 8am."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "if you track your cycle, read your own notes.",
+    "p": [
+     "last month's notes are better input than a generic calendar."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "plan from that, not from the date.",
+    "p": [
+     "the plan follows the week you are in."
+    ]
+   },
+   {
+    "shared": "cta-reset"
+   }
+  ],
+  "caption": "what phase are you in this week? start with what you notice.\n\nthree honest words about today. your own notes from last month, if you keep them. then plan from that, not from what the calendar says you should feel.\n\nan organising method, not medical advice.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #executivefunction #weeklyplanning #focusprotocol"
+ },
+ {
+  "id": "p09",
+  "date": "2026-11-22T18:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "the smaller version is <em>already written.</em>",
+    "bg": "ivory2",
+    "eyebrow": "FOCUS+ Core"
+   }
+  ],
+  "caption": "the smaller version is already written.\n\neach daily template in FOCUS+ Core has a low-energy fallback. on a 2-out-of-5 day you don't rebuild the plan. you open the shorter one.\n\nFOCUS+ Core is our own product: a Notion workspace, €27 one-time, 14-day money-back guarantee. the filled-in demo is public at focus-plus.space (link in bio).\n\n#notiontemplate #notionplanner #adhdwomen #focusprotocol"
+ },
+ {
+  "id": "p10",
+  "date": "2026-11-23T18:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "dark month <em>protocol.</em>",
+    "bg": "",
+    "sub": "no discount. the same system, for the darker weeks too.",
+    "eyebrow": "dark month protocol"
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "less daylight, same calendar.",
+    "p": [
+     "november keeps every deadline. put the demanding work in the hours that work best for you."
+    ],
+    "eyebrow": "dark month protocol"
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "a short list by default.",
+    "p": [
+     "write next week's short list on sunday, before the week begins."
+    ],
+    "eyebrow": "dark month protocol"
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "one anchor a day.",
+    "p": [
+     "one task crosses the day with you. the rest can wait."
+    ],
+    "eyebrow": "dark month protocol"
+   },
+   {
+    "shared": "cta-core"
+   }
+  ],
+  "caption": "dark month protocol.\n\nno discount this week. try a short list written on sunday and one anchor task a day. FOCUS+ Core includes a low-energy fallback in each daily phase protocol.\n\nwe'll show the inside of the workspace all week.\n\nFOCUS+ Core is our own product: a Notion workspace, €27 one-time, 14-day money-back guarantee. the filled-in demo is public at focus-plus.space (link in bio).\n\n#notiontemplate #notionplanner #adhdwomen #focusprotocol"
+ },
+ {
+  "id": "p11",
+  "date": "2026-11-24T11:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "look inside <em>before you buy.</em>",
+    "bg": "",
+    "eyebrow": "dark month protocol"
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "the demo is public.",
+    "p": [
+     "a public, filled-in demo you can explore before buying."
+    ],
+    "eyebrow": "dark month protocol"
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "14 pages. 6 linked databases.",
+    "p": [
+     "home dashboard, phase templates, weekly review, brain dump."
+    ],
+    "eyebrow": "dark month protocol"
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "works on the free Notion plan.",
+    "p": [
+     "duplicate it into your own account. about twenty minutes of setup."
+    ],
+    "eyebrow": "dark month protocol"
+   },
+   {
+    "shared": "cta-core"
+   }
+  ],
+  "caption": "look inside before you buy.\n\nthe filled-in FOCUS+ Core demo is public. open it, click through the pages, and decide with the real thing in front of you. it runs on the free Notion plan.\n\nFOCUS+ Core is our own product: a Notion workspace, €27 one-time, 14-day money-back guarantee. the filled-in demo is public at focus-plus.space (link in bio).\n\n#notiontemplate #notionplanner #adhdwomen #focusprotocol"
+ },
+ {
+  "id": "p12",
+  "date": "2026-11-26T08:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "how the short list <em>works.</em>",
+    "bg": "",
+    "eyebrow": "dark month protocol"
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "choose a phase or the energy variant.",
+    "p": [
+     "pin a phase manually, or use the energy variant."
+    ],
+    "eyebrow": "dark month protocol"
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "switch the day's template.",
+    "p": [
+     "four daily phase protocols, each with a low-energy fallback."
+    ],
+    "eyebrow": "dark month protocol"
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "follow one short protocol.",
+    "p": [
+     "use the fallback when it fits your day."
+    ],
+    "eyebrow": "dark month protocol"
+   },
+   {
+    "shared": "cta-core"
+   }
+  ],
+  "caption": "how the short list works.\n\npin a phase manually, or use the energy variant. switch to that day's protocol, and use its low-energy fallback when it fits. FOCUS+ Core includes four daily phase protocols.\n\nFOCUS+ Core is our own product: a Notion workspace, €27 one-time, 14-day money-back guarantee. the filled-in demo is public at focus-plus.space (link in bio).\n\n#notiontemplate #notionplanner #adhdwomen #focusprotocol"
+ },
+ {
+  "id": "p13",
+  "date": "2026-11-27T17:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "no black friday discount. <em>€27, one-time.</em>",
+    "bg": "sage",
+    "eyebrow": "dark month protocol"
+   }
+  ],
+  "caption": "no black friday discount. €27, one-time.\n\nFOCUS+ Core has no discount this week. €27, one-time, no subscription. lifetime updates and a 14-day money-back guarantee are included.\n\nFOCUS+ Core is our own product: a Notion workspace, €27 one-time, 14-day money-back guarantee. the filled-in demo is public at focus-plus.space (link in bio).\n\n#notiontemplate #notionplanner #adhdwomen #focusprotocol"
+ },
+ {
+  "id": "p14",
+  "date": "2026-11-29T18:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "december is next. <em>write the short list first.</em>",
+    "bg": ""
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "list what december already holds.",
+    "p": [
+     "work, people, travel, the things only you remember."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "mark what can wait until january.",
+    "p": [
+     "waiting is a plan when it has a date."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "keep three per week.",
+    "p": [
+     "three things that must move. the rest is extra, not owed."
+    ]
+   },
+   {
+    "shared": "cta-reset"
+   }
+  ],
+  "caption": "december is next. write the short list first.\n\nlist what the month already holds. mark what can wait until january, with a date. keep three things per week.\n\nsave this and run it tonight.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #decemberplanning #executivefunction #focusprotocol"
+ },
+ {
+  "id": "p15",
+  "date": "2026-11-30T18:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "what €27 <em>gets you.</em>",
+    "bg": "",
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "the workspace.",
+    "p": [
+     "14 pages, 6 linked databases, four daily phase protocols."
+    ],
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "the tools.",
+    "p": [
+     "weekly review, brain dump, and 50 AI prompts tagged by phase and energy."
+    ],
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "the terms.",
+    "p": [
+     "one-time payment. lifetime updates. 14-day money-back guarantee."
+    ],
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "shared": "cta-core"
+   }
+  ],
+  "caption": "what €27 gets you.\n\na complete Notion workspace: 14 pages, 6 linked databases, four daily phase protocols, a weekly review, a brain dump page and 50 AI prompts tagged by phase and energy. one-time payment, lifetime updates.\n\nFOCUS+ Core is our own product: a Notion workspace, €27 one-time, 14-day money-back guarantee. the filled-in demo is public at focus-plus.space (link in bio).\n\n#notiontemplate #notionplanner #adhdwomen #focusprotocol"
+ },
+ {
+  "id": "p16",
+  "date": "2026-12-01T11:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "not everything on the list is <em>this month's.</em>",
+    "bg": "rose"
+   }
+  ],
+  "caption": "not everything on the list is this month's.\n\ndecember lists collect january work. move it now, with a date, and the month gets shorter in the right places.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #decemberplanning #executivefunction #focusprotocol"
+ },
+ {
+  "id": "p17",
+  "date": "2026-12-02T17:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "three questions for <em>anything you're dreading.</em>",
+    "bg": ""
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "is the deadline real?",
+    "p": [
+     "a date someone else set, not one you set in a hopeful moment."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "does anyone notice if it moves?",
+    "p": [
+     "if not, give it a new date and let it go for now."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "can a smaller version count?",
+    "p": [
+     "send the outline, not the deck."
+    ]
+   },
+   {
+    "shared": "cta-reset"
+   }
+  ],
+  "caption": "three questions for anything you're dreading.\n\nis the deadline real? does anyone notice if it moves? can a smaller version count? one honest answer often makes the task shrink.\n\nsave this for the next heavy item on the list.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #decemberplanning #executivefunction #focusprotocol"
+ },
+ {
+  "id": "p18",
+  "date": "2026-12-03T08:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "give your weekly review <em>ten minutes.</em>",
+    "bg": "",
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "what moved?",
+    "p": [
+     "write it down. it counts."
+    ],
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "how much room does next week have?",
+    "p": [
+     "1 to 5. that number decides short list or full list."
+    ],
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "what's the short list?",
+    "p": [
+     "three tasks, in order. done on sunday, not monday at 9."
+    ],
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "shared": "cta-core"
+   }
+  ],
+  "caption": "give your weekly review ten minutes.\n\ntry three questions: what moved, how much room does next week have, and what belongs on the short list? FOCUS+ Core includes a weekly review module.\n\nFOCUS+ Core is our own product: a Notion workspace, €27 one-time, 14-day money-back guarantee. the filled-in demo is public at focus-plus.space (link in bio).\n\n#notiontemplate #notionplanner #adhdwomen #focusprotocol"
+ },
+ {
+  "id": "p19",
+  "date": "2026-12-06T18:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "seven days. <em>free, by email.</em>",
+    "bg": "ivory2"
+   }
+  ],
+  "caption": "seven days. free, by email.\n\nthe 7-Day Cycle Reset is free. day one starts with one question, followed by a ten-minute protocol. read day one on the site before you sign up.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #executivefunction #weeklyplanning #focusprotocol"
+ },
+ {
+  "id": "p20",
+  "date": "2026-12-07T18:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "work, home and december <em>in one place.</em>",
+    "bg": ""
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "one list, not three.",
+    "p": [
+     "the work list, the home list and the december list compete anyway. let them compete in the open."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "tag by who it's for.",
+    "p": [
+     "work, family, you. you'll see where the week went."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "pick the top three across all of it.",
+    "p": [
+     "one list, one order."
+    ]
+   },
+   {
+    "shared": "cta-reset"
+   }
+  ],
+  "caption": "work, home and december in one place.\n\nput the three lists together to compare the week's commitments. tag each line by who it's for, then pick the week's top three across everything.\n\nsave this for sunday.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #decemberplanning #executivefunction #focusprotocol"
+ },
+ {
+  "id": "p21",
+  "date": "2026-12-08T11:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "a brain dump isn't a to-do list. <em>it's a parking lot.</em>",
+    "bg": "sage"
+   }
+  ],
+  "caption": "a brain dump isn't a to-do list. it's a parking lot.\n\nempty your head onto one page, then sort it later: keep, park, drop. nothing on that page is a promise yet.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #executivefunction #weeklyplanning #focusprotocol"
+ },
+ {
+  "id": "p22",
+  "date": "2026-12-09T17:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "start smaller than <em>feels serious.</em>",
+    "bg": ""
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "set a timer for two minutes.",
+    "p": [
+     "try two minutes, and make the step smaller if you need to."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "do only the first physical action.",
+    "p": [
+     "open, write, dial. one thing."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "stopping still counts.",
+    "p": [
+     "you started. tomorrow begins from there."
+    ]
+   },
+   {
+    "shared": "cta-reset"
+   }
+  ],
+  "caption": "start smaller than feels serious.\n\ntwo minutes. one physical action. and stopping afterwards still counts as started.\n\nsave this for the task you've moved three times.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #executivefunction #weeklyplanning #focusprotocol"
+ },
+ {
+  "id": "p23",
+  "date": "2026-12-10T08:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "where the open loops <em>go.</em>",
+    "bg": "",
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "the brain dump page.",
+    "p": [
+     "one place to empty your head, any time of day."
+    ],
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "sort it during your weekly review.",
+    "p": [
+     "try three labels: keep, park or drop."
+    ],
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "a place for your open loops.",
+    "p": [
+     "written down, with somewhere to go."
+    ],
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "shared": "cta-core"
+   }
+  ],
+  "caption": "where the open loops go.\n\nFOCUS+ Core includes a brain dump page and a weekly review. try using the review to decide what to keep, park or drop.\n\nFOCUS+ Core is our own product: a Notion workspace, €27 one-time, 14-day money-back guarantee. the filled-in demo is public at focus-plus.space (link in bio).\n\n#notiontemplate #notionplanner #adhdwomen #focusprotocol"
+ },
+ {
+  "id": "p24",
+  "date": "2026-12-13T18:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "next week's short list, written <em>on sunday.</em>",
+    "bg": "rose"
+   }
+  ],
+  "caption": "next week's short list, written on sunday.\n\nan example: 1. send the budget draft. 2. book january's planning day. 3. one hour on the website text. three lines, in order. the rest of the week is room.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #decemberplanning #executivefunction #focusprotocol"
+ },
+ {
+  "id": "p25",
+  "date": "2026-12-14T18:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "before the break: <em>leave a note for january you.</em>",
+    "bg": ""
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "where did you stop?",
+    "p": [
+     "the file, the page, the last thing you did."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "what's the next action?",
+    "p": [
+     "one line. specific enough to start cold."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "what can she ignore?",
+    "p": [
+     "write it down so she doesn't have to decide again."
+    ]
+   },
+   {
+    "shared": "cta-reset"
+   }
+  ],
+  "caption": "before the break: leave a note for january you.\n\nwhere you stopped, the next action, and what she can safely ignore. three lines to refer to on the first workday back.\n\nsave this for your last day before the break.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #decemberplanning #executivefunction #focusprotocol"
+ },
+ {
+  "id": "p26",
+  "date": "2026-12-15T11:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "finish it or park it. <em>give it a clear status.</em>",
+    "bg": "ivory2"
+   }
+  ],
+  "caption": "finish it or park it. give it a clear status.\n\na half-open task keeps asking for attention. finish it, or park it with a date and a next step. both close the loop.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #executivefunction #weeklyplanning #focusprotocol"
+ },
+ {
+  "id": "p27",
+  "date": "2026-12-16T17:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "the list you're allowed <em>not to do.</em>",
+    "bg": ""
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "write a \"not this month\" list.",
+    "p": [
+     "everything that's real, but not now."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "give each item a date.",
+    "p": [
+     "the day you'll look again. then stop looking."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "say no once, in writing.",
+    "p": [
+     "write down what you're declining, and when, if ever, you'll revisit it."
+    ]
+   },
+   {
+    "shared": "cta-reset"
+   }
+  ],
+  "caption": "the list you're allowed not to do.\n\na \"not this month\" list, with a date on each line. it isn't giving up. it's choosing the order.\n\nsave this for the next \"can you also…\"\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #decemberplanning #executivefunction #focusprotocol"
+ },
+ {
+  "id": "p28",
+  "date": "2026-12-17T08:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "four daily templates. <em>one click to switch.</em>",
+    "bg": "",
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "one template per phase.",
+    "p": [
+     "each with its own structure and rules for the day."
+    ],
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "a fallback in each.",
+    "p": [
+     "for the days your energy is at 2 out of 5."
+    ],
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "not tracking your cycle?",
+    "p": [
+     "pin a phase manually, or use the energy variant."
+    ],
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "shared": "cta-core"
+   }
+  ],
+  "caption": "four daily templates. one click to switch.\n\nFOCUS+ Core has one daily template per phase, each with a smaller fallback. not tracking a cycle? pin a phase manually or use the energy variant.\n\nFOCUS+ Core is our own product: a Notion workspace, €27 one-time, 14-day money-back guarantee. the filled-in demo is public at focus-plus.space (link in bio).\n\n#notiontemplate #notionplanner #adhdwomen #focusprotocol"
+ },
+ {
+  "id": "p29",
+  "date": "2026-12-20T18:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "a gift for january you: <em>one specific line.</em>",
+    "bg": "sage"
+   }
+  ],
+  "caption": "a gift for january you: one specific line.\n\n\"open the client folder and reply to anna\" beats \"get back on track\". write the line now, while you still know what it means.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #decemberplanning #executivefunction #focusprotocol"
+ },
+ {
+  "id": "p30",
+  "date": "2026-12-21T18:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "an irregular week gets <em>a smaller plan.</em>",
+    "bg": ""
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "plan days, not hours.",
+    "p": [
+     "which days are work days this week? start there."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "one must-do per day, at most.",
+    "p": [
+     "some days have none. that's allowed."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "the rest is a bonus.",
+    "p": [
+     "not a debt that carries into january."
+    ]
+   },
+   {
+    "shared": "cta-reset"
+   }
+  ],
+  "caption": "an irregular week gets a smaller plan.\n\nplan days, not hours. one must-do per day at most. everything else is a bonus, not a debt.\n\nsave this for the in-between weeks.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #decemberplanning #executivefunction #focusprotocol"
+ },
+ {
+  "id": "p31",
+  "date": "2026-12-22T11:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "not everyone is on holiday. <em>plan the week you actually have.</em>",
+    "bg": "rose"
+   }
+  ],
+  "caption": "not everyone is on holiday. plan the week you actually have.\n\nworking through the holidays, travelling, hosting, or just an ordinary week: the same rule holds. rate the room you have, then choose the list that fits.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdwomen #decemberplanning #executivefunction #focusprotocol"
+ },
+ {
+  "id": "p32",
+  "date": "2026-12-23T17:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "uneven days are <em>still days.</em>",
+    "bg": ""
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "a full day.",
+    "p": [
+     "run the full list."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "a half day.",
+    "p": [
+     "short list. three lines."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "no day.",
+    "p": [
+     "nothing planned. nothing owed."
+    ]
+   },
+   {
+    "shared": "cta-save"
+   }
+  ],
+  "caption": "uneven days are still days.\n\nfull day, full list. half day, short list. no day, nothing owed. decide which one it is in the morning, then stop deciding.\n\nsave this for the next uneven week.\n\n#adhdwomen #decemberplanning #executivefunction #focusprotocol"
+ },
+ {
+  "id": "p33",
+  "date": "2026-12-26T18:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "a quiet week can have <em>a stopping point, too.</em>",
+    "bg": "ivory2"
+   }
+  ],
+  "caption": "a quiet week can have a stopping point, too.\n\ndecide when work is done for the year, write it down, and close the laptop on that day.\n\n#adhdwomen #executivefunction #weeklyplanning #focusprotocol"
+ },
+ {
+  "id": "p34",
+  "date": "2026-12-27T18:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "one look ahead, <em>ten minutes.</em>",
+    "bg": ""
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "what's fixed?",
+    "p": [
+     "dates, people, deadlines that don't move."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "what's the first workday's one task?",
+    "p": [
+     "one line, specific enough to start cold."
+    ]
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "how do you want to start?",
+    "p": [
+     "the free 7-day reset begins whenever you do."
+    ]
+   },
+   {
+    "shared": "cta-reset"
+   }
+  ],
+  "caption": "one look ahead, ten minutes.\n\nwhat's fixed, what the first workday's one task is, and how you want the first week to start.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#newyearplanning #adhdwomen #notiontemplate #focusprotocol"
+ },
+ {
+  "id": "p35",
+  "date": "2026-12-28T18:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "start january with a protocol, <em>not a resolution.</em>",
+    "bg": "",
+    "eyebrow": "january protocol"
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "a resolution is a wish with a date.",
+    "p": [
+     "a protocol is what you do on an ordinary tuesday."
+    ],
+    "eyebrow": "january protocol"
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "start with day one.",
+    "p": [
+     "one question, then a ten-minute protocol."
+    ],
+    "eyebrow": "january protocol"
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "free, by email.",
+    "p": [
+     "no card. start the day you choose."
+    ],
+    "eyebrow": "january protocol"
+   },
+   {
+    "shared": "cta-reset"
+   }
+  ],
+  "caption": "start january with a protocol, not a resolution.\n\na resolution is a wish with a date. a protocol is what you do on an ordinary tuesday. the 7-Day Cycle Reset starts with one question, followed by a ten-minute protocol on day one.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#newyearplanning #adhdwomen #notiontemplate #focusprotocol"
+ },
+ {
+  "id": "p36",
+  "date": "2026-12-29T11:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "day one, <em>at a glance.</em>",
+    "bg": "",
+    "eyebrow": "january protocol"
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "one question, sixty seconds.",
+    "p": [
+     "what is the actual state of my brain today?"
+    ],
+    "eyebrow": "january protocol"
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "ten minutes at most.",
+    "p": [
+     "check your data. name your phase. set one intention."
+    ],
+    "eyebrow": "january protocol"
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "that's the whole day.",
+    "p": [
+     "read day one on the site before you sign up."
+    ],
+    "eyebrow": "january protocol"
+   },
+   {
+    "shared": "cta-reset"
+   }
+  ],
+  "caption": "day one, at a glance.\n\none question, sixty seconds: what is the actual state of my brain today? then ten minutes at most: check your data, name your phase, set one intention. you can read day one on the site before you sign up.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#newyearplanning #adhdwomen #notiontemplate #focusprotocol"
+ },
+ {
+  "id": "p37",
+  "date": "2026-12-30T08:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "energy 3 of 5. one intention. <em>done by 09:10.</em>",
+    "bg": "sage",
+    "eyebrow": "january protocol"
+   }
+  ],
+  "caption": "energy 3 of 5. one intention. done by 09:10.\n\nan example of a first reset morning: ask what state your brain is in today. check your data, name your phase and set one intention. an energy rating of 3 out of 5 could be part of your check-in.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#newyearplanning #adhdwomen #notiontemplate #focusprotocol"
+ },
+ {
+  "id": "p38",
+  "date": "2026-12-30T17:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "after the reset, <em>the full system.</em>",
+    "bg": "",
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "type": "body",
+    "num": "01",
+    "h": "the reset is seven days.",
+    "p": [
+     "free, by email. day one starts with one question."
+    ],
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "type": "body",
+    "num": "02",
+    "h": "Core is the workspace you keep.",
+    "p": [
+     "14 pages, 6 linked databases, four daily phase protocols."
+    ],
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "type": "body",
+    "num": "03",
+    "h": "€27, one-time.",
+    "p": [
+     "lifetime updates. 14-day money-back guarantee."
+    ],
+    "eyebrow": "FOCUS+ Core"
+   },
+   {
+    "shared": "cta-core"
+   }
+  ],
+  "caption": "after the reset, the full system.\n\nstart with the free 7-Day Cycle Reset. if you want the structure to stay, FOCUS+ Core is the workspace you keep.\n\nFOCUS+ Core is our own product: a Notion workspace, €27 one-time, 14-day money-back guarantee. the filled-in demo is public at focus-plus.space (link in bio).\n\n#newyearplanning #adhdwomen #notiontemplate #focusprotocol"
+ },
+ {
+  "id": "p39",
+  "date": "2026-12-31T11:00:00Z",
+  "slides": [
+   {
+    "type": "hook",
+    "text": "no big plan for tomorrow. <em>just a first morning.</em>",
+    "bg": "rose",
+    "eyebrow": "january protocol"
+   }
+  ],
+  "caption": "no big plan for tomorrow. just a first morning.\n\none question, ten minutes, when you're ready. the reset waits for you.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#newyearplanning #adhdwomen #notiontemplate #focusprotocol"
+ }
+]
