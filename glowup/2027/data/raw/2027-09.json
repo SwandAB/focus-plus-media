@@ -1,0 +1,1494 @@
+[
+  {
+    "id": "2027-09-01-R-B",
+    "date": "2027-09-01",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 35,
+    "week_theme": "the september list, written in august",
+    "month_theme": "Back to structure",
+    "pillar": "P2",
+    "format": "ett-verktyg",
+    "avatar": false,
+    "hook_lines": [
+      "write september's list on one card.",
+      "only what has a date attached.",
+      "everything else waits on a second card."
+    ],
+    "start_frame_prompt": "Top-down view of a single ivory index card on a pale oak desk, a graphite pencil laid diagonally across it, a second blank card set slightly apart, a folded linen napkin at the edge, a sprig of dried eucalyptus in a small ceramic vase in the corner, morning daylight from a north window casting long soft shadows, vertical composition with calm empty space in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Static overhead camera with a very slow push-in; a hand enters from the right, writes three short pencil strokes on the first card, then slides the second card further away across the oak surface, soft daylight stays steady, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "soft piano minimal",
+    "caption": "september fits on one card if you let it.\n\nwrite only what has a date attached: deadlines, appointments, the few things that cannot move. everything else goes on a second card that you read once a week, not every morning. the first card is the structure. the second card is the waiting room.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyplanning #adhdplanning #focusprotocol",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-09-02-C-3",
+    "date": "2027-09-02",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 35,
+    "week_theme": "the september list, written in august",
+    "month_theme": "Back to structure",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "A folded oat wool throw over the arm of a linen sofa, a small notebook lying open on it with a pencil resting in the gutter, a stoneware cup of tea on a low oak side table, late afternoon nordic daylight filtered through sheer curtains, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "the september list <em>in three lines</em>",
+        "sub": "the low-energy edition, for weeks when a full list is too much."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "three lines, not thirty.",
+        "p": [
+          "write the three dated things september cannot skip. that is the whole list for now."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "one line for later.",
+        "p": [
+          "add a single line that reads 'everything else: sunday'. it holds the rest without sorting it."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "write it on the sofa.",
+        "p": [
+          "a list made lying down still counts. the structure matters more than the setting."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "a september list for low days: three lines.\n\nwrite the three dated things this month cannot skip. add one line that reads 'everything else: sunday'. then stop. the list is short on purpose, so it still works on a day with little room in it.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #adhdwomen #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-09-03-C-4",
+    "date": "2027-09-03",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 35,
+    "week_theme": "the september list, written in august",
+    "month_theme": "Back to structure",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "A pale oak desk by a tall window, an unbranded laptop whose screen shows a softly blurred Notion page layout with no readable words, a linen-bound notebook closed beside it, a stoneware mug and a small dish holding a brass pen, early autumn morning light falling across the desk, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "september, <em>set up once</em> in FOCUS+ Core",
+        "sub": "14 pages, 6 databases, built in Notion."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "14 pages, 6 databases.",
+        "p": [
+          "the structure is already built in Notion. september starts inside it, not on a blank page."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "4 phase protocols.",
+        "p": [
+          "each one comes with a low-energy fallback, so a heavier week has a version too."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "pin what fits now.",
+        "p": [
+          "pin your phase or energy variant. switch protocols with one click when the month shifts."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "€27, one time.",
+        "p": [
+          "14-day money-back. the public demo is open if you want to look first."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "september, set up once.\n\nFOCUS+ Core is our own product. it is a Notion system with 14 pages, 6 databases and 4 phase protocols, each with a low-energy fallback. pin the phase or energy variant that fits this week, and switch protocols with one click when that changes. the one-card september list from this week fits right inside it.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #focusprotocol",
+    "cta": "core"
+  },
+  {
+    "id": "2027-09-04-R-C",
+    "date": "2027-09-04",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 35,
+    "week_theme": "the september list, written in august",
+    "month_theme": "Back to structure",
+    "pillar": "P4",
+    "format": "loop",
+    "avatar": false,
+    "hook_lines": [
+      "the list was written last week.",
+      "today you only read it.",
+      "deciding is done. starting is what's left."
+    ],
+    "start_frame_prompt": "An ivory index card propped against a stoneware mug of coffee on an oak desk, a thin line of steam rising, a wool cardigan draped over the chair back, soft north window light from the left, a ceramic bowl of pears in the soft background, vertical composition with calm empty space in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Static locked-off camera; steam rises from the mug, a hand lifts the card, holds it for a moment, then props it back against the mug exactly where it was, light shifts softly, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "warm ambient strings",
+    "caption": "you wrote the list last week. today you only read it.\n\nthat is the point of writing it early: the deciding happened on a calmer day, and only the starting happens on this one. prop the card where your morning cup goes. read it before you open anything else.\n\nsave this for the first monday of september.\n\n#executivefunction #adhdplanning #weeklyplanning",
+    "cta": "save"
+  },
+  {
+    "id": "2027-09-05-C-5",
+    "date": "2027-09-05",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 35,
+    "week_theme": "the september list, written in august",
+    "month_theme": "Back to structure",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "A linen tablecloth on a round oak kitchen table, an open notebook with a pencil, a glass carafe of water and one glass, a small ceramic dish of blackberries, evening light from a low window, a folded grey knit on the chair, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "four lines before september <em>starts properly</em>",
+        "sub": "a sunday review for the week the month turns."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "what carried over from august?",
+        "p": [
+          "list it without judging it. carried over is information."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "what has a date?",
+        "p": [
+          "move dated items onto monday's card first."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "what can wait until october?",
+        "p": [
+          "write it down so it stops asking for attention this week."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "what is the first step tomorrow?",
+        "p": [
+          "one line, specific enough to start at nine."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "four lines before september starts properly.\n\nwhat carried over from august. what has a date. what can wait until october. what the first step is tomorrow. write each on its own line, ten minutes, no more. the review is a sorting task, not a verdict on the summer.\n\nsave this for sunday evening.\n\n#weeklyreview #weeklyplanning #adhdwomen",
+    "cta": "save"
+  },
+  {
+    "id": "2027-09-06-C-1",
+    "date": "2027-09-06",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 36,
+    "week_theme": "inside the system: pages and databases",
+    "month_theme": "Build the stack",
+    "pillar": "P5",
+    "avatar": true,
+    "cover_prompt": "A woman seated at a pale oak desk by a window, one hand on the trackpad of a laptop with a softly blurred screen, minimal natural makeup, no-makeup look, relaxed hair down, wearing an oat ribbed knit sweater, calm expression, three-quarter view, looking away off-frame toward the window, medium shot from chest up, a stoneware mug on the desk, overcast morning light, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "14 pages and 6 databases, <em>seen from outside</em>",
+        "sub": "what the structure of FOCUS+ Core looks like before you open it."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "14 pages.",
+        "p": [
+          "one system, built in Notion. you can look through it in the public demo."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "6 databases.",
+        "p": [
+          "they sit underneath the pages. you start with structure, not an empty table."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "4 phase protocols.",
+        "p": [
+          "each with a low-energy fallback. one click switches between them."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "look first.",
+        "p": [
+          "the public demo is open. decide after you have seen it."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "14 pages and 6 databases: what that means before you open it.\n\nFOCUS+ Core is our own product. it is built in Notion. the structure is 14 pages with 6 databases underneath, plus 4 phase protocols, each with a low-energy fallback. you can pin the variant that fits now. the public demo lets you look through it before you decide anything.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #focusprotocol #adhdplanning",
+    "cta": "demo"
+  },
+  {
+    "id": "2027-09-06-R-A",
+    "date": "2027-09-06",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 36,
+    "week_theme": "inside the system: pages and databases",
+    "month_theme": "Build the stack",
+    "pillar": "P4",
+    "format": "tre-rader",
+    "avatar": true,
+    "hook_lines": [
+      "your notes live in six places.",
+      "none of them know about the others.",
+      "one structure means one place to look."
+    ],
+    "start_frame_prompt": "A woman at a kitchen table by a window, gathering scattered blank paper notes into one neat stack with both hands, minimal natural makeup, no-makeup look, relaxed hair down, wearing an ivory chunky knit sweater, focused expression, side profile, candid mid-action, medium shot from chest up, a closed laptop, a ceramic cup and a linen-bound notebook on the table, soft overcast nordic daylight, vertical composition with calm empty space in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Gentle handheld drift from the side; her hands slide the loose notes together and lay the stack on the notebook, she keeps her gaze on the papers, eyes down, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "minimal piano pulse",
+    "caption": "notes in six places, and none of them know about each other.\n\nwhen a task lives in a chat, a notes app, a paper pad and an inbox, starting means searching first. pick one place for this week. move only what has a date. the rest can stay where it is until sunday.\n\nsend this to the friend with notes in six different apps.\n\n#executivefunction #adhdwomen #notionsetup",
+    "cta": "send"
+  },
+  {
+    "id": "2027-09-07-C-2",
+    "date": "2027-09-07",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 36,
+    "week_theme": "inside the system: pages and databases",
+    "month_theme": "Build the stack",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "Overhead view of two sheets of heavy ivory paper on an oak table, one with seven faint pencil rows, the other blank, a wooden ruler and a pencil between them, a sage linen napkin at the corner, even daylight from above, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "one page for the week, <em>one list</em> for the rest",
+        "sub": "the simplest version of pages and databases, on paper or in Notion."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "the week page.",
+        "p": [
+          "seven short rows, one per day. dated things only."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "the holding list.",
+        "p": [
+          "everything undated goes here. you read it on sunday, not daily."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "one bridge between them.",
+        "p": [
+          "on sunday, move up to three items from the list into the week."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "leave the rest.",
+        "p": [
+          "an item that waits a month is telling you something. note it in the review."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "one page for the week, one list for the rest.\n\nthat is pages and databases at their smallest. the week page holds seven rows and only dated things. the holding list holds everything else and gets read once, on sunday. each sunday, up to three items move across. the structure stays small enough to keep.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyplanning #notionsetup #adhdplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-09-08-R-B",
+    "date": "2027-09-08",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 36,
+    "week_theme": "inside the system: pages and databases",
+    "month_theme": "Build the stack",
+    "pillar": "P5",
+    "format": "ett-verktyg",
+    "avatar": false,
+    "hook_lines": [
+      "14 pages you can see first.",
+      "the FOCUS+ demo is public.",
+      "decide after the structure, not before it."
+    ],
+    "start_frame_prompt": "An unbranded laptop whose screen shows a softly blurred notion page layout with no readable words on a pale oak desk, a hand resting lightly on the trackpad, a stoneware mug beside it, a folded linen cloth and a pencil, soft side light from a north window in early autumn, vertical composition with calm empty space in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Slow push-in toward the laptop; two fingers glide on the trackpad and the blurred page layout on the screen scrolls gently, then the hand lifts away and rests on the desk, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "soft lo-fi keys",
+    "caption": "14 pages you can look through before you pay.\n\nFOCUS+ Core is our own product. it is built in Notion: 14 pages, 6 databases, 4 phase protocols with a low-energy fallback. the demo is public. open it, click through the pages, check whether the structure fits how you plan. then decide.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #focusprotocol",
+    "cta": "demo"
+  },
+  {
+    "id": "2027-09-09-C-3",
+    "date": "2027-09-09",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 36,
+    "week_theme": "inside the system: pages and databases",
+    "month_theme": "Build the stack",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "A low oak side table next to a linen armchair, an unbranded laptop whose screen shows a softly blurred Notion page layout with no readable words half closed on it, a single sheet of paper with three pencil rows beside it, a grey wool blanket, dim soft morning light through linen curtains, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "on a low day, <em>open one page</em> only",
+        "sub": "a system is allowed to be mostly closed."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "open the page with today on it.",
+        "p": [
+          "not the inbox, not the project board. just today."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "hide the rest.",
+        "p": [
+          "close the tabs, collapse the sidebar. fewer things to decide about."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "three rows maximum.",
+        "p": [
+          "if today holds more, move the extras to tomorrow before you start."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "on a low day, open one page and close the rest.\n\na full system is useful on a good day and loud on a hard one. open only the page with today on it. close the tabs, collapse the sidebar. if today holds more than three rows, move the extras to tomorrow before you start, not after.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #notionsetup #adhdwomen",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-09-10-C-4",
+    "date": "2027-09-10",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 36,
+    "week_theme": "inside the system: pages and databases",
+    "month_theme": "Build the stack",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "A tidy oak desk seen from slightly above, an unbranded laptop whose screen shows a softly blurred Notion page layout with no readable words, a stack of three linen-bound notebooks pushed to one side, a ceramic pencil cup and a sprig of dried grass in a small vase, calm morning daylight, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "the parts of a Notion system <em>you skip building</em>",
+        "sub": "FOCUS+ Core starts with the structure in place."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "the pages.",
+        "p": [
+          "14 of them, already set up in Notion."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "the databases.",
+        "p": [
+          "6, already in place underneath the pages."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "the protocols.",
+        "p": [
+          "4 phase protocols, each with a low-energy fallback, one click between them."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "the price.",
+        "p": [
+          "€27 one-time, 14-day money-back. the demo is public."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "the parts of a Notion system you skip building.\n\nFOCUS+ Core is our own product. the 14 pages and 6 databases are already in place. the 4 phase protocols are written, each with a low-energy fallback, and one click switches between them. the setup evening goes to planning your week instead of designing tables.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #weeklyplanning",
+    "cta": "demo"
+  },
+  {
+    "id": "2027-09-11-R-C",
+    "date": "2027-09-11",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 36,
+    "week_theme": "inside the system: pages and databases",
+    "month_theme": "Build the stack",
+    "pillar": "P4",
+    "format": "loop",
+    "avatar": false,
+    "hook_lines": [
+      "one place to look.",
+      "the same place every morning.",
+      "the habit is the place, not the effort."
+    ],
+    "start_frame_prompt": "A linen-bound notebook lying closed in the same corner of an oak desk under a window, a ceramic mug of tea beside it, a wool throw on the chair, early morning nordic light, a small linen runner under the notebook, vertical composition with calm empty space in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Static locked-off camera; a hand opens the notebook, smooths the page flat with the palm, rests for a moment, then closes it and leaves it exactly in its place, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "calm piano minimal",
+    "caption": "one place to look, the same place every morning.\n\nthe routine is the location. same notebook, same corner of the desk, same page for today. when the place is fixed, the first minute needs no decision. open it, read three rows, begin.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#adhdplanning #executivefunction #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-09-12-C-5",
+    "date": "2027-09-12",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 36,
+    "week_theme": "inside the system: pages and databases",
+    "month_theme": "Build the stack",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "A sunday evening oak desk with a single open notebook, a pencil and a ceramic tea bowl, a table lamp with a linen shade casting warm light, a window showing soft blue dusk, a folded ivory knit on the chair, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "review the <em>structure</em> this sunday, not your effort",
+        "sub": "three questions about where your plans live."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "where did tasks get lost?",
+        "p": [
+          "name the place: a chat, a sticky note, a tab left open."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "which page did you actually open?",
+        "p": [
+          "keep that one. it earned its place."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "what can you remove?",
+        "p": [
+          "one list, one app, one board. fewer places to check on monday."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "review the structure this sunday, not your effort.\n\nthree questions. where did tasks get lost this week? which page did you actually open every day? what can you remove before monday? write one line per answer. the aim is fewer places to check, not more discipline.\n\nsave this for sunday evening.\n\n#weeklyreview #notionsetup #adhdwomen",
+    "cta": "save"
+  },
+  {
+    "id": "2027-09-13-C-1",
+    "date": "2027-09-13",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 37,
+    "week_theme": "four phase protocols, one switch",
+    "month_theme": "Build the stack",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "Four shallow stoneware dishes in a row on a pale oak table, glazed in ivory, sage, dusty rose and warm charcoal, a single brass key resting beside the first, soft morning daylight from a side window, linen cloth underneath, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "four protocols, <em>one switch</em>",
+        "sub": "how FOCUS+ Core handles a month that is not flat."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "4 phase protocols.",
+        "p": [
+          "four ways to plan a week, written in advance."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "each with a fallback.",
+        "p": [
+          "every protocol has a low-energy version for the days with less room."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "one click.",
+        "p": [
+          "switching between protocols is one click, not a rebuild."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "pin what fits.",
+        "p": [
+          "pin your phase or energy variant for the week."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "four protocols, one switch.\n\nFOCUS+ Core is our own product. it holds 4 phase protocols, each with a low-energy fallback. if your energy shifts across the month, you switch protocols with one click instead of rebuilding the week, and pin the variant that fits. start with the free guide if you want to track your own pattern first.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#cycleawareplanning #notiontemplate #focusprotocol",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-09-13-R-A",
+    "date": "2027-09-13",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 37,
+    "week_theme": "four phase protocols, one switch",
+    "month_theme": "Build the stack",
+    "pillar": "P3",
+    "format": "tre-rader",
+    "avatar": false,
+    "hook_lines": [
+      "one plan, four different weeks.",
+      "that is where it keeps breaking.",
+      "plan for the week you're in."
+    ],
+    "start_frame_prompt": "Four index cards laid in a row on an oak desk, each tinted a different muted shade of ivory, sage, dusty rose and charcoal, a hand hovering above the second card, a ceramic mug at the edge, soft diffuse window light, vertical composition with calm empty space in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Slow push-in from above; the hand slides the second card forward out of the row and draws back to rest beside the mug, daylight stays even, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "soft ambient piano",
+    "caption": "one plan, used for four different weeks.\n\nif your energy shifts across the month, a single weekly template will fit some weeks and fight others. track your own pattern for one cycle with a number from 1 to 5 each evening. then write a lighter and a fuller version of the week, and choose between them on sunday.\n\nsend this to the friend who keeps rewriting the same plan.\n\n#cycleawareplanning #weeklyplanning #adhdwomen",
+    "cta": "send"
+  },
+  {
+    "id": "2027-09-14-C-2",
+    "date": "2027-09-14",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 37,
+    "week_theme": "four phase protocols, one switch",
+    "month_theme": "Build the stack",
+    "pillar": "P3",
+    "avatar": false,
+    "cover_prompt": "Two open notebooks side by side on a linen-covered table, one page densely planned in faint pencil marks too small to read, the other with only three short lines, a pencil laid between them, a stoneware cup, gentle morning window light, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "write next week <em>twice:</em> full and light",
+        "sub": "a step-by-step for planning around your own pattern."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "track first.",
+        "p": [
+          "for one month, note energy 1 to 5 each evening. no analysis yet."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "find your pattern.",
+        "p": [
+          "look for runs of lower and higher days. yours, not an average."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "write two versions.",
+        "p": [
+          "a full week and a light week, both with the same three must-dos."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "choose on sunday.",
+        "p": [
+          "pick the version that matches the days ahead. switching is part of the plan."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "write next week twice: one full, one light.\n\nstep one, track energy 1 to 5 each evening for a month. step two, look for your own runs of lower and higher days. step three, write a full and a light version of the week with the same three must-dos. step four, choose on sunday. switching is part of the structure.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#cycleawareplanning #weeklyplanning #focusprotocol",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-09-15-R-B",
+    "date": "2027-09-15",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 37,
+    "week_theme": "four phase protocols, one switch",
+    "month_theme": "Build the stack",
+    "pillar": "P5",
+    "format": "ett-verktyg",
+    "avatar": false,
+    "hook_lines": [
+      "one click between two weeks.",
+      "full protocol monday. fallback by thursday.",
+      "the plan bends instead of breaking."
+    ],
+    "start_frame_prompt": "An unbranded laptop whose screen shows a softly blurred notion page layout with no readable words on an oak desk, a hand resting on the trackpad, a stoneware mug with faint steam, a sage linen napkin and a pencil, soft afternoon light from a tall window, vertical composition with calm empty space in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Static camera with a slight push-in; one finger taps the trackpad once, the blurred screen glow shifts softly, the hand lifts and picks up the mug, steam drifts upward, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "minimal electronic calm",
+    "caption": "one click between two versions of your week.\n\nFOCUS+ Core is our own product. each of its 4 phase protocols has a low-energy fallback, and switching protocols is one click. a week can start on the full protocol and move to the fallback by thursday without a rebuild. that change is planned for, not a lapse.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#notiontemplate #cycleawareplanning #lowenergydays",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-09-16-C-3",
+    "date": "2027-09-16",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 37,
+    "week_theme": "four phase protocols, one switch",
+    "month_theme": "Build the stack",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "A single sheet of ivory paper on a wool blanket with several pencil lines struck through and one line left untouched, a pencil resting on top, a ceramic cup of tea nearby, low soft morning light on a linen bed, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "when switching plans is <em>too much effort</em>",
+        "sub": "the smallest version of changing course on a hard day."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "say it to yourself.",
+        "p": [
+          "'light version today.' that sentence is the switch."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "cross out, don't rewrite.",
+        "p": [
+          "draw one line through the extras. no new list needed."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "keep one anchor.",
+        "p": [
+          "one task that happens on full days and light days alike."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "when even switching plans feels like too much.\n\non a hard day, skip the rewrite. say 'light version today', draw one line through the extras, and keep a single anchor task, the one that happens on full days and light days alike. that is the whole switch.\n\nsave this for the next day with less room.\n\n#lowenergydays #adhdwomen #executivefunction",
+    "cta": "save"
+  },
+  {
+    "id": "2027-09-17-C-4",
+    "date": "2027-09-17",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 37,
+    "week_theme": "four phase protocols, one switch",
+    "month_theme": "Build the stack",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "A calm workspace with an unbranded laptop whose screen shows a softly blurred Notion page layout with no readable words on an oak desk, four small linen-bound notebooks stacked beside it in ivory, sage, dusty rose and charcoal, a ceramic cup, soft north light, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "four protocols you can look at <em>before buying</em>",
+        "sub": "a closer look at the switch inside FOCUS+ Core."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "four, not forty.",
+        "p": [
+          "4 phase protocols. a short set, chosen on purpose."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "every one has a floor.",
+        "p": [
+          "each protocol includes a low-energy fallback."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "pinned, then switched.",
+        "p": [
+          "pin your phase or energy variant. switch protocols with one click."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "€27, once.",
+        "p": [
+          "one-time price, 14-day money-back, public demo to look first."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "four protocols you can look through before you buy.\n\nFOCUS+ Core is our own product. it holds 4 phase protocols, each with a low-energy fallback. pin the phase or energy variant that fits now and switch with one click when that changes. it is built in Notion with 14 pages and 6 databases.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #cycleawareplanning #focusprotocol",
+    "cta": "core"
+  },
+  {
+    "id": "2027-09-18-R-C",
+    "date": "2027-09-18",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 37,
+    "week_theme": "four phase protocols, one switch",
+    "month_theme": "Build the stack",
+    "pillar": "P3",
+    "format": "loop",
+    "avatar": true,
+    "hook_lines": [
+      "one number each evening.",
+      "after a month, it's your map.",
+      "plan the next one from it."
+    ],
+    "start_frame_prompt": "A woman sitting on a window seat in the evening, making a small pencil mark in a linen-bound notebook, too small to read, minimal natural makeup, no-makeup look, relaxed hair down, wearing a soft grey knit cardigan, contemplative expression, side profile, candid mid-action, medium shot from chest up, a ceramic cup of tea on the sill, a lamp glowing softly behind her, deep blue dusk outside, vertical composition with calm empty space in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Static locked-off camera; her hand closes the notebook and rests the pencil on top, eyes kept down on the notebook, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "quiet evening piano",
+    "caption": "one number each evening, for a month.\n\nwrite your energy from 1 to 5 before bed. no notes, no interpretation. after one month you have your own pattern on a single page, and you can plan next month's heavier work around the higher runs.\n\nsave this for the first evening of october.\n\n#cycleawareplanning #weeklyreview #adhdwomen",
+    "cta": "save"
+  },
+  {
+    "id": "2027-09-19-C-5",
+    "date": "2027-09-19",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 37,
+    "week_theme": "four phase protocols, one switch",
+    "month_theme": "Build the stack",
+    "pillar": "P3",
+    "avatar": true,
+    "cover_prompt": "A woman seated at a round oak table on a sunday evening, turning back the pages of a small notebook with faint marks too small to read, minimal natural makeup, no-makeup look, relaxed hair down, wearing an oat knit sweater, calm expression, over-the-shoulder view, medium shot from chest up, a lamp with a linen shade, a ceramic teapot and a pencil on the table, warm low light, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "which protocol fits <em>the week ahead?</em>",
+        "sub": "a sunday question for a month that isn't flat."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "look back seven days.",
+        "p": [
+          "read the evening numbers. circle the low runs."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "look ahead seven days.",
+        "p": [
+          "what is dated? what needs your fuller days?"
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "choose the version.",
+        "p": [
+          "full, light, or full with a fallback ready by midweek."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "which version of the plan fits the week ahead?\n\nlook back at seven evening numbers and circle the low runs. look ahead at what is dated and what needs fuller days. then choose: full, light, or full with a fallback ready by wednesday. one choice, written down, before monday.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyreview #cycleawareplanning #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-09-20-C-1",
+    "date": "2027-09-20",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 38,
+    "week_theme": "the low-energy fallback, shown",
+    "month_theme": "Build the stack",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "Two folded linen napkins on an oak shelf, one large and one small, a ceramic cup placed on the small one, a pencil and an index card tucked underneath, calm morning daylight from the side, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "what a fallback looks like <em>before you need it</em>",
+        "sub": "every protocol in FOCUS+ Core has one."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "written on a good day.",
+        "p": [
+          "the fallback exists before the hard day arrives."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "attached to every protocol.",
+        "p": [
+          "all 4 phase protocols include a low-energy version."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "pinned when you want it.",
+        "p": [
+          "pin your energy variant ahead of a heavy stretch."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "what a fallback looks like before you need it.\n\nFOCUS+ Core is our own product. every one of its 4 phase protocols includes a low-energy fallback, written in advance. if you can see a heavy stretch coming, pin the energy variant ahead of time. the decision is made on a good day, not on the hard one.\n\nsave this for the week that looks full.\n\n#lowenergydays #notiontemplate #focusprotocol",
+    "cta": "save"
+  },
+  {
+    "id": "2027-09-20-R-A",
+    "date": "2027-09-20",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 38,
+    "week_theme": "the low-energy fallback, shown",
+    "month_theme": "Build the stack",
+    "pillar": "P1",
+    "format": "fore-efter-listan",
+    "avatar": true,
+    "hook_lines": [
+      "write plan b on good days.",
+      "not at 3 pm when it's needed.",
+      "a fallback is a decision made early."
+    ],
+    "start_frame_prompt": "A woman standing at a pale oak kitchen counter, making small pencil marks on an index card next to a longer list, all marks too small to read, minimal natural makeup, no-makeup look, relaxed hair down, wearing an ivory knit sweater, focused expression, three-quarter view, looking down at the card, medium shot from chest up, a glass of water on the counter, overcast daylight, vertical composition with calm empty space in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Gentle handheld drift; her hand draws a line through most of the long list and slides the card under the glass, eyes on the paper the whole time, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "steady minimal beat",
+    "caption": "write plan b on a good day.\n\na fallback invented at 3 pm, already tired, is a scramble. a fallback written on a calm tuesday is a decision. take five minutes now: for each daily habit, write the smallest version that still counts. keep the card where you will see it.\n\nsend this to the friend who plans only for her best days.\n\n#lowenergydays #adhdwomen #executivefunction",
+    "cta": "send"
+  },
+  {
+    "id": "2027-09-21-C-2",
+    "date": "2027-09-21",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 38,
+    "week_theme": "the low-energy fallback, shown",
+    "month_theme": "Build the stack",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "A stack of ivory index cards on an oak desk, the top card with one short pencil line, a small hourglass of pale wood beside it, a ceramic cup, a sage linen cloth, diffuse late morning light, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "build a fallback for <em>any habit</em> in four steps",
+        "sub": "the smallest version, written in advance."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "name the full version.",
+        "p": [
+          "for example: thirty minutes of reading."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "cut it to a tenth.",
+        "p": [
+          "three minutes, or one page."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "decide the trigger.",
+        "p": [
+          "an evening number under 3, and the fallback applies tomorrow."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "count both.",
+        "p": [
+          "the fallback is the habit, not a missed day."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "a fallback for any habit, in four steps.\n\nname the full version. cut it to about a tenth. decide the trigger in advance, for example an energy rating under 3. then count the small version as done, in the same tracker as the full one. the habit keeps its shape on the weeks with less room.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #focusprotocol #adhdplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-09-22-R-B",
+    "date": "2027-09-22",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 38,
+    "week_theme": "the low-energy fallback, shown",
+    "month_theme": "Build the stack",
+    "pillar": "P5",
+    "format": "ett-verktyg",
+    "avatar": false,
+    "hook_lines": [
+      "the fallback is already pinned.",
+      "you pinned it on sunday.",
+      "monday only asks you to follow it."
+    ],
+    "start_frame_prompt": "Early monday morning at an oak desk, an unbranded laptop whose screen shows a softly blurred Notion page layout with no readable words already open, a stoneware mug just set down, a folded grey knit on the chair, pale blue window light with a lamp glowing softly, vertical composition with calm empty space in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Slow push-in toward the desk; a hand sets the mug down beside the laptop, steam rises, the hand rests flat on the desk for a moment, light brightens slightly at the window, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "soft morning piano",
+    "caption": "the fallback is already pinned when monday starts.\n\nFOCUS+ Core is our own product. you can pin your phase or energy variant, so on a heavy week the low-energy fallback is already chosen. no searching, no rebuilding at 8 am. every one of the 4 phase protocols has one.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #notiontemplate #focusprotocol",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-09-23-C-3",
+    "date": "2027-09-23",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 38,
+    "week_theme": "the low-energy fallback, shown",
+    "month_theme": "Build the stack",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "A bedside oak stool holding a glass of water, a small notebook closed with a pencil on top and a ceramic dish, a crumpled oat linen duvet in the soft background, pale grey morning light through a sheer curtain, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "when even the fallback <em>feels like too much</em>",
+        "sub": "for days when even the small version is too big."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "one task, named.",
+        "p": [
+          "write the single thing that keeps tomorrow from getting harder."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "two minutes count.",
+        "p": [
+          "start it for two minutes. stopping after that is allowed."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "log it as rest.",
+        "p": [
+          "a recorded rest day keeps the month readable."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "when even the fallback feels like too much.\n\nsome days even the small version is too big. name one task that keeps tomorrow from getting harder. give it two minutes; stopping after that is allowed. then write 'rested' in your log, so the month still reads clearly when you look back.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #adhdwomen #executivefunction",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-09-24-C-4",
+    "date": "2027-09-24",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 38,
+    "week_theme": "the low-energy fallback, shown",
+    "month_theme": "Build the stack",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "A quiet home office corner, an unbranded laptop whose screen shows a softly blurred Notion page layout with no readable words on an oak desk, a wool blanket folded on the chair, a ceramic lamp and a small vase of dried rose hips, soft afternoon light, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "a protocol <em>with a floor</em> under it",
+        "sub": "why every FOCUS+ Core protocol has a low-energy version."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "full days exist.",
+        "p": [
+          "the protocol covers them."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "so do low days.",
+        "p": [
+          "the low-energy fallback covers those, inside the same protocol."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "you choose ahead.",
+        "p": [
+          "pin your phase or energy variant before the week starts."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "look before you buy.",
+        "p": [
+          "the demo is public. €27 one-time, 14-day money-back."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "a protocol with a floor under it.\n\nFOCUS+ Core is our own product. each of its 4 phase protocols comes with a low-energy fallback, so the days with less room are part of the plan from the start. pin the variant you need and switch protocols with one click. it is built in Notion, with 14 pages and 6 databases.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #lowenergydays #focusprotocol",
+    "cta": "demo"
+  },
+  {
+    "id": "2027-09-25-R-C",
+    "date": "2027-09-25",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 38,
+    "week_theme": "the low-energy fallback, shown",
+    "month_theme": "Build the stack",
+    "pillar": "P1",
+    "format": "loop",
+    "avatar": false,
+    "hook_lines": [
+      "the small version still counts.",
+      "one page read. one glass filled.",
+      "tick it the same as the full one."
+    ],
+    "start_frame_prompt": "A glass carafe and one clear glass on an oak table by a window, an open book face down beside it, a small notebook with a pencil, a linen runner, slow saturday morning light in soft beams, vertical composition with calm empty space in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Static locked-off camera; a hand pours water into the glass and sets the carafe down, light drifts softly across the table, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "slow acoustic guitar",
+    "caption": "the small version still counts.\n\none page read instead of thirty. one glass of water instead of the full morning routine. tick it in the same box you would tick for the full version. a tracker that only records full days loses the shape of the month.\n\nsave this for a slow saturday.\n\n#lowenergydays #adhdwomen #focusprotocol",
+    "cta": "save"
+  },
+  {
+    "id": "2027-09-26-C-5",
+    "date": "2027-09-26",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 38,
+    "week_theme": "the low-energy fallback, shown",
+    "month_theme": "Build the stack",
+    "pillar": "P3",
+    "avatar": true,
+    "cover_prompt": "A woman curled on a linen sofa on a sunday afternoon, counting faint marks too small to read in a small notebook resting on her knee, minimal natural makeup, no-makeup look, relaxed hair down, wearing a grey wool knit, contemplative expression, side profile, medium shot from chest up, a ceramic mug on the oak side table, a wool throw over her legs, soft overcast window light, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "how many <em>fallback days</em> did this week hold?",
+        "sub": "count them without grading them."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "count the light days.",
+        "p": [
+          "mark each day you used the smaller version."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "look for a pattern.",
+        "p": [
+          "same weekday? same week of the month? note it."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "adjust the plan, not yourself.",
+        "p": [
+          "if wednesdays run light three weeks in a row, plan wednesdays light."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "how many fallback days did this week hold?\n\ncount them, don't grade them. mark each day you used the smaller version. look for a pattern: same weekday, same week of the month. if wednesdays have been light three weeks in a row, the useful move is to plan wednesday light.\n\nsave this for sunday evening.\n\n#weeklyreview #lowenergydays #cycleawareplanning",
+    "cta": "save"
+  },
+  {
+    "id": "2027-09-27-C-1",
+    "date": "2027-09-27",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 39,
+    "week_theme": "Q3 recalibration",
+    "month_theme": "Build the stack",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "Three linen-bound notebooks fanned on an oak desk, one open to a page with a short pencil list too small to read, a ceramic cup of tea, a sprig of rowan berries in a small vase, early autumn light from a low window, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "three months on <em>one honest page</em>",
+        "sub": "a short Q3 recalibration before the dark months."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "what held?",
+        "p": [
+          "the routines that ran most weeks, even in their small version."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "what dropped?",
+        "p": [
+          "name them without a reason attached."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "what moves to Q4?",
+        "p": [
+          "pick three. the rest goes to the holding list."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "what gets smaller?",
+        "p": [
+          "october has less daylight. size one routine down."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "three months on one page.\n\nQ3 is ending. write what held: the routines that ran most weeks, even in their small version. write what dropped, without explaining it. pick three things to carry into Q4 and move the rest to the holding list. then size one routine down for october.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyreview #weeklyplanning #focusprotocol",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-09-27-R-A",
+    "date": "2027-09-27",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 39,
+    "week_theme": "Q3 recalibration",
+    "month_theme": "Build the stack",
+    "pillar": "P2",
+    "format": "fel-fraga-ratt-fraga",
+    "avatar": true,
+    "hook_lines": [
+      "wrong question: what failed this quarter?",
+      "right question: what held for thirteen weeks?",
+      "q4 gets one change, not a restart."
+    ],
+    "start_frame_prompt": "A woman seated at an oak desk turning back through the pages of a well-used notebook, minimal natural makeup, no-makeup look, relaxed hair down, wearing an oat knit sweater, calm expression, side profile, candid mid-action, medium shot from chest up, a ceramic mug and a pencil on the desk, a window with soft early autumn light, vertical composition with calm empty space in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Slow push-in from the side; her hand turns several pages back, stops, and places a pencil mark beside one line, she keeps looking down at the page while soft light moves across the desk, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "calm piano minimal",
+    "caption": "'what failed this quarter?' gets you verdicts. 'what held for thirteen weeks?' gets you a plan.\n\nno new system, no fresh start. look back at the last three months, keep what actually ran, even if it ran small, and drop what didn't, without a post-mortem. adjust one thing for october. a recalibration fits on one page.\n\nsend this to the friend who is about to start over again.\n\n#weeklyreview #adhdwomen #weeklyplanning",
+    "cta": "send"
+  },
+  {
+    "id": "2027-09-28-C-2",
+    "date": "2027-09-28",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 39,
+    "week_theme": "Q3 recalibration",
+    "month_theme": "Build the stack",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "A simple wooden kitchen timer beside an open notebook on an oak desk, a pencil laid across the page, a ceramic cup of coffee, a grey wool cardigan on the chair, soft morning light, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "a quarter review that fits <em>in one sitting</em>",
+        "sub": "four steps, a timer and the last thirteen weeks."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "set 20 minutes.",
+        "p": [
+          "the timer is the boundary. stop when it rings."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "read once.",
+        "p": [
+          "skim your weekly notes one time. mark what repeats."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "write three keeps.",
+        "p": [
+          "routines or rules that held."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "write one change.",
+        "p": [
+          "one, specific, starting next monday."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "a quarter review that fits in one sitting.\n\nset a timer for 20 minutes. skim the last thirteen weeks of notes once and mark what repeats. write three things that held. write one change, specific enough to start next monday. stop when the timer rings, even mid-sentence.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyreview #focusprotocol #adhdplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-09-29-R-B",
+    "date": "2027-09-29",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 39,
+    "week_theme": "Q3 recalibration",
+    "month_theme": "Build the stack",
+    "pillar": "P4",
+    "format": "ett-verktyg",
+    "avatar": false,
+    "hook_lines": [
+      "set a timer before the review.",
+      "twenty minutes, then it ends.",
+      "a boundary makes starting smaller."
+    ],
+    "start_frame_prompt": "A simple wooden kitchen timer on an oak desk next to an open notebook and a pencil, a stoneware mug, a linen cloth folded at the edge, evening lamplight mixing with fading window light, vertical composition with calm empty space in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Static camera with a slow push-in; a hand turns the timer dial and sets it down beside the notebook, lamplight steady and warm, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "soft ticking ambient",
+    "caption": "set a timer before the review starts.\n\ntwenty minutes, visible on the desk. when the end is fixed, the start gets smaller: you are not opening a whole evening, only a short block. when it rings, close the notebook, even mid-sentence.\n\nsend this to the friend who keeps postponing her review.\n\n#executivefunction #weeklyreview #adhdwomen",
+    "cta": "send"
+  },
+  {
+    "id": "2027-09-30-C-3",
+    "date": "2027-09-30",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 39,
+    "week_theme": "Q3 recalibration",
+    "month_theme": "Build the stack",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "A single index card with three short pencil lines resting on a folded oat wool blanket, a ceramic cup of tea on a bedside oak stool, soft dim morning light through a linen curtain, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "the Q3 recalibration, <em>three lines long</em>",
+        "sub": "for the end of a quarter that ran out of room."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "one thing that held.",
+        "p": [
+          "write it first. it is the base for october."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "one thing to drop.",
+        "p": [
+          "no reason needed. just the line."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "one thing for october.",
+        "p": [
+          "small enough to start on a low day."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "a Q3 recalibration, three lines long.\n\nfor a tired end of quarter: one thing that held, one thing to drop, one thing for october. three lines on a card, written in bed if that is where you are. the full review can wait until a day with more room, or not happen at all.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #weeklyreview #adhdwomen",
+    "cta": "reset"
+  }
+]

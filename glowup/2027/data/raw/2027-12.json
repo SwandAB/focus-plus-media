@@ -1,0 +1,1469 @@
+[
+  {
+    "id": "2027-12-01-R-B",
+    "date": "2027-12-01",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 48,
+    "week_theme": "december without a sprint",
+    "month_theme": "Quiet Q4",
+    "pillar": "P1",
+    "format": "ett-verktyg",
+    "avatar": false,
+    "hook_lines": [
+      "one evening a week, left empty.",
+      "shade it in the calendar first.",
+      "then plan december around the empty square."
+    ],
+    "start_frame_prompt": "Overhead view of a paper month calendar on an oak desk, a hand shading one empty square softly with a graphite pencil, a lit candle in a ceramic holder and a sage cup at the corner, warm lamplight on a dark december evening, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static overhead camera, the pencil shades the square in slow, even strokes, the hand lifts and rests the pencil beside the calendar, candle flame sways gently, warm light stays steady on the paper, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "calm piano winter",
+    "caption": "the first thing in december's calendar is an empty evening.\n\nbefore any party, deadline or trip goes in, shade one evening a week and leave it empty. then plan the month around those squares. the empty evening is a booking, the same as everything else in the calendar.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #adhdplanning #focusprotocol #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-12-02-C-3",
+    "date": "2027-12-02",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 48,
+    "week_theme": "december without a sprint",
+    "month_theme": "Quiet Q4",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "A linen sofa with a folded wool blanket and a small open notebook, a lit candle and a ceramic mug of tea on a low oak table, warm amber lamplight, a dark december window with a faint reflection of the lamp, 4:5 composition with calm empty space in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "a december <em>low day,</em> planned in advance.",
+        "sub": "decide now what you drop when the evening is full."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "pick the one thing that stays.",
+        "p": [
+          "the task that still happens on a tired day."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "write the two that can wait.",
+        "p": [
+          "named in advance, so dropping them is a plan."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "tell one person.",
+        "p": [
+          "a short message: this is my low-day version."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "plan the low day before it arrives.\n\ndecember evenings fill up. decide now what stays on a low day and what moves. one thing stays, two can wait, and one person knows. when the low day comes, the decision is already made.\n\nsave this for the first busy week of december.\n\n#lowenergydays #adhdplanning #focusprotocol #weeklyplanning",
+    "cta": "save"
+  },
+  {
+    "id": "2027-12-03-C-4",
+    "date": "2027-12-03",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 48,
+    "week_theme": "december without a sprint",
+    "month_theme": "Quiet Q4",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "A plain unbranded laptop on an oak desk showing a blurred Notion page, a beeswax candle burning in a ceramic holder beside it, a wool throw over the chair, a hand resting on a linen notebook, warm lamplight on a dark december afternoon, 4:5 composition with calm empty space on the left side for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "december weeks, <em>with a smaller version</em> ready.",
+        "sub": "what FOCUS+ Core does on the weeks with less room."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "4 phase protocols.",
+        "p": [
+          "each one has a fallback version for low-energy days."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "switch in one click.",
+        "p": [
+          "move to the fallback without rebuilding the week."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "pin the variant you're in.",
+        "p": [
+          "pin your phase or energy variant for the week."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "€27 one-time.",
+        "p": [
+          "14-day money-back. built in Notion."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "every protocol has a smaller version.\n\nFOCUS+ Core is our own product. 4 phase protocols, each with a low-energy fallback, switched in one click. pin the variant you're in for the week. 14 pages, 6 databases, built in Notion.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #focusprotocol #weeklyplanning",
+    "cta": "core"
+  },
+  {
+    "id": "2027-12-04-R-C",
+    "date": "2027-12-04",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 48,
+    "week_theme": "december without a sprint",
+    "month_theme": "Quiet Q4",
+    "pillar": "P1",
+    "format": "loop",
+    "avatar": false,
+    "hook_lines": [
+      "lamp on at four.",
+      "one candle, one page, one line.",
+      "december evenings can stay this small."
+    ],
+    "start_frame_prompt": "A lit candle on an oak table beside an open notebook and a pencil, a deep blue december dusk outside a tall window, a brass lamp glowing warm in the corner, a hand resting on the open page, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static locked-off camera, the candle flame sways slowly, the hand turns one page of the notebook and settles again, the blue dusk deepens a little outside, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "ambient candle calm",
+    "caption": "small evenings are allowed in december.\n\nlamp on at four. one candle, one page, one line about tomorrow. that's the evening plan. on the darkest weeks, the structure can be this small and still hold the day.\n\nsave this for a dark afternoon.\n\n#lowenergydays #adhdplanning #focusprotocol #weeklyplanning",
+    "cta": "save"
+  },
+  {
+    "id": "2027-12-05-C-5",
+    "date": "2027-12-05",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 48,
+    "week_theme": "december without a sprint",
+    "month_theme": "Quiet Q4",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "Overhead of an oak table with a paper list partly crossed out in faint pencil, a pencil, a sprig of dried eucalyptus, a ceramic cup of tea and a lit candle, warm lamplight on a quiet sunday evening, 4:5 composition with calm empty space in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "sunday: <em>what can leave</em> december's list?",
+        "sub": "one review, five minutes, fewer lines."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "read the list once.",
+        "p": [
+          "no editing yet. just read."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "cross out what nobody will ask about.",
+        "p": [
+          "if no one notices it's gone, it can go."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "move one thing to january.",
+        "p": [
+          "with a date, so it doesn't follow you around."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "a sunday review that makes the list shorter.\n\nread december's list once. cross out what nobody will ask about. move one thing to january with a real date. five minutes, and the month has a little more room than it did this morning.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyreview #weeklyplanning #executivefunction #adhdwomen",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-12-06-C-1",
+    "date": "2027-12-06",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 49,
+    "week_theme": "the annual review, short version",
+    "month_theme": "Close the year",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "A single sheet of cream paper on an oak desk with four faint pencil lines across it, a graphite pencil, a sage ceramic cup steaming, a lit candle, warm lamplight in a dark december room, a hand resting at the edge of the sheet, 4:5 composition with calm empty space on the left side for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "a year on one page, <em>four questions.</em>",
+        "sub": "no vision board. one page and twenty minutes."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "what worked more than once?",
+        "p": [
+          "repeated things are your real system."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "what kept getting postponed?",
+        "p": [
+          "a pattern, not a verdict."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "what was never yours?",
+        "p": [
+          "tasks you carried for someone else."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "what comes with you into 2028?",
+        "p": [
+          "two or three things. not a new life."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "a year, reviewed on one page.\n\nfour questions. what worked more than once. what kept getting postponed. what was never yours to carry. what comes with you into 2028. twenty minutes, one page, no vision board.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyreview #weeklyplanning #executivefunction #adhdwomen",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-12-06-R-A",
+    "date": "2027-12-06",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 49,
+    "week_theme": "the annual review, short version",
+    "month_theme": "Close the year",
+    "pillar": "P2",
+    "format": "tre-rader",
+    "avatar": true,
+    "hook_lines": [
+      "a year fits on one page.",
+      "four questions. twenty minutes.",
+      "the long version is optional."
+    ],
+    "start_frame_prompt": "A woman at a kitchen table in the evening with a single sheet of paper with faint marks too small to read and a pencil, a lit candle and a warm brass lamp beside her, minimal natural makeup, no-makeup look, relaxed hair down, an ivory ribbed wool knit, focused expression, three-quarter view, looking down at the page, candid mid-action, medium shot from chest up, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "gentle handheld drift, she lifts the pencil from the sheet, pauses, then rests it on the paper again, her gaze stays on the paper, candle flame moves softly, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "reflective piano calm",
+    "caption": "the annual review fits on one page.\n\nfour questions, twenty minutes: what worked more than once, what kept getting postponed, what was never yours, what comes with you into 2028. that's the review. the long version can stay optional.\n\nsend this to the friend who skips the annual review because it's too long.\n\n#weeklyreview #weeklyplanning #executivefunction #adhdwomen",
+    "cta": "send"
+  },
+  {
+    "id": "2027-12-07-C-2",
+    "date": "2027-12-07",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 49,
+    "week_theme": "the annual review, short version",
+    "month_theme": "Close the year",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "A paper desk calendar flipped open on an oak table beside a laptop with a blurred calendar on screen, a hand turning a page, a pencil and a ceramic cup, warm lamplight and a dark window, 4:5 composition with calm empty space in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "answer the four questions <em>from your calendar.</em>",
+        "sub": "your calendar remembers better than you do."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "scroll month by month.",
+        "p": [
+          "january to now, ten seconds per week."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "mark three moments per month.",
+        "p": [
+          "the ones that still stand out."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "answer from the marks.",
+        "p": [
+          "the four questions get easier with evidence."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "stop at one page.",
+        "p": [
+          "the page is the review."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "use the calendar, not your memory.\n\nscroll the year month by month. mark three moments per month that still stand out. answer the four review questions from those marks, not from how the year feels tonight. stop at one page.\n\nsave this for your review evening.\n\n#weeklyreview #weeklyplanning #executivefunction #adhdwomen",
+    "cta": "save"
+  },
+  {
+    "id": "2027-12-08-R-B",
+    "date": "2027-12-08",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 49,
+    "week_theme": "the annual review, short version",
+    "month_theme": "Close the year",
+    "pillar": "P2",
+    "format": "fore-efter-listan",
+    "avatar": false,
+    "hook_lines": [
+      "twelve months, twelve lines.",
+      "crossed down to the three that mattered.",
+      "that's the whole review."
+    ],
+    "start_frame_prompt": "Overhead view of cream paper with twelve short faint pencil lines in a column, a hand holding a graphite pencil beside the top line, a lit candle and a dried eucalyptus sprig on an oak table, warm lamplight, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static overhead camera, the pencil strikes through lines one at a time at a calm pace, then circles three remaining lines and rests on the paper, the candle flame flickers softly, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "minimal piano evening",
+    "caption": "twelve lines, three circles.\n\none line per month: what stood out. then cross out the months that were just busy. circle the three that mattered. those three are the review, and they tell you what to protect in 2028.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyreview #weeklyplanning #executivefunction #adhdwomen",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-12-09-C-3",
+    "date": "2027-12-09",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 49,
+    "week_theme": "the annual review, short version",
+    "month_theme": "Close the year",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "A wool blanket on a linen sofa, a small notebook open with twelve short pencil marks down the page, a lit candle on a side table, a ceramic mug of tea, warm low lamplight in a dark december evening, 4:5 composition with calm empty space on the left side for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "too tired for a review? <em>one word per month.</em>",
+        "sub": "the low-energy annual review."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "write the month.",
+        "p": [
+          "twelve lines down the page."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "add one word.",
+        "p": [
+          "the first word that comes. no editing."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "read it once.",
+        "p": [
+          "that's the review. done."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "the smallest annual review.\n\ntwelve months down the side of a page. one word next to each, the first that comes. read it once. on a tired december evening, that's enough of a review to plan january from.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #adhdplanning #focusprotocol #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-12-10-C-4",
+    "date": "2027-12-10",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 49,
+    "week_theme": "the annual review, short version",
+    "month_theme": "Close the year",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "A plain unbranded laptop on an oak desk with a blurred Notion workspace, a stack of linen notebooks from the past year beside it tied with string, a lit candle, a ceramic cup, warm lamplight, a hand on the stack, 4:5 composition with calm empty space in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "where a year of weeks <em>can live.</em>",
+        "sub": "FOCUS+ Core keeps your planning in one Notion structure."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "built in Notion.",
+        "p": [
+          "14 pages in one workspace."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "6 databases.",
+        "p": [
+          "your entries stay in one structure, ready for a review."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "4 phase protocols.",
+        "p": [
+          "each with a low-energy fallback."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "public demo.",
+        "p": [
+          "look through it before you decide."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "a year of weeks in one structure.\n\nFOCUS+ Core is our own product. 14 pages and 6 databases built in Notion, with 4 phase protocols and a low-energy fallback in each. when next december comes, the year is already in one place.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #focusprotocol #weeklyplanning",
+    "cta": "demo"
+  },
+  {
+    "id": "2027-12-11-R-C",
+    "date": "2027-12-11",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 49,
+    "week_theme": "the annual review, short version",
+    "month_theme": "Close the year",
+    "pillar": "P3",
+    "format": "loop",
+    "avatar": false,
+    "hook_lines": [
+      "your own pattern, one page.",
+      "twelve months of small marks.",
+      "read it slowly. plan from it."
+    ],
+    "start_frame_prompt": "Overhead view of a cream paper grid with rows of small faint pencil dots on an oak table, a hand holding a pencil above an empty cell, a lit candle in a ceramic holder and a sage dish, warm lamplight, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static overhead camera, the pencil places one small dot in a cell, lifts slowly and hovers above the next row, candle light flickers gently on the paper, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "ambient soft loop",
+    "caption": "a year of marks shows your own pattern.\n\nif you marked your energy this year, read the page slowly. if your energy shifts across the month, it shows as clusters. plan 2028's heavy work around your own marks, not someone else's chart.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#cycleawareplanning #weeklyreview #focusprotocol #lowenergydays",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-12-12-C-5",
+    "date": "2027-12-12",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 49,
+    "week_theme": "the annual review, short version",
+    "month_theme": "Close the year",
+    "pillar": "P2",
+    "avatar": true,
+    "cover_prompt": "A woman curled on a linen sofa under a wool blanket with a notebook and pencil, a lit candle and a warm lamp beside her, minimal natural makeup, no-makeup look, relaxed hair down, a soft grey cashmere knit, calm expression, over-the-shoulder view, candid mid-action, holding a pencil over faint marks too small to read, medium shot from chest up, 4:5 composition with calm empty space in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "sunday: <em>pick one</em> review question tonight.",
+        "sub": "the short version of the short version."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "choose the easiest.",
+        "p": [
+          "the question you already know the answer to."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "answer in three lines.",
+        "p": [
+          "no more. stop mid-thought if you need to."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "save the rest for next sunday.",
+        "p": [
+          "the review can take four sundays."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "one question per sunday is still a review.\n\npick the easiest of the four questions. answer it in three lines. save the rest for the next sundays. by the end of december, the review is done, one evening at a time.\n\nsave this for sunday evening.\n\n#weeklyreview #weeklyplanning #executivefunction #adhdwomen",
+    "cta": "save"
+  },
+  {
+    "id": "2027-12-13-C-1",
+    "date": "2027-12-13",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 50,
+    "week_theme": "what this year taught your calendar",
+    "month_theme": "Close the year",
+    "pillar": "P3",
+    "avatar": false,
+    "cover_prompt": "A paper wall calendar unpinned and laid flat on an oak table, a hand tracing a row with a pencil, a lit candle, a sage ceramic cup, warm lamplight in a dark room, 4:5 composition with calm empty space on the left side for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "your calendar <em>already knows</em> your year.",
+        "sub": "read it like data, not like a verdict."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "find the heaviest weeks.",
+        "p": [
+          "count the commitments. no judging."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "find the quiet weeks.",
+        "p": [
+          "what was there, and what wasn't."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "look across the months.",
+        "p": [
+          "if your energy shifts across the month, the calendar may show it."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "write one rule for 2028.",
+        "p": [
+          "one sentence, from your own year."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "the calendar holds a year of data.\n\nfind the heaviest weeks and the quietest ones. look for a pattern across the months. if your energy shifts across the month, the calendar may already show it. then write one rule for 2028, from your own year.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#cycleawareplanning #weeklyreview #focusprotocol #lowenergydays",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-12-13-R-A",
+    "date": "2027-12-13",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 50,
+    "week_theme": "what this year taught your calendar",
+    "month_theme": "Close the year",
+    "pillar": "P3",
+    "format": "fel-fraga-ratt-fraga",
+    "avatar": false,
+    "hook_lines": [
+      "wrong question: why was march so hard?",
+      "right question: what was in march's calendar?",
+      "the answer is usually already written down."
+    ],
+    "start_frame_prompt": "A hand slowly turning the pages of a paper desk calendar on an oak desk, a sage ceramic cup and a lit candle nearby, warm lamplight, a dark december window with a faint reflection, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "slow push-in, the hand turns two pages of the calendar, pauses on one month and rests a finger on it, candle flame flickers softly, warm light stays steady across the oak, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "calm piano reflective",
+    "caption": "ask the calendar, not the feeling.\n\n'why was march so hard' leads to a verdict. 'what was in march's calendar' leads to a plan. open the month, count what was there, and track your own pattern from what's written down.\n\nsend this to the friend who is still blaming herself for march.\n\n#cycleawareplanning #weeklyreview #focusprotocol #lowenergydays",
+    "cta": "send"
+  },
+  {
+    "id": "2027-12-14-C-2",
+    "date": "2027-12-14",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 50,
+    "week_theme": "what this year taught your calendar",
+    "month_theme": "Close the year",
+    "pillar": "P3",
+    "avatar": false,
+    "cover_prompt": "Overhead view of a paper year planner on an oak table, three graphite pencils lying side by side, small faint marks in the margins, a ceramic cup and a lit candle, warm lamplight, 4:5 composition with calm empty space in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "a calendar review <em>in three passes.</em>",
+        "sub": "load, energy, keep. one pass each."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "pass one: load.",
+        "p": [
+          "count commitments per week. just numbers."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "pass two: energy.",
+        "p": [
+          "mark the weeks that felt low, from your own notes."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "pass three: keep.",
+        "p": [
+          "circle what you'd repeat."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "one rule from all three.",
+        "p": [
+          "write it where january will see it."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "three passes through the same calendar.\n\nfirst pass: count commitments per week. second: mark the low weeks from your own notes. third: circle what you'd repeat. then write one planning rule for 2028 from all three passes.\n\nsave this for your review evening.\n\n#cycleawareplanning #weeklyreview #focusprotocol #lowenergydays",
+    "cta": "save"
+  },
+  {
+    "id": "2027-12-15-R-B",
+    "date": "2027-12-15",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 50,
+    "week_theme": "what this year taught your calendar",
+    "month_theme": "Close the year",
+    "pillar": "P4",
+    "format": "ett-verktyg",
+    "avatar": false,
+    "hook_lines": [
+      "three marks, one year.",
+      "heavy, light, empty. one mark per week.",
+      "the pattern shows up on its own."
+    ],
+    "start_frame_prompt": "Overhead view of a paper year grid on an oak table, a hand placing small marks in sage, charcoal and dusty rose pencil in a row of squares, a lit candle and a ceramic cup at the corner, warm lamplight, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static overhead camera, the hand places one small mark in a square, then sets the pencil down beside the grid, warm candle light flickers softly over the paper, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "minimal electronic soft",
+    "caption": "one mark per week, three kinds.\n\ngo through the year and give each week one mark: heavy, light or empty. it takes ten minutes. the pattern shows up on its own. if you want next year's weeks in one structure, FOCUS+ Core is our own product. it's built in Notion.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #focusprotocol #weeklyplanning",
+    "cta": "core"
+  },
+  {
+    "id": "2027-12-16-C-3",
+    "date": "2027-12-16",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 50,
+    "week_theme": "what this year taught your calendar",
+    "month_theme": "Close the year",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "A small notebook open on a wool blanket with a single faint pencil line, a lit candle on a low oak table, a ceramic mug of tea steaming, warm amber lamplight in a dark december room, 4:5 composition with calm empty space on the left side for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "one lesson from your calendar <em>is enough.</em>",
+        "sub": "the low-energy version: one rule, written once."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "open last month only.",
+        "p": [
+          "not the whole year."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "find one week that worked.",
+        "p": [
+          "look at what was in it."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "write why, in one line.",
+        "p": [
+          "that line is next year's rule."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "on a low day, one lesson is enough.\n\nskip the full-year review tonight. open last month, find one week that worked, and write in one line why. that's a planning rule, from your own calendar, written once.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #adhdplanning #focusprotocol #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-12-17-C-4",
+    "date": "2027-12-17",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 50,
+    "week_theme": "what this year taught your calendar",
+    "month_theme": "Close the year",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "A plain unbranded laptop on an oak desk showing a blurred Notion page, a paper year calendar rolled and tied beside it, a dusty rose ceramic vase, a lit candle, warm lamplight, a hand on the trackpad, 4:5 composition with calm empty space in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "next year's calendar, <em>with a fallback</em> built in.",
+        "sub": "FOCUS+ Core: 4 phase protocols with a low-energy fallback."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "plan by phase.",
+        "p": [
+          "4 protocols you switch between in one click."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "pin what you're in.",
+        "p": [
+          "pin your phase or energy variant for the week."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "fallback ready.",
+        "p": [
+          "every protocol has a low-energy version."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "€27 one-time.",
+        "p": [
+          "14-day money-back. public demo first."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "a calendar with a smaller version built in.\n\nFOCUS+ Core is our own product. 4 phase protocols, each with a low-energy fallback, switched in one click. pin the variant you're in. 14 pages and 6 databases, built in Notion.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #focusprotocol #weeklyplanning",
+    "cta": "core"
+  },
+  {
+    "id": "2027-12-18-R-C",
+    "date": "2027-12-18",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 50,
+    "week_theme": "what this year taught your calendar",
+    "month_theme": "Close the year",
+    "pillar": "P1",
+    "format": "loop",
+    "avatar": true,
+    "hook_lines": [
+      "the calendar closes for the year.",
+      "slowly, one page at a time.",
+      "rest is the first thing on next year's page."
+    ],
+    "start_frame_prompt": "A woman at an oak desk in the evening slowly closing a paper planner, a lit candle and a warm brass lamp beside her, minimal natural makeup, no-makeup look, relaxed hair down, an oat-coloured chunky knit sweater, contemplative expression, side profile, looking down at her hands, candid mid-action, medium shot from chest up, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static locked-off camera, she closes the planner slowly with both hands and rests them on the cover, then opens it again to the same page, candle flame sways gently, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "warm piano loop",
+    "caption": "closing the year's calendar, slowly.\n\none page at a time, no rush. notice what was there, the full weeks and the empty ones. then open next year's first page and write rest in it before anything else goes in. the new calendar starts with what this one taught you.\n\nsave this for the last weekend before the holidays.\n\n#lowenergydays #adhdplanning #focusprotocol #weeklyplanning",
+    "cta": "save"
+  },
+  {
+    "id": "2027-12-19-C-5",
+    "date": "2027-12-19",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 50,
+    "week_theme": "what this year taught your calendar",
+    "month_theme": "Close the year",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "A linen notebook open on an oak table with one short faint pencil line on the first page, a sprig of dried eucalyptus, a ceramic cup of tea and a lit candle, warm lamplight on a sunday evening, 4:5 composition with calm empty space on the left side for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "sunday: <em>one thing</em> this year taught your calendar.",
+        "sub": "write it where 2028 will see it."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "pick the clearest lesson.",
+        "p": [
+          "the one you'd tell a friend."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "turn it into a rule.",
+        "p": [
+          "'no meetings on the first day back.'"
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "put it on january's first page.",
+        "p": [
+          "so it's the first thing next year reads."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "one lesson, written where january will find it.\n\npick the clearest thing this year taught your calendar. turn it into a rule, one sentence. write it on the first page of january. next year opens with this year's lesson.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyreview #weeklyplanning #executivefunction #adhdwomen",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-12-20-C-1",
+    "date": "2027-12-20",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 51,
+    "week_theme": "planning 2028 the short way",
+    "month_theme": "Close the year",
+    "pillar": "P2",
+    "avatar": true,
+    "cover_prompt": "A woman at a kitchen table resting a pencil on a single sheet of paper with faint marks too small to read, a lit candle and a warm lamp beside her, a dark december window behind, minimal natural makeup, no-makeup look, relaxed hair down, an ivory ribbed wool knit, focused expression, three-quarter view, looking down at the page, candid mid-action, medium shot from chest up, 4:5 composition with calm empty space on the left side for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "plan 2028 <em>on one page.</em>",
+        "sub": "three priorities, four quarters, one rule."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "three priorities.",
+        "p": [
+          "the things 2028 is for. three, not ten."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "one per quarter, one quarter light.",
+        "p": [
+          "a light quarter is a plan too."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "one rule from this year.",
+        "p": [
+          "the lesson from your calendar."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "stop there.",
+        "p": [
+          "the rest is decided when it arrives."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "next year, on a single page.\n\nthree priorities. one per quarter, with one quarter left light on purpose. one rule from this year's calendar. then stop. the details belong to the weeks they happen in.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyreview #weeklyplanning #executivefunction #adhdwomen",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-12-20-R-A",
+    "date": "2027-12-20",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 51,
+    "week_theme": "planning 2028 the short way",
+    "month_theme": "Close the year",
+    "pillar": "P2",
+    "format": "tre-rader",
+    "avatar": false,
+    "hook_lines": [
+      "next year, planned on one page.",
+      "three priorities. one light quarter.",
+      "the rest is decided when it arrives."
+    ],
+    "start_frame_prompt": "A single sheet of cream paper on an oak desk under a warm brass lamp, a hand laying a graphite pencil across it, a lit candle and a sage ceramic cup beside it, a dark december window, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "slow push-in toward the sheet, the hand sets the pencil down across the paper and slides the sheet slightly closer, then withdraws slowly out of frame, candle flame moves softly and the warm light settles, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "calm piano warm",
+    "caption": "a yearly plan that fits on one page.\n\nthree priorities, one light quarter, one rule from this year. that's the whole plan for 2028. the details get decided in the week they arrive, with the energy you have then.\n\nsend this to the friend with a forty-page plan for next year.\n\n#weeklyreview #weeklyplanning #executivefunction #adhdwomen",
+    "cta": "send"
+  },
+  {
+    "id": "2027-12-21-C-2",
+    "date": "2027-12-21",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 51,
+    "week_theme": "planning 2028 the short way",
+    "month_theme": "Close the year",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "Overhead of a sheet of cream paper divided into four boxes by faint pencil lines, a pencil, a ceramic cup and a small dusty rose dish on an oak table, a lit candle, warm lamplight, 4:5 composition with calm empty space in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "the short way: <em>four quarters,</em> four lines.",
+        "sub": "a yearly plan that fits under a mug."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "q1: one thing to start.",
+        "p": [
+          "the first step written now."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "q2: one thing to finish.",
+        "p": [
+          "something already half-done."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "q3: lighter on purpose.",
+        "p": [
+          "summer gets less, by design."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "q4: decided in september.",
+        "p": [
+          "you'll know more by then."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "four quarters, four lines.\n\nq1: one thing to start. q2: one thing to finish. q3: lighter on purpose. q4: decided in september. if you want the weeks inside those quarters to have a structure, the FOCUS+ Core demo shows ours. FOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #focusprotocol #weeklyplanning",
+    "cta": "demo"
+  },
+  {
+    "id": "2027-12-22-R-B",
+    "date": "2027-12-22",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 51,
+    "week_theme": "planning 2028 the short way",
+    "month_theme": "Close the year",
+    "pillar": "P5",
+    "format": "ett-verktyg",
+    "avatar": false,
+    "hook_lines": [
+      "one sheet. four boxes.",
+      "a quarter in each, one line per box.",
+      "the whole year, folded into a notebook."
+    ],
+    "start_frame_prompt": "Overhead view of a hand folding a sheet of cream paper with four faint pencil boxes, a linen notebook open beside it on an oak desk, a lit candle and a ceramic cup, warm lamplight, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static overhead camera, the hand folds the sheet in half and tucks it into the open notebook, candle flame sways, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "minimal piano soft",
+    "caption": "the year, folded into one sheet.\n\nfour boxes, one per quarter, one line in each. fold it into the notebook you use every week. FOCUS+ Core is our own product. 14 pages and 6 databases built in Notion, with a public demo.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #focusprotocol #weeklyplanning",
+    "cta": "demo"
+  },
+  {
+    "id": "2027-12-23-C-3",
+    "date": "2027-12-23",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 51,
+    "week_theme": "planning 2028 the short way",
+    "month_theme": "Close the year",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "A wool blanket on a linen sofa, a small card with one faint pencil line resting on it, a ceramic mug of tea, a lit candle on a side table, soft warm lamplight, a dark window with faint distant lights, 4:5 composition with calm empty space on the left side for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "planning 2028 <em>on a tired day.</em>",
+        "sub": "the fallback version: one line."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "write one thing for january.",
+        "p": [
+          "just one. the rest can wait."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "leave the rest blank.",
+        "p": [
+          "blank on purpose is still a plan."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "come back with more room.",
+        "p": [
+          "the page will be there after the holidays."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "on a tired day, plan one line.\n\nwrite one thing for january. leave the rest of the page blank, on purpose. come back to it when you have more room. a one-line plan is still a plan for 2028.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #adhdplanning #focusprotocol #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-12-26-C-5",
+    "date": "2027-12-26",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 51,
+    "week_theme": "planning 2028 the short way",
+    "month_theme": "Close the year",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "A quiet morning living room with a linen sofa, a wool blanket thrown loosely, a cup of tea on an oak side table, a closed notebook and a pencil, a lit candle, soft grey winter daylight mixing with warm lamplight, 4:5 composition with calm empty space in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "sunday after the holidays: <em>nothing to plan</em> yet.",
+        "sub": "a review that's mostly rest."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "one word for how you feel.",
+        "p": [
+          "written, not fixed."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "pick one evening for planning.",
+        "p": [
+          "later this week. not today."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "close the notebook.",
+        "p": [
+          "today is part of the plan too."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "today the review is mostly rest.\n\none word for how you feel. one evening later this week chosen for planning. then close the notebook. after the holidays, a sunday with nothing on it is part of the structure.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #adhdplanning #focusprotocol #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-12-27-C-1",
+    "date": "2027-12-27",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 52,
+    "week_theme": "the first week of 2028, designed now",
+    "month_theme": "Close the year",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "A paper week planner open to a blank week on an oak desk, a hand holding a pencil above monday, a lit candle and a ceramic cup, a sprig of dried eucalyptus, warm lamplight in a calm winter evening, 4:5 composition with calm empty space on the left side for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "design <em>the first week of 2028</em> now.",
+        "sub": "while the days between are quiet enough to think."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "three tasks for the week.",
+        "p": [
+          "not per day. for the whole week."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "one evening off, fixed.",
+        "p": [
+          "written in before anything else."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "a first step for each task.",
+        "p": [
+          "small enough to start cold."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "write it before the 31st.",
+        "p": [
+          "so january 3 opens on a plan."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "the first week of 2028, written this week.\n\nthree tasks for the whole week. one fixed evening off. a first step for each task, small enough to start cold. write it before the 31st, and monday january 3 opens on a plan instead of a blank page.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#executivefunction #weeklyplanning #focusprotocol #adhdwomen",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-12-27-R-A",
+    "date": "2027-12-27",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 52,
+    "week_theme": "the first week of 2028, designed now",
+    "month_theme": "Close the year",
+    "pillar": "P4",
+    "format": "tre-rader",
+    "avatar": true,
+    "hook_lines": [
+      "january 3 is a monday.",
+      "decide its first hour this week.",
+      "starting is the hard part. write it now."
+    ],
+    "start_frame_prompt": "A woman at an oak desk in a calm winter evening with a paper planner open, a lit candle and a warm lamp beside her, minimal natural makeup, no-makeup look, relaxed hair down, a soft grey cashmere knit, calm expression, over-the-shoulder view, candid mid-action, pencil resting on a page with faint marks too small to read, medium shot from chest up, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "gentle handheld drift behind her shoulder, she rests the pencil on the planner page, pauses, then sets it down beside the planner, her face stays turned to the page, candle flame sways and lamp light stays warm, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "calm piano morning",
+    "caption": "monday january 3, decided in december.\n\nstarting is the hard part. so decide the first hour of the year now: the task, the first step, where you sit. write it in the planner. on monday, the decision is already made.\n\nsend this to the friend who dreads the first monday of the year.\n\n#executivefunction #weeklyplanning #focusprotocol #adhdwomen",
+    "cta": "send"
+  },
+  {
+    "id": "2027-12-28-C-2",
+    "date": "2027-12-28",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 52,
+    "week_theme": "the first week of 2028, designed now",
+    "month_theme": "Close the year",
+    "pillar": "P4",
+    "avatar": false,
+    "cover_prompt": "An oak desk set up for a morning, a closed laptop, a linen notebook open to a page with one faint pencil line, a ceramic cup turned upside down ready for coffee, a pencil laid parallel, soft winter daylight and a warm lamp, 4:5 composition with calm empty space in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "the first hour of 2028, <em>written in december.</em>",
+        "sub": "four steps for the hardest part: starting."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "pick the first task.",
+        "p": [
+          "the one that makes the week feel begun."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "make the first step visible.",
+        "p": [
+          "a file open, a note on the keyboard."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "set out what you need.",
+        "p": [
+          "the night before, on the desk."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "decide where it stops.",
+        "p": [
+          "an end time makes the start lighter."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "write the first hour before the year begins.\n\npick the first task. make its first step visible. set out what you need the night before. decide when it stops. four small decisions in december, so the first hour of january has fewer of them.\n\nsave this for january 2.\n\n#executivefunction #weeklyplanning #focusprotocol #adhdwomen",
+    "cta": "save"
+  },
+  {
+    "id": "2027-12-29-R-B",
+    "date": "2027-12-29",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 52,
+    "week_theme": "the first week of 2028, designed now",
+    "month_theme": "Close the year",
+    "pillar": "P5",
+    "format": "fore-efter-listan",
+    "avatar": false,
+    "hook_lines": [
+      "first week of january: nine plans.",
+      "crossed down to three tasks.",
+      "the other six get a later week."
+    ],
+    "start_frame_prompt": "Overhead view of a hand with a pencil crossing out lines on a short cream paper list on an oak table, a plain unbranded laptop at the edge showing a blurred Notion page, a lit candle and a ceramic cup, warm lamplight, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static overhead camera, the pencil strikes through lines one by one, then circles three remaining lines and is set down beside the paper, candle light flickers softly over the desk, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "minimal piano calm",
+    "caption": "nine plans for one week is a month.\n\ncross the first week of january down to three tasks. the other six get a later week, written in. FOCUS+ Core is our own product. 4 phase protocols with a low-energy fallback, built in Notion.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #focusprotocol #weeklyplanning",
+    "cta": "core"
+  },
+  {
+    "id": "2027-12-30-C-3",
+    "date": "2027-12-30",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 52,
+    "week_theme": "the first week of 2028, designed now",
+    "month_theme": "Close the year",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "A linen sofa with a wool blanket, a small notebook open to a page with three short faint pencil lines, a lit candle and a ceramic mug of tea on an oak side table, warm low lamplight, a dark winter window, 4:5 composition with calm empty space on the left side for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "a <em>low-energy</em> first week, planned now.",
+        "sub": "for the january that starts slower than you hoped."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "one task per day.",
+        "p": [
+          "five tasks for the whole week."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "a fallback for each.",
+        "p": [
+          "the 20-minute version, written next to it."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "keep it on one page.",
+        "p": [
+          "the whole week, visible at once."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "plan a slower first week, in case.\n\none task per day. a 20-minute fallback written next to each. the whole week on one page. if january starts with more energy, good. if not, the plan already fits.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #adhdplanning #focusprotocol #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-12-31-C-4",
+    "date": "2027-12-31",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 52,
+    "week_theme": "the first week of 2028, designed now",
+    "month_theme": "Close the year",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "A plain unbranded laptop on an oak desk showing a blurred Notion page, a closed paper planner for the year beside it, a lit candle, a ceramic cup and a sprig of dried eucalyptus, warm lamplight on the last evening of december, 4:5 composition with calm empty space in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "the year ends. <em>the structure</em> stays.",
+        "sub": "FOCUS+ Core: one Notion system for 2028."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "14 pages.",
+        "p": [
+          "one workspace, built in Notion."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "6 databases.",
+        "p": [
+          "one structure instead of several apps."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "4 phase protocols.",
+        "p": [
+          "a low-energy fallback in each, one-click switch."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "€27 one-time.",
+        "p": [
+          "14-day money-back. public demo first."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "a structure that carries into next year.\n\nFOCUS+ Core is our own product. 14 pages, 6 databases, 4 phase protocols with a low-energy fallback and a one-click switch, built in Notion. look through the demo first, then decide.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #focusprotocol #weeklyplanning",
+    "cta": "core"
+  }
+]

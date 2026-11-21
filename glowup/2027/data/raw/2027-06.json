@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "2027-06-01-C-2",
+    "date": "2027-06-01",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 22,
+    "week_theme": "the two-minute entry point",
+    "month_theme": "Start friction",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a stack of ivory index cards on an oak desk, the top card blank, a graphite pencil beside it, a ceramic cup of coffee and a folded linen cloth, early summer morning light from a window, the upper half of the frame kept as calm empty wall, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "how to <em>write a two-minute entry</em> for any task.",
+        "sub": "four steps, done the night before."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "take the task as written.",
+        "p": [
+          "'plan the workshop.' too big to start."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "ask: what can i touch?",
+        "p": [
+          "a file, a folder, a person, a calendar."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "make it a verb and an object.",
+        "p": [
+          "'open last year's workshop file.' under two minutes."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "write it in front of the task.",
+        "p": [
+          "the entry goes first on the line, so you read it first."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "any task can be given a two-minute way in.\n\ntake the task as written, ask what you can physically touch, then turn it into a verb and an object. 'open last year's workshop file.' write it at the front of the line, so the entry is what you read first.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#executivefunction #adhdplanning #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-06-02-R-B",
+    "date": "2027-06-02",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 22,
+    "week_theme": "the two-minute entry point",
+    "month_theme": "Start friction",
+    "pillar": "P4",
+    "format": "ett-verktyg",
+    "avatar": false,
+    "hook_lines": [
+      "one index card per big task.",
+      "front: the task. back: the way in.",
+      "flip the card. do the back."
+    ],
+    "start_frame_prompt": "Vertical frame of a small stack of ivory index cards on a pale oak desk, a hand holding the top card between two fingers, faint blurred illegible pencil marks on it, a ceramic mug and a sprig of green in a bud vase, soft early summer daylight from a window, calm empty wall across the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "slow push-in, the hand turns the top card over and lays it beside the stack, soft daylight shifts gently across the desk, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "soft piano minimal",
+    "caption": "a card with two sides: the task, and the way in.\n\nwrite the big task on the front. on the back, the two-minute entry. in the morning you don't read the task. you flip the card and do the back.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#executivefunction #adhdwomen #focusprotocol",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-06-03-C-3",
+    "date": "2027-06-03",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 22,
+    "week_theme": "the two-minute entry point",
+    "month_theme": "Start friction",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a linen sofa with a wool blanket, a single index card and a pencil resting on a small oak tray beside a cup of tea, soft grey morning light through sheer curtains, a houseplant in a ceramic pot in the corner, the left half of the frame kept as calm empty wall for a headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "on a 1-out-of-5 day, <em>two minutes is the plan.</em>",
+        "sub": "not a warm-up for more. the whole plan, and it counts."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "pick one entry.",
+        "p": [
+          "the smallest one on your list. reply to one message. open one file."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "set a two-minute timer.",
+        "p": [
+          "when it rings, you are done unless you want more."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "log it.",
+        "p": [
+          "mark it as done. a low day with one entry is still a logged day."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "some days, two minutes is the whole plan.\n\npick the smallest entry on the list. set a two-minute timer. when it rings, stop unless you want to keep going. log it as done. the day had a plan, and you followed it.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #adhdwomen #executivefunction",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-06-04-C-4",
+    "date": "2027-06-04",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 22,
+    "week_theme": "the two-minute entry point",
+    "month_theme": "Start friction",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a laptop on an oak desk showing a softly blurred Notion page in pale tones with no readable words, a single ivory index card leaning against the screen base, a ceramic cup of tea, early summer light from an open window with a linen curtain, the upper half of the frame left as empty ivory wall, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "the <em>low-energy fallback,</em> built into every protocol.",
+        "sub": "four phase protocols, each with a smaller version for the days that need it."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "4 phase protocols.",
+        "p": [
+          "four protocols inside FOCUS+ Core, built in Notion."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "each has a low-energy fallback.",
+        "p": [
+          "a shorter version of the same day, there before you need it."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "pin your variant.",
+        "p": [
+          "pin the phase or energy variant you are in. switch with one click."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "see it in the demo.",
+        "p": [
+          "the public demo is open. €27 one-time, 14-day money-back."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "a two-minute day still needs a structure to sit in.\n\nevery one of the 4 phase protocols in FOCUS+ Core has a low-energy fallback: a shorter version of the same day. pin the variant you are in, switch with one click. built in Notion, 14 pages, 6 databases. look through the public demo first.\n\nFOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #lowenergydays #notionsetup",
+    "cta": "demo"
+  },
+  {
+    "id": "2027-06-05-R-C",
+    "date": "2027-06-05",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 22,
+    "week_theme": "the two-minute entry point",
+    "month_theme": "Start friction",
+    "pillar": "P4",
+    "format": "loop",
+    "avatar": true,
+    "hook_lines": [
+      "open the notebook.",
+      "write today's date.",
+      "you have already started."
+    ],
+    "start_frame_prompt": "A woman sitting on a linen window seat, opening a linen-bound notebook on her lap with a pencil in her other hand, early summer light through the window, minimal natural makeup, no-makeup look, relaxed hair down, ivory knit cardigan, calm expression, three-quarter view, looking away off-frame, medium shot from chest up, vertical composition with calm empty wall in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static locked-off camera, she makes a few small marks too small to read at the top of the page and rests the pencil on it, light moves softly, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "calm piano ambient",
+    "caption": "the smallest entry point is writing the date.\n\nopen the notebook. write today's date at the top. that is two minutes or less, and the page is no longer blank. what comes after is a second decision.\n\nsave this for the next blank-page morning.\n\n#executivefunction #adhdwomen #focusprotocol",
+    "cta": "save"
+  },
+  {
+    "id": "2027-06-06-C-5",
+    "date": "2027-06-06",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 22,
+    "week_theme": "the two-minute entry point",
+    "month_theme": "Start friction",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of an open weekly planner on an oak desk with five narrow day columns, each with one short blurred illegible pencil line and the rest left empty, a pencil and a ceramic cup of tea, warm sunday evening light, a linen throw on the chair back, the upper half of the frame kept as plain ivory wall, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "sunday: <em>five entries</em> for five weekdays.",
+        "sub": "one two-minute entry per day, written before the week begins."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "one main task per day.",
+        "p": [
+          "monday to friday, the thing that matters most that day."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "one entry each.",
+        "p": [
+          "a two-minute first action, written beside it."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "leave the rest blank.",
+        "p": [
+          "the entry is the plan. the rest of the day can stay open."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "a week planned in five lines.\n\none main task per weekday, and next to each, a two-minute first action. leave everything else blank. when monday comes, you start with something already decided.\n\nsave this for sunday evening.\n\n#weeklyreview #weeklyplanning #executivefunction",
+    "cta": "save"
+  },
+  {
+    "id": "2027-06-07-C-1",
+    "date": "2027-06-07",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 23,
+    "week_theme": "halfway, not behind",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a paper year planner open to june on an oak desk, the first half of the pages softly worn and the second half crisp, a pencil laid across the middle, a ceramic vase with a few stems of meadow flowers, bright early summer window light, the left half of the frame left as calm empty wall for a headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "june is the middle of the year, <em>not a deadline.</em>",
+        "sub": "behind assumes a pace set in january. check it against the real year."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "behind is a comparison.",
+        "p": [
+          "to a plan written before you knew what february would bring."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "list what happened.",
+        "p": [
+          "the projects that moved, the weeks that went to something else."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "redraw the line from here.",
+        "p": [
+          "half a year is left. plan it with the capacity you now know."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "the middle of the year is a checkpoint, not a verdict.\n\nthe january plan didn't know about march. list what moved and what took the space instead. then redraw the line from today, with the capacity you have measured, not the one you hoped for.\n\nsave this for your mid-year review.\n\n#weeklyreview #adhdwomen #weeklyplanning",
+    "cta": "save"
+  },
+  {
+    "id": "2027-06-07-R-A",
+    "date": "2027-06-07",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 23,
+    "week_theme": "halfway, not behind",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P2",
+    "format": "tre-rader",
+    "avatar": false,
+    "hook_lines": [
+      "the january plan didn't know.",
+      "it didn't know about march, or april.",
+      "plan the next six months from here."
+    ],
+    "start_frame_prompt": "Vertical frame of a hand closing an old paper planner and setting it to one side on an oak desk, a fresh notebook open beside it, a ceramic mug and a few meadow flowers in a small vase, bright early summer window light, calm empty ivory wall across the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "slow push-in, the hand closes the old planner and moves it gently to the side, bright light shifts softly, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "calm acoustic warm",
+    "caption": "you are not behind a plan that was written blind.\n\nthe january version of the year had no idea what spring would hold. close it. open a fresh page and plan july to december from where you are now, with what you know now.\n\nsend this to the friend who said 'i'm so behind' this week.\n\n#adhdwomen #weeklyplanning #weeklyreview",
+    "cta": "send"
+  },
+  {
+    "id": "2027-06-08-C-2",
+    "date": "2027-06-08",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 23,
+    "week_theme": "halfway, not behind",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P3",
+    "avatar": false,
+    "cover_prompt": "4:5 overhead view of an oak desk with a notebook open to a page divided into four blurred illegible sections, a small paper energy log with pencil dots beside it, a ceramic cup and a pencil, soft early summer daylight, the upper half of the frame left as calm empty linen, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "a <em>mid-year review</em> in four questions.",
+        "sub": "one sitting, one page, no scoring yourself."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "what moved since january?",
+        "p": [
+          "list it. small things count."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "what waited, and why?",
+        "p": [
+          "capacity, priority, or something else took the space."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "what did your log show?",
+        "p": [
+          "look at your energy notes. find the heavy weeks and the open ones."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "what is the one aim for H2?",
+        "p": [
+          "one line. it goes on the one-page plan later this month."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "four questions for the middle of the year.\n\nwhat moved, what waited and why, what your energy log shows, and one aim for the second half. look for the stretches that were heavy and the ones that had room. track your own pattern, then plan with it.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyreview #cycleawareplanning #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-06-09-R-B",
+    "date": "2027-06-09",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 23,
+    "week_theme": "halfway, not behind",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P2",
+    "format": "ett-verktyg",
+    "avatar": true,
+    "hook_lines": [
+      "fold one page in half.",
+      "left: what moved. right: what waited.",
+      "no third column for blame."
+    ],
+    "start_frame_prompt": "A woman at a pale oak desk by an open window, folding a single sheet of ivory paper in half with both hands, a pencil and a ceramic cup beside her, minimal natural makeup, no-makeup look, relaxed hair down, oat knit sweater with sleeves pushed up, focused expression, over-the-shoulder, medium shot from chest up, bright early summer daylight, vertical composition with calm empty wall in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "gentle handheld drift, she folds the sheet in half, presses the crease flat with her fingers and lays it open on the desk, her eyes stay on the paper, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "soft piano warm",
+    "caption": "a mid-year review on one folded page.\n\nleft side: what moved since january. right side: what waited. there is no third column for what you should have done. the two lists are enough to plan from.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyreview #adhdwomen #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-06-10-C-3",
+    "date": "2027-06-10",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 23,
+    "week_theme": "halfway, not behind",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P3",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a quiet bedroom corner with a linen-covered bed edge, a closed notebook and a pencil on a small oak nightstand beside a ceramic cup of water, soft early morning light behind a sheer curtain, a wool throw folded at the foot, the left half of the frame kept as calm empty wall for a headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "a halfway check <em>for a low week.</em>",
+        "sub": "three questions, answered from the sofa if that is where you are."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "what is still running?",
+        "p": [
+          "name one thing that kept going since january, however small."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "what can pause until august?",
+        "p": [
+          "pick one thing to set down on purpose."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "what does next week need?",
+        "p": [
+          "one line, written with your low days in mind."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "a mid-year check can be three lines long.\n\nname one thing that kept running since january. pick one thing to pause until august. write one line for next week. if your energy shifts across the month, the review can be short when it needs to be.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #cycleawareplanning #weeklyreview",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-06-11-C-4",
+    "date": "2027-06-11",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 23,
+    "week_theme": "halfway, not behind",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a laptop on an oak desk with a softly blurred Notion workspace in pale tones and no readable words, a paper calendar open to june beside it, a ceramic mug and a few meadow flowers in a small vase, warm early summer light, the upper half of the frame left as calm ivory wall, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "start a system <em>in june,</em> not january.",
+        "sub": "FOCUS+ Core can start on any day of the year."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "built in Notion.",
+        "p": [
+          "14 pages and 6 databases, ready on any day of the year."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "4 phase protocols.",
+        "p": [
+          "pick the one that fits the week you are in."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "one-click switch.",
+        "p": [
+          "when the week changes, switch protocols without starting over."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "€27 one-time.",
+        "p": [
+          "14-day money-back. look through the public demo first."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "the middle of the year is a fine place to start a structure.\n\nFOCUS+ Core is 14 pages and 6 databases, built in Notion. 4 phase protocols, each with a low-energy fallback, switched with one click. pin the phase or energy variant you are in. €27 one-time, 14-day money-back.\n\nFOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #weeklyplanning",
+    "cta": "core"
+  },
+  {
+    "id": "2027-06-12-R-C",
+    "date": "2027-06-12",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 23,
+    "week_theme": "halfway, not behind",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P2",
+    "format": "loop",
+    "avatar": false,
+    "hook_lines": [
+      "the middle of the year.",
+      "same desk, same light, same week.",
+      "nothing is late. it is just june."
+    ],
+    "start_frame_prompt": "Vertical frame of a quiet oak desk beside an open window, a sheer linen curtain lifting slightly, an open notebook with a pencil, a ceramic cup and a small bowl of strawberries, bright early summer morning light, calm empty ivory wall across the upper third, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static locked-off camera, the linen curtain lifts in a soft breeze and settles again, light shimmers gently across the notebook, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "warm acoustic calm",
+    "caption": "june is a month, not a deadline.\n\nthe desk is the same, the light is longer, the year has six months left in it. before you count what is late, write down what is still running. then plan the next week from there.\n\nsave this for the next time 'behind' shows up.\n\n#weeklyreview #adhdwomen #focusprotocol",
+    "cta": "save"
+  },
+  {
+    "id": "2027-06-13-C-5",
+    "date": "2027-06-13",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 23,
+    "week_theme": "halfway, not behind",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a sunday evening table with a linen runner, an open notebook with three short blurred illegible lines, a pencil, a ceramic cup of tea and a small bowl of cherries, soft golden-grey window light, the upper half of the frame kept as plain ivory wall, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "sunday: <em>three wins</em> from the first half.",
+        "sub": "before you plan H2, write down what already happened."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "one thing you finished.",
+        "p": [
+          "a project, a form, a hard conversation. it is done."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "one thing you kept doing.",
+        "p": [
+          "a routine that survived january to june, however small."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "one thing you stopped on purpose.",
+        "p": [
+          "a decision counts as much as a result."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "three lines before you plan the second half.\n\none thing you finished, one thing you kept doing, one thing you stopped on purpose. the first half of the year is data. write it down before you plan the rest.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyreview #weeklyplanning #adhdwomen",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-06-14-C-1",
+    "date": "2027-06-14",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 24,
+    "week_theme": "keep, cut, change",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "4:5 overhead view of a sheet of ivory paper ruled into three columns with blurred illegible pencil notes, a pencil and an eraser, a ceramic cup of coffee and a linen napkin on an oak desk, bright early summer light, the upper half of the frame kept as calm empty desk surface, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "three columns: <em>keep, cut, change.</em>",
+        "sub": "a mid-year audit for every routine, tool and commitment you carry."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "list everything recurring.",
+        "p": [
+          "routines, apps, meetings, standing promises."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "keep: it earns its place.",
+        "p": [
+          "you would choose it again today."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "cut: it runs on habit.",
+        "p": [
+          "nobody would notice if it stopped. stop it."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "change: right idea, wrong shape.",
+        "p": [
+          "keep the aim, redesign the size, the day or the time."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "everything recurring gets one of three marks.\n\nlist your routines, apps, meetings and standing promises. keep what you would choose again today. cut what runs on habit. change what has the right aim and the wrong shape. do it once mid-year and the second half starts with less on paper.\n\nsave this for your sunday desk.\n\n#weeklyreview #weeklyplanning #adhdplanning #executivefunction",
+    "cta": "save"
+  },
+  {
+    "id": "2027-06-14-R-A",
+    "date": "2027-06-14",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 24,
+    "week_theme": "keep, cut, change",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P2",
+    "format": "fore-efter-listan",
+    "avatar": false,
+    "hook_lines": [
+      "eleven routines in january.",
+      "four still running in june.",
+      "keep the four. cut the rest on purpose."
+    ],
+    "start_frame_prompt": "Vertical frame looking down at a long handwritten list on ivory paper, the lines blurred and illegible, a hand holding a dark pencil at the top of the page, an oak desk, a ceramic cup and a folded sage linen cloth at the side, bright early summer daylight, calm empty desk surface in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "slow push-in, the hand draws a soft line through one entry after another, leaving four lines untouched, then lays the pencil down beside the page and rests the hand flat on the desk, light shifts gently, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "minimal piano steady",
+    "caption": "the routines that survived to june are telling you something.\n\nlist what you started in january. mark what is still running. keep those, and cut the rest on purpose instead of carrying them every week.\n\nsend this to the friend still carrying her whole january list.\n\n#weeklyreview #adhdwomen #weeklyplanning",
+    "cta": "send"
+  },
+  {
+    "id": "2027-06-15-C-2",
+    "date": "2027-06-15",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 24,
+    "week_theme": "keep, cut, change",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a small pale ceramic timer next to a sheet of paper with three short columns of blurred illegible notes on an oak desk, a pencil, a linen napkin and a glass of water, soft summer daylight, the upper half of the frame left as calm empty ivory wall, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "run a <em>keep, cut, change</em> audit in 20 minutes.",
+        "sub": "a timer, a list of everything recurring, and three marks."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "set 20 minutes.",
+        "p": [
+          "the audit has an end, so it does not become a project."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "list every recurring thing.",
+        "p": [
+          "scroll your calendar and your phone. write each one down."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "mark each one.",
+        "p": [
+          "k for keep, c for cut, ch for change. no explaining."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "act on one cut today.",
+        "p": [
+          "cancel it, unsubscribe, or send the message. one is enough."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "an audit with a timer on it.\n\ntwenty minutes. list every recurring thing from your calendar and phone. mark each one keep, cut or change, without explaining. then act on one cut before the day ends. the rest can wait for next week.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyreview #adhdplanning #executivefunction",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-06-16-R-B",
+    "date": "2027-06-16",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 24,
+    "week_theme": "keep, cut, change",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P2",
+    "format": "ett-verktyg",
+    "avatar": false,
+    "hook_lines": [
+      "write a cut list this week.",
+      "three things you will stop doing.",
+      "cross them off before you start them."
+    ],
+    "start_frame_prompt": "Vertical frame of a small ivory card on an oak desk with three short blurred illegible pencil lines, a hand holding a pencil beside it, a ceramic mug and a sprig of green in a glass bottle, soft summer window light, calm empty pale wall across the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static locked-off camera, the hand draws a slow line through each of the three lines on the card and sets the pencil down, light shifts softly, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "calm piano focus",
+    "caption": "a cut list is a plan for what leaves.\n\nthree things you will stop doing this week: a meeting, a habit that runs on autopilot, a promise nobody is holding you to. write them down and cross them off before they happen.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyplanning #adhdwomen #executivefunction",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-06-17-C-3",
+    "date": "2027-06-17",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 24,
+    "week_theme": "keep, cut, change",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a calm sofa corner with a linen cushion, a phone lying face down with a dark screen on a small oak tray, a ceramic cup of tea and a closed notebook, soft overcast summer light, a wool blanket folded nearby, the left half of the frame kept as quiet empty wall for a headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "keep, cut, change <em>on a low day.</em>",
+        "sub": "the short version: one cut, nothing else."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "open this week's calendar.",
+        "p": [
+          "or just think through the next five days."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "cut one thing.",
+        "p": [
+          "the one that costs more than it gives right now."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "tell one person.",
+        "p": [
+          "a short message: 'stepping back from this until august.'"
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "on a low day, the audit is one cut.\n\nlook at the next five days. find the one thing that costs more than it gives right now. cut it, and send one short message to whoever needs to know. the full audit can wait for a day with more room.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #adhdwomen #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-06-18-C-4",
+    "date": "2027-06-18",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 24,
+    "week_theme": "keep, cut, change",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a laptop on a pale oak desk with a softly blurred Notion workspace in muted tones and no readable words, a sheet of paper with three columns of blurred illegible marks beside it, a ceramic mug, warm summer side light, the upper half of the frame left as empty ivory wall, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "keep <em>one protocol pinned,</em> change it in one click.",
+        "sub": "the structure stays. the version of the day changes."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "keep: the structure.",
+        "p": [
+          "the same 14 pages and 6 databases, built in Notion, every week."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "change: the protocol.",
+        "p": [
+          "4 phase protocols. switch between them with one click."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "cut: the rebuild.",
+        "p": [
+          "pin your phase or energy variant instead of redesigning the plan."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "look first.",
+        "p": [
+          "the public demo is open. €27 one-time, 14-day money-back."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "keep the structure, change the version, cut the rebuild.\n\nFOCUS+ Core keeps 14 pages and 6 databases the same, built in Notion. what changes is the protocol: 4 phase protocols, each with a low-energy fallback, switched with one click. pin the variant you are in. open the public demo before you decide.\n\nFOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #adhdplanning",
+    "cta": "demo"
+  },
+  {
+    "id": "2027-06-19-R-C",
+    "date": "2027-06-19",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 24,
+    "week_theme": "keep, cut, change",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P1",
+    "format": "loop",
+    "avatar": true,
+    "hook_lines": [
+      "clear the desk.",
+      "keep three things on it.",
+      "the rest goes in the basket."
+    ],
+    "start_frame_prompt": "A woman at a pale oak desk, placing a stack of papers into a woven linen basket, a notebook, a ceramic mug and a pencil left on the desk, minimal natural makeup, no-makeup look, relaxed hair down, grey knit sweater, calm expression, three-quarter view, looking away off-frame, medium shot from chest up, soft summer morning light, vertical composition with calm empty wall in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static locked-off camera, she lowers the papers into the basket and straightens the notebook on the desk with one hand, light drifts softly, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "soft ambient piano",
+    "caption": "keep, cut, change, done with your hands.\n\nclear the desk. keep three things on it: what you need today. everything else goes in a basket, not the bin. the decision about it can wait. the desk you work at holds today's three.\n\nsave this for saturday morning.\n\n#lowenergydays #adhdwomen #focusprotocol",
+    "cta": "save"
+  },
+  {
+    "id": "2027-06-20-C-5",
+    "date": "2027-06-20",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 24,
+    "week_theme": "keep, cut, change",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of an open weekly planner on a linen tablecloth, one blurred illegible line softly crossed through, a pencil and a ceramic cup of tea, light summer evening glow through a window, a small vase of meadow flowers, the upper half of the frame kept as plain ivory linen, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "sunday: <em>one cut</em> before the new week.",
+        "sub": "the new week starts with one thing removed on purpose."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "scan the coming week.",
+        "p": [
+          "every meeting, errand and promise from monday to sunday."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "find the thing on autopilot.",
+        "p": [
+          "the one you would not say yes to if asked today."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "cancel, hand over, or move it.",
+        "p": [
+          "to august, to someone else, or off the list."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "one cut on sunday, before the week fills.\n\nscan monday to sunday. find the thing running on autopilot, the one you would not agree to if someone asked today. cancel it, hand it over, or move it to august. then plan the rest.\n\nsave this for sunday evening.\n\n#weeklyreview #weeklyplanning #adhdplanning",
+    "cta": "save"
+  },
+  {
+    "id": "2027-06-21-C-1",
+    "date": "2027-06-21",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 25,
+    "week_theme": "designing H2 in one page",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P3",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a single sheet of heavy ivory paper on an oak desk with six short blurred illegible pencil lines down the left edge, a pencil and a ceramic cup of coffee, a sprig of elderflower in a small glass bottle, long midsummer daylight from a window, the upper half of the frame kept as calm empty wall, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "the whole second half <em>on one page.</em>",
+        "sub": "six months, six lines, one sheet of paper."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "one line per month.",
+        "p": [
+          "july to december. one focus for each."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "mark the heavy stretches.",
+        "p": [
+          "holidays, busy weeks at work, and the months your log shows as low."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "one keep, one cut.",
+        "p": [
+          "from last week's audit, carried forward."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "pin it where you plan.",
+        "p": [
+          "inside the notebook cover or at the top of your planning page."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "six months fit on one page if each month gets one line.\n\nwrite july to december down the side. one focus per month. mark the busy stretches and the ones your energy log shows as low. add one keep and one cut. pin it where you plan.\n\nsave this for midsummer week.\n\n#weeklyplanning #cycleawareplanning #weeklyreview #adhdplanning",
+    "cta": "save"
+  },
+  {
+    "id": "2027-06-21-R-A",
+    "date": "2027-06-21",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 25,
+    "week_theme": "designing H2 in one page",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P2",
+    "format": "tre-rader",
+    "avatar": false,
+    "hook_lines": [
+      "six months fit on one page.",
+      "if every month gets one line.",
+      "july: less. august: rebuild. september: build."
+    ],
+    "start_frame_prompt": "Vertical frame of a single sheet of ivory paper on a pale oak desk, a hand writing a short blurred illegible line near the top, a ceramic cup and a sprig of elderflower in a small glass bottle, long soft midsummer daylight from a window, calm empty wall across the upper third, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "slow push-in, the hand makes one short pencil line, too small to read, moves the pencil down to the next line and pauses there for a moment, the sheer curtain shadow drifts softly across the paper, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "calm acoustic minimal",
+    "caption": "the second half of the year, on one sheet.\n\none line per month, july to december. a word or a short phrase each: less, rebuild, build, finish. if a month needs more than a line, it is a project, and it goes somewhere else.\n\nsend this to the friend planning H2 in a 40-tab spreadsheet.\n\n#weeklyplanning #adhdwomen #weeklyreview",
+    "cta": "send"
+  },
+  {
+    "id": "2027-06-22-C-2",
+    "date": "2027-06-22",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 25,
+    "week_theme": "designing H2 in one page",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "4:5 overhead view of a sheet of ivory paper on an oak desk, a ruler and a pencil laid beside it, a small paper calendar with a few dates softly circled, a ceramic cup of tea and a linen napkin, bright summer daylight, the upper half of the frame left as calm empty desk surface, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "build your <em>one-page H2</em> step by step.",
+        "sub": "a single sheet, filled in this order."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "write the six months down the side.",
+        "p": [
+          "july at the top, december at the bottom."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "add the dates you already know.",
+        "p": [
+          "holidays, launches, school terms, trips."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "one focus per month.",
+        "p": [
+          "a word or short phrase, not a list."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "one keep and one cut at the bottom.",
+        "p": [
+          "carried over from your mid-year audit."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "one page, filled in a fixed order.\n\nmonths down the side. known dates next to them. one focus per month, a word or a short phrase. a keep and a cut at the bottom. it takes about twenty minutes and fits on the inside of a notebook cover.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyplanning #weeklyreview #adhdplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-06-23-R-B",
+    "date": "2027-06-23",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 25,
+    "week_theme": "designing H2 in one page",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P2",
+    "format": "ett-verktyg",
+    "avatar": true,
+    "hook_lines": [
+      "one sheet. six lines.",
+      "a month per line, nothing more.",
+      "pin it above the desk."
+    ],
+    "start_frame_prompt": "A woman standing at a pale oak desk, pinning a single sheet of ivory paper to a linen pinboard on the wall with one hand, minimal natural makeup, no-makeup look, relaxed hair down, oat knit cardigan over an ivory top, contemplative expression, side profile, medium shot from chest up, long midsummer daylight from a window, vertical composition with calm empty wall in the upper third, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "gentle handheld drift, she presses the pin into the board and smooths the sheet with her palm, keeping her eyes on the paper, soft light moves across the wall, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "soft piano warm",
+    "caption": "the plan for the rest of the year, at eye level.\n\none sheet, six lines, one per month. pin it above the desk where you see it every day. when a new request comes in, you have a page to check it against.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyplanning #adhdwomen #focusprotocol",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-06-24-C-3",
+    "date": "2027-06-24",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 25,
+    "week_theme": "designing H2 in one page",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P3",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a garden chair with a linen cushion under a birch tree, a closed notebook and a pencil on a small wooden stool beside a glass of water, soft dappled midsummer light, meadow grass in the background, the left half of the frame kept as calm out-of-focus green and ivory space for a headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "the low-energy version of H2: <em>three lines.</em>",
+        "sub": "if six feels like a lot this week, start with three."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "one thing to protect.",
+        "p": [
+          "a habit, a rest day, a person."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "one thing to finish.",
+        "p": [
+          "the project you want closed by december."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "one thing to drop.",
+        "p": [
+          "write it down, so the decision is made."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "the second half can start as three lines.\n\none thing to protect, one to finish, one to drop. if your log shows a low stretch coming, write the three now and add the rest later. track your own pattern and let the plan match it.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #cycleawareplanning #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-06-25-C-4",
+    "date": "2027-06-25",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 25,
+    "week_theme": "designing H2 in one page",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a laptop on a linen-covered table outdoors in soft midsummer light, the screen showing a softly blurred Notion page in pale tones with no readable words, a single sheet of ivory paper beside it, a glass of elderflower water and a small bunch of meadow flowers, the upper half of the frame left as calm out-of-focus garden and sky, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "one page for H2, <em>one system</em> to run it.",
+        "sub": "FOCUS+ Core: 14 pages and 6 databases, built in Notion."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "the page is the plan.",
+        "p": [
+          "your one-page H2 says where the months are going."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "the protocols run the weeks.",
+        "p": [
+          "4 phase protocols, each with a low-energy fallback."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "switch when the month changes.",
+        "p": [
+          "one click between protocols. pin your phase or energy variant."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "€27 one-time.",
+        "p": [
+          "14-day money-back. see the public demo first."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "a one-page plan for the months, a structure for the weeks.\n\nFOCUS+ Core runs the weeks: 4 phase protocols with a low-energy fallback, a one-click switch, your phase or energy variant pinned. 14 pages, 6 databases, built in Notion. €27 one-time, 14-day money-back.\n\nFOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #weeklyplanning",
+    "cta": "core"
+  },
+  {
+    "id": "2027-06-26-R-C",
+    "date": "2027-06-26",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 25,
+    "week_theme": "designing H2 in one page",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P2",
+    "format": "loop",
+    "avatar": false,
+    "hook_lines": [
+      "a sheet of paper by the window.",
+      "july to december, six lines.",
+      "the light changes. the page stays."
+    ],
+    "start_frame_prompt": "Vertical frame of a single sheet of ivory paper resting on a pale oak windowsill held flat by a small smooth stone, a ceramic cup beside it, a linen curtain and soft midsummer evening light outside, calm empty pale wall across the upper third, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static locked-off camera, the curtain drifts in a soft breeze, the edge of the paper lifts slightly under the stone and settles, evening light warms and fades gently, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "slow piano evening",
+    "caption": "a plan you can leave on the windowsill.\n\nsix lines, one per month, held down by a stone. no app to open, no login. a glance at the sill shows where the year is going.\n\nsend this to the friend who would keep it on the fridge.\n\n#weeklyplanning #adhdwomen #weeklyreview",
+    "cta": "send"
+  },
+  {
+    "id": "2027-06-27-C-5",
+    "date": "2027-06-27",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 25,
+    "week_theme": "designing H2 in one page",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P3",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of an open weekly planner on an oak desk, two day columns left completely empty and the rest with a few blurred illegible pencil lines, a sheet of ivory paper with six lines beside it, a ceramic cup of tea, warm sunday evening summer light, the upper half of the frame kept as plain ivory wall, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "sunday: <em>plan the first week</em> of H2.",
+        "sub": "midsummer week, planned light on purpose."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "take july's line from your H2 page.",
+        "p": [
+          "one focus for the month, already chosen."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "check your log.",
+        "p": [
+          "if this stretch had less room last month, plan for that again."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "turn it into three tasks.",
+        "p": [
+          "three for the whole week, not three per day."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "leave two days empty.",
+        "p": [
+          "nothing scheduled. that is the design."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "the first week of the second half, planned light.\n\ntake july's line from your one-page H2. check your energy log for how this stretch went last month. turn the focus into three tasks for the whole week and leave two days with nothing on them.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyreview #cycleawareplanning #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-06-28-C-1",
+    "date": "2027-06-28",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 26,
+    "week_theme": "midsummer: a week with less on purpose",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of an oak desk near an open window in midsummer, a laptop closed, a single notebook open with only one blurred illegible line on the page, a glass of water and a small bunch of wild flowers in a ceramic jug, soft afternoon light, the left half of the frame kept as calm empty ivory wall for a headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "a week with <em>less in it,</em> planned that way.",
+        "sub": "after midsummer, design a lighter week instead of waiting for one."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "halve the list.",
+        "p": [
+          "write your usual list, then keep half. choose which half."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "one anchor per day.",
+        "p": [
+          "one task that makes the day count. nothing else is required."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "leave afternoons open.",
+        "p": [
+          "the light lasts late. let the plan end early."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "write it as a rule.",
+        "p": [
+          "'this week: one anchor a day.' put it at the top of the page."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "a lighter week, designed on purpose.\n\nwrite your usual list, keep half. give each day one anchor task and nothing else required. leave the afternoons open. write the rule at the top of the page so it holds on wednesday.\n\nsave this for monday morning.\n\n#lowenergydays #weeklyplanning #adhdwomen",
+    "cta": "save"
+  },
+  {
+    "id": "2027-06-28-R-A",
+    "date": "2027-06-28",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 26,
+    "week_theme": "midsummer: a week with less on purpose",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P1",
+    "format": "tre-rader",
+    "avatar": false,
+    "hook_lines": [
+      "less on purpose is still a plan.",
+      "one anchor task a day.",
+      "then close the laptop at three."
+    ],
+    "start_frame_prompt": "Vertical frame of a hand resting on a closed laptop on an oak desk beside an open window, a glass of water and a small jug of wild flowers, a linen curtain moving in the background, warm midsummer afternoon light, calm empty pale wall across the upper third, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "slow push-in, the hand slides the closed laptop to the back of the desk and places a small bunch of flowers in front of it, the curtain drifts softly in the warm light, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "warm acoustic slow",
+    "caption": "a quiet week counts as a plan when you design it.\n\none anchor task a day. when it is done, the day is done. close the laptop at three and let the afternoon be the rest of the design.\n\nsend this to the friend who needs permission to do less this week.\n\n#lowenergydays #adhdwomen #weeklyplanning",
+    "cta": "send"
+  },
+  {
+    "id": "2027-06-29-C-2",
+    "date": "2027-06-29",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 26,
+    "week_theme": "midsummer: a week with less on purpose",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "4:5 overhead view of a weekly planner on a linen tablecloth with only a few short blurred illegible lines across the days, a pencil, a glass of water, a small plate of strawberries, soft midsummer daylight, the upper half of the frame left as calm empty linen, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "how to <em>plan a light week</em> in four steps.",
+        "sub": "less, designed in advance, so it reads as a choice."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "pick the week.",
+        "p": [
+          "this one, or the next one with room to shrink."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "list only what has a date.",
+        "p": [
+          "appointments and deadlines. everything else waits."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "add one anchor per day.",
+        "p": [
+          "one task each day that keeps the week moving."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "write the stop time.",
+        "p": [
+          "the hour the day ends, on the same line as the anchor."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "a light week is designed before it starts.\n\npick the week. list only what has a date. add one anchor task per day. write the stop time next to it. what does not fit waits for august, on purpose.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #weeklyplanning #adhdplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-06-30-R-B",
+    "date": "2027-06-30",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 26,
+    "week_theme": "midsummer: a week with less on purpose",
+    "month_theme": "Mid-year recalibration",
+    "pillar": "P1",
+    "format": "ett-verktyg",
+    "avatar": false,
+    "hook_lines": [
+      "write a stop time.",
+      "on the same line as the first task.",
+      "when the clock gets there, the day is done."
+    ],
+    "start_frame_prompt": "Vertical frame of an open notebook on a pale oak desk with one short blurred illegible line, a hand making a few small marks too small to read at the end of that line, a small round clock with no numerals and a glass of water nearby, soft midsummer afternoon light, calm empty ivory wall across the upper third, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static locked-off camera, the hand underlines the short line once, then closes the notebook, light shifts softly over the desk, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "calm piano summer",
+    "caption": "a day with an end written into it.\n\nnext to your first task, write the time the day stops. on a light week it might be three o'clock. when the clock gets there, close the notebook. if you want the same idea inside a structure, FOCUS+ Core has a low-energy fallback in each of its 4 phase protocols.\n\nFOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#lowenergydays #notiontemplate #weeklyplanning",
+    "cta": "core"
+  }
+]

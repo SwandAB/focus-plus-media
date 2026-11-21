@@ -1,0 +1,1528 @@
+[
+  {
+    "id": "2027-04-01-C-3",
+    "date": "2027-04-01",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 13,
+    "week_theme": "Q1 recalibration",
+    "month_theme": "The weekly review",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "A single sheet of paper with one blurred unreadable line of handwriting resting on a folded wool blanket, a cup of tea on an oak stool beside it, a pencil laid across the sheet, soft grey April morning light, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "the <em>low-energy</em> quarterly review.",
+        "sub": "if the quarter wore you out, the review can be small."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "one question.",
+        "p": [
+          "what do you want less of in q2?"
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "one action.",
+        "p": [
+          "remove it from the calendar today, before april fills up."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "that's it.",
+        "p": [
+          "the full review can happen in a later week, or not at all."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "if the first quarter wore you out, keep the quarterly review small.\n\none question: what do you want less of in q2? one action: take it off the calendar today, while april is still mostly empty. the longer review can wait for a week with more room, or be skipped entirely.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #cycleawareplanning #adhdwomen #executivefunction",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-04-02-C-4",
+    "date": "2027-04-02",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 13,
+    "week_theme": "Q1 recalibration",
+    "month_theme": "The weekly review",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "A laptop on a pale oak desk with a softly blurred Notion workspace on screen and no readable words, a fresh notebook open to a clean page beside it, a small vase of spring branches, clear morning light, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "q2 starts on <em>a protocol,</em> not a blank page.",
+        "sub": "how FOCUS+ Core carries one quarter into the next."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "nothing to rebuild.",
+        "p": [
+          "14 pages and 6 databases stay in place. you adjust, you don't restart."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "change the protocol.",
+        "p": [
+          "4 phase protocols with a low-energy fallback. switch in one click."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "pin what worked.",
+        "p": [
+          "pin the phase or energy variant you used most in q1."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "try the demo.",
+        "p": [
+          "public demo first. €27 one-time, 14-day money-back."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "a new quarter can start on a protocol instead of a blank page.\n\nFOCUS+ Core keeps its 14 pages and 6 databases in Notion from one quarter to the next. adjust instead of rebuilding: switch between 4 phase protocols in one click, and pin the phase or energy variant that ran best for you in q1.\n\nFOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #cycleawareplanning #focusprotocol",
+    "cta": "demo"
+  },
+  {
+    "id": "2027-04-03-R-C",
+    "date": "2027-04-03",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 13,
+    "week_theme": "Q1 recalibration",
+    "month_theme": "The weekly review",
+    "pillar": "P2",
+    "format": "loop",
+    "avatar": false,
+    "hook_lines": [
+      "march, filed away.",
+      "a clean page for april.",
+      "one change carried over. nothing else."
+    ],
+    "start_frame_prompt": "A closed linen-bound notebook resting on a short stack of older notebooks on a pale oak desk, a new notebook beside it, a hand at the edge of frame, a ceramic cup and a sprig of spring blossom in a small vase, soft morning light, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Slow push-in, the hand opens the new notebook to its first page and smooths it flat, then lets the cover close again, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "soft spring piano",
+    "caption": "march is filed away. april gets a clean page and one change.\n\nclose the quarter's notebook. open a new page and write the one rule you chose at the end of march at the top. nothing else carries over: no backlog, no catch-up list.\n\nsave this for the first sunday of april.\n\n#weeklyreview #weeklyplanning #focusprotocol #adhdwomen",
+    "cta": "save"
+  },
+  {
+    "id": "2027-04-04-C-5",
+    "date": "2027-04-04",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 13,
+    "week_theme": "Q1 recalibration",
+    "month_theme": "The weekly review",
+    "pillar": "P2",
+    "avatar": true,
+    "cover_prompt": "A woman at a sunlit kitchen table making one small pencil line at the top of a fresh notebook page, marks too small to read, a ceramic cup of coffee and a small vase of spring branches beside her, minimal natural makeup, no-makeup look, relaxed hair down, an ivory cotton knit sweater, focused expression, three-quarter view, looking away off-frame, medium shot from chest up, soft April daylight, oak table, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "first sunday of q2: <em>write the one rule</em> down.",
+        "sub": "the quarterly change, written where you'll see it every week."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "one sentence.",
+        "p": [
+          "the rule you chose at the end of march, written in full."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "put it on the review page.",
+        "p": [
+          "top line, every sunday until june."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "check it once a week.",
+        "p": [
+          "did the week follow the rule? yes or no, no essay."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "the first sunday of q2 is for writing the quarter's one rule down.\n\none full sentence, the change you chose at the end of march. put it on the top line of every sunday review page until june. each week, check it with yes or no. that's how one change gets tested instead of forgotten.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyreview #weeklyplanning #focusprotocol #adhdwomen",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-04-05-C-1",
+    "date": "2027-04-05",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 14,
+    "week_theme": "your month is not flat",
+    "month_theme": "Track your own pattern",
+    "pillar": "P3",
+    "avatar": false,
+    "cover_prompt": "A paper month calendar on an oak desk with some squares softly shaded in sage pencil and others in dusty rose, creating an uneven pattern, a pencil and a ceramic cup beside it, soft daylight from the left, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "your month <em>is not flat.</em> the plan can follow it.",
+        "sub": "some weeks have more room than others. plan for the shape you have."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "the flat plan.",
+        "p": [
+          "same tasks, same pace, every week. it assumes nothing changes."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "the shape.",
+        "p": [
+          "if your energy shifts across the month, the plan can shift with it."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "find it in your own data.",
+        "p": [
+          "a month of evening numbers shows where your weeks dip."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "plan in two speeds.",
+        "p": [
+          "full weeks and lighter weeks, decided before the month starts."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "your month isn't flat, so the plan doesn't have to be either.\n\na flat plan gives every week the same list and the same pace. if your energy shifts across the month, look at your own log, find where the weeks dip, and decide in advance which weeks run at full speed and which run lighter.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#cycleawareplanning #weeklyplanning #adhdwomen #focusprotocol",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-04-05-R-A",
+    "date": "2027-04-05",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 14,
+    "week_theme": "your month is not flat",
+    "month_theme": "Track your own pattern",
+    "pillar": "P3",
+    "format": "fel-fraga-ratt-fraga",
+    "avatar": true,
+    "hook_lines": [
+      "not 'why am i slower?'",
+      "ask 'which week of my month is this?'",
+      "track your own pattern and plan around it."
+    ],
+    "start_frame_prompt": "A woman leaning against a windowsill holding a paper month calendar in both hands and studying it, minimal natural makeup, no-makeup look, relaxed hair down, a grey wool knit cardigan, contemplative expression, side profile, looking away off-frame, medium shot from chest up, soft spring daylight, linen curtains and a ceramic vase on the sill, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Gentle handheld drift, she lowers the calendar slightly, runs one finger slowly along a row of squares and pauses on one of them, her gaze stays on the paper, the linen curtains move a little in the breeze, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "reflective piano soft",
+    "caption": "'why am i slower this week?' is the wrong question.\n\na better one: which week of my month is this? log your energy for a month and you'll see whether the slower weeks land in the same place. then the plan can expect them instead of you apologising for them.\n\nsend this to the friend who blames herself for a slow week.\n\n#cycleawareplanning #weeklyplanning #adhdwomen #focusprotocol",
+    "cta": "send"
+  },
+  {
+    "id": "2027-04-06-C-2",
+    "date": "2027-04-06",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 14,
+    "week_theme": "your month is not flat",
+    "month_theme": "Track your own pattern",
+    "pillar": "P3",
+    "avatar": false,
+    "cover_prompt": "A month of evening energy numbers written in a narrow column on a paper sheet, blurred and unreadable, some rows lightly shaded in pencil, an eraser and pencil on an oak desk, a linen runner and stoneware cup, calm morning light, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "how to <em>see the shape</em> of your month.",
+        "sub": "turn thirty days of numbers into a two-speed plan."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "lay out the month.",
+        "p": [
+          "one row per day, your evening number beside each date."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "shade the lows.",
+        "p": [
+          "anything 1 or 2 gets a soft pencil shade."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "look for clusters.",
+        "p": [
+          "three or more shaded days in a row is a stretch, not a bad day."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "mark next month.",
+        "p": [
+          "pencil the same stretch into next month's calendar as 'lighter'."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "thirty evening numbers show the shape of your month if you lay them out.\n\none row per day, number beside the date. shade every 1 or 2. three shaded days in a row is a stretch. pencil that stretch into next month as 'lighter' before anything else gets booked there.\n\nsave this for the end of the month.\n\n#cycleawareplanning #weeklyplanning #adhdwomen #focusprotocol",
+    "cta": "save"
+  },
+  {
+    "id": "2027-04-07-R-B",
+    "date": "2027-04-07",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 14,
+    "week_theme": "your month is not flat",
+    "month_theme": "Track your own pattern",
+    "pillar": "P3",
+    "format": "ett-verktyg",
+    "avatar": false,
+    "hook_lines": [
+      "two pencils: one sage, one rose.",
+      "sage for room. rose for less room.",
+      "shade the calendar and the month stops looking flat."
+    ],
+    "start_frame_prompt": "Two unbranded coloured pencils, one sage green and one dusty rose, lying on a printed paper month calendar on an oak desk, several squares already lightly shaded, a hand entering from the right, soft window light, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Static locked-off camera, the hand lightly shades one calendar square with the rose pencil, then sets it down beside the sage one, light stays soft, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "minimal acoustic calm",
+    "caption": "two pencils are enough to see whether your month is flat.\n\neach evening, shade today's square: sage if the day had room, rose if it didn't. no numbers, no notes. after a few weeks, look at the page. the clusters of rose are where next month's lighter weeks go.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#cycleawareplanning #weeklyplanning #adhdwomen #focusprotocol",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-04-08-C-3",
+    "date": "2027-04-08",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 14,
+    "week_theme": "your month is not flat",
+    "month_theme": "Track your own pattern",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "A short handwritten list of three blurred unreadable lines on a small card resting on a wool throw, a cup of tea and a ceramic lamp on an oak side table, soft dim afternoon light, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "on a <em>low stretch,</em> plan less on purpose.",
+        "sub": "the low-energy side of a month that isn't flat."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "know it's coming.",
+        "p": [
+          "if your log shows a dip around the same days, expect it again."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "a lighter list in advance.",
+        "p": [
+          "three tasks instead of seven, written before the stretch begins."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "nothing to make up later.",
+        "p": [
+          "the lighter week was the plan, not a slip."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "on a low stretch, plan less on purpose and in advance.\n\nif your log shows a dip around the same days each month, write a three-task list for that stretch before it starts. when the lighter week comes, it's the plan, not a missed target. nothing gets carried over as debt.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #cycleawareplanning #adhdwomen #executivefunction",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-04-09-C-4",
+    "date": "2027-04-09",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 14,
+    "week_theme": "your month is not flat",
+    "month_theme": "Track your own pattern",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "A laptop on an oak desk with a softly blurred Notion page on screen and no readable words, a paper calendar with sage and rose shaded squares beside it, a ceramic cup and linen runner, gentle daylight, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "four protocols for <em>a month that moves.</em>",
+        "sub": "how FOCUS+ Core plans for weeks that aren't the same."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "4 phase protocols.",
+        "p": [
+          "one for each phase of your own month, each with a low-energy fallback."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "one-click switch.",
+        "p": [
+          "move between protocols when your week changes. the pages stay."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "pin your variant.",
+        "p": [
+          "pin your phase or energy variant so it stays in place."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "€27, one time.",
+        "p": [
+          "built in Notion. 14-day money-back. public demo first."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "if your month moves, the plan needs more than one setting.\n\nFOCUS+ Core has 4 phase protocols, each with a low-energy fallback. switch between them in one click when the week changes, and pin your phase or energy variant for the week. built in Notion, 14 pages and 6 databases.\n\nFOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #cycleawareplanning #focusprotocol",
+    "cta": "core"
+  },
+  {
+    "id": "2027-04-10-R-C",
+    "date": "2027-04-10",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 14,
+    "week_theme": "your month is not flat",
+    "month_theme": "Track your own pattern",
+    "pillar": "P3",
+    "format": "loop",
+    "avatar": false,
+    "hook_lines": [
+      "morning light moves across the desk.",
+      "the room you have moves too.",
+      "plan for the whole month, not one week."
+    ],
+    "start_frame_prompt": "A pale oak desk by a tall window with a paper month calendar, a ceramic cup and a linen-bound notebook, a slow band of morning sunlight lying across the desk surface, still and quiet room, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Static locked-off camera, the band of sunlight drifts slowly across the calendar and the cup as if time passes, shadows lengthen and soften, then the light returns to its first position, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "ambient light piano",
+    "caption": "light moves across the desk during the day. your capacity moves across the month.\n\na plan that expects every week to feel the same will keep feeling off. track your own pattern for a month and plan the lighter weeks where they tend to land.\n\nsend this to the friend with the same to-do list every monday.\n\n#cycleawareplanning #weeklyplanning #adhdwomen #focusprotocol",
+    "cta": "send"
+  },
+  {
+    "id": "2027-04-11-C-5",
+    "date": "2027-04-11",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 14,
+    "week_theme": "your month is not flat",
+    "month_theme": "Track your own pattern",
+    "pillar": "P3",
+    "avatar": false,
+    "cover_prompt": "A paper calendar and a small notebook side by side on a linen tablecloth, a pot of tea and a ceramic cup, a pencil resting between them, Sunday evening lamp light with dusk at the window, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "sunday: <em>which kind</em> of week is next?",
+        "sub": "a review question for a month that isn't flat."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "check the log.",
+        "p": [
+          "where does next week usually land in your month?"
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "choose the speed.",
+        "p": [
+          "full week or lighter week. decide tonight, not on wednesday."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "set the list to match.",
+        "p": [
+          "lighter week: three tasks. full week: your usual list."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "tonight, decide which kind of week is coming before you plan it.\n\nlook at your log: where does next week usually land in your month? choose full or lighter. then write the list to match. three tasks for a lighter week, the usual list for a full one. deciding on sunday means wednesday doesn't have to.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#cycleawareplanning #weeklyplanning #adhdwomen #focusprotocol",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-04-12-C-1",
+    "date": "2027-04-12",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 15,
+    "week_theme": "logging energy without a spreadsheet habit",
+    "month_theme": "Track your own pattern",
+    "pillar": "P3",
+    "avatar": false,
+    "cover_prompt": "A still life on an oak kitchen counter: a small paper calendar, two little glass jars with a few dried beans, a paper bookmark with pencil ticks, a pencil, a linen towel, soft morning daylight, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "energy logs <em>without a spreadsheet.</em>",
+        "sub": "four low-friction ways to keep one daily number."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "the calendar square.",
+        "p": [
+          "one digit in the corner of today's date."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "the lock-screen note.",
+        "p": [
+          "one line, edited every evening. no app to open."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "the two jars.",
+        "p": [
+          "a bean in one of two jars: a day with room, a day without."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "the bookmark.",
+        "p": [
+          "a paper strip in the book you're reading, one tick per night."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "an energy log doesn't have to live in a spreadsheet.\n\nfour lighter options: a digit in today's calendar square, a one-line note on your lock screen, a bean in one of two jars, or a tick on the bookmark in your book. pick the one that sits where you already are every evening.\n\nsave this for the next time a tracker dies.\n\n#cycleawareplanning #lowenergydays #adhdplanning #weeklyplanning",
+    "cta": "save"
+  },
+  {
+    "id": "2027-04-12-R-A",
+    "date": "2027-04-12",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 15,
+    "week_theme": "logging energy without a spreadsheet habit",
+    "month_theme": "Track your own pattern",
+    "pillar": "P4",
+    "format": "tre-rader",
+    "avatar": false,
+    "hook_lines": [
+      "the tracker died. the habit can stay.",
+      "you stopped opening the spreadsheet, that's all.",
+      "put the number where your eyes already land."
+    ],
+    "start_frame_prompt": "A narrow paper strip taped to the inside of a pale oak kitchen cabinet door, blurred unreadable pencil ticks along it, a hand holding a pencil next to it, ceramic mugs on the shelf behind, warm evening light, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Gentle handheld drift, the hand adds one small tick to the paper strip, pauses, then closes the cabinet door halfway so the strip slides out of view, light warms softly, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "quiet lo-fi evening",
+    "caption": "the tracker failed. the tracking doesn't have to.\n\nan energy log often stops because it lives somewhere you don't go. move it: a paper strip inside the cabinet you open for tea, a note on the lock screen, the calendar by the door. one mark a night, where your eyes already land.\n\nsend this to the friend with six abandoned habit trackers.\n\n#executivefunction #adhdplanning #cycleawareplanning #adhdwomen",
+    "cta": "send"
+  },
+  {
+    "id": "2027-04-13-C-2",
+    "date": "2027-04-13",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 15,
+    "week_theme": "logging energy without a spreadsheet habit",
+    "month_theme": "Track your own pattern",
+    "pillar": "P3",
+    "avatar": true,
+    "cover_prompt": "A woman at a kitchen counter dropping a dried bean into one of two small glass jars, a ceramic bowl of beans beside them, minimal natural makeup, no-makeup look, relaxed hair down, an oat-coloured knit sweater, calm expression, three-quarter view, looking away off-frame, medium shot from chest up, soft evening light, oak shelves and a linen towel in the background, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "the <em>two-jar</em> energy log, step by step.",
+        "sub": "a tracking method that needs no screen and no writing."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "two jars, one bowl.",
+        "p": [
+          "a bowl of dried beans between two small jars on the counter."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "one bean each evening.",
+        "p": [
+          "left jar for a day with room, right jar for a day without."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "count at month's end.",
+        "p": [
+          "write the two counts down, then tip the beans back."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "compare months.",
+        "p": [
+          "the ratio is your pattern, held in glass instead of memory."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "the two-jar energy log needs no screen and no writing.\n\nset a bowl of dried beans between two small jars. each evening, one bean: left for a day with room, right for a day without. at month's end, count both jars, write the numbers down and start again.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#cycleawareplanning #lowenergydays #adhdplanning #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-04-14-R-B",
+    "date": "2027-04-14",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 15,
+    "week_theme": "logging energy without a spreadsheet habit",
+    "month_theme": "Track your own pattern",
+    "pillar": "P3",
+    "format": "ett-verktyg",
+    "avatar": false,
+    "hook_lines": [
+      "one bean, one jar, every evening.",
+      "left for room. right for less.",
+      "at month's end, the jars show your pattern."
+    ],
+    "start_frame_prompt": "Two small clear glass jars on a pale oak kitchen counter with a stoneware bowl of dried white beans between them, one jar a little fuller, a hand holding a single bean above the jars, soft evening light, linen towel folded nearby, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Slow push-in, the hand drops the single bean into the left jar, it settles with the others, the hand rests on the counter beside the bowl, evening light stays soft, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "minimal soft beat",
+    "caption": "one bean in one jar is a complete energy log entry.\n\nleft jar for a day with room, right jar for a day without. one bean each evening, no writing. at the end of the month, count both. if your energy shifts across the month, the jars make it visible.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#cycleawareplanning #lowenergydays #adhdplanning #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-04-15-C-3",
+    "date": "2027-04-15",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 15,
+    "week_theme": "logging energy without a spreadsheet habit",
+    "month_theme": "Track your own pattern",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "A pencil lying directly on a small paper calendar on an oak bedside table, a glass of water and a ceramic dish beside it, the corner of a linen duvet, very dim evening light, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "on low days, <em>log less,</em> not nothing.",
+        "sub": "the lowest-friction version of an energy log."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "leave the pencil on the page.",
+        "p": [
+          "no searching, no setup. the tool waits where the mark goes."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "a dash, not a number.",
+        "p": [
+          "a dash means low. that's the whole entry."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "skip a day freely.",
+        "p": [
+          "a gap is fine. a pattern survives gaps."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "on low days, log less instead of nothing.\n\nkeep the pencil lying on the calendar so there's nothing to find. a dash means low, and that's the whole entry. if you skip a day, leave the gap. a month of dashes and gaps still shows a pattern.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #cycleawareplanning #adhdwomen #executivefunction",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-04-16-C-4",
+    "date": "2027-04-16",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 15,
+    "week_theme": "logging energy without a spreadsheet habit",
+    "month_theme": "Track your own pattern",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "A laptop on an oak desk showing a softly blurred Notion page with no readable words, two small glass jars of dried beans beside the keyboard, a stoneware cup, linen runner, soft morning light, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "from a jar of beans to <em>a pinned variant.</em>",
+        "sub": "where your energy log meets FOCUS+ Core."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "log it your way.",
+        "p": [
+          "jars, calendar, bookmark. FOCUS+ Core doesn't replace your log."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "then pin.",
+        "p": [
+          "pin your phase or energy variant for the week in one place."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "switch when it changes.",
+        "p": [
+          "one-click switch between 4 phase protocols, each with a low-energy fallback."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "see the pages.",
+        "p": [
+          "14 pages, 6 databases, public demo. €27 one-time."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "your energy log can stay on paper. FOCUS+ Core picks up from there.\n\nkeep counting beans or ticking a bookmark. on sunday, pin your phase or energy variant in FOCUS+ Core, and switch between 4 phase protocols in one click if the week turns. 14 pages and 6 databases in Notion, open in the public demo.\n\nFOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #cycleawareplanning #focusprotocol",
+    "cta": "demo"
+  },
+  {
+    "id": "2027-04-17-R-C",
+    "date": "2027-04-17",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 15,
+    "week_theme": "logging energy without a spreadsheet habit",
+    "month_theme": "Track your own pattern",
+    "pillar": "P3",
+    "format": "loop",
+    "avatar": true,
+    "hook_lines": [
+      "one bean.",
+      "the same small motion every evening.",
+      "the jar holds the record, not your memory."
+    ],
+    "start_frame_prompt": "A woman standing at a kitchen counter in the evening, dropping a single dried bean into a small glass jar, minimal natural makeup, no-makeup look, relaxed hair down, a grey ribbed knit sweater, calm expression, side profile, looking away off-frame, medium shot from chest up, warm pendant light, oak shelves and ceramic bowls behind her, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Static locked-off camera, she picks one bean from the bowl, drops it into the jar and rests her hand on the counter, then reaches toward the bowl again, her gaze stays on her hands, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "slow ambient warm",
+    "caption": "one bean, the same small motion every evening.\n\na jar for days with room, a jar for days without. the counting happens once a month. until then, the jar keeps the record so your memory doesn't have to.\n\nsave this for tonight.\n\n#cycleawareplanning #lowenergydays #adhdplanning #weeklyplanning",
+    "cta": "save"
+  },
+  {
+    "id": "2027-04-18-C-5",
+    "date": "2027-04-18",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 15,
+    "week_theme": "logging energy without a spreadsheet habit",
+    "month_theme": "Track your own pattern",
+    "pillar": "P3",
+    "avatar": false,
+    "cover_prompt": "Seven small pencil marks on a paper strip lying on a linen tablecloth next to a teapot and a ceramic cup, a notebook open beside them, Sunday evening light, calm and uncluttered, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "sunday count: <em>what did the week log?</em>",
+        "sub": "a quick read of seven entries before you plan."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "count the marks.",
+        "p": [
+          "how many days had room? how many didn't?"
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "compare with the plan.",
+        "p": [
+          "did the heaviest task land on a day with room?"
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "move one placement.",
+        "p": [
+          "shift one heavy task next week toward a likely high day."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "before planning next week, read the seven entries from this one.\n\ncount the days with room and the days without. check whether the heaviest task landed on a good day or a thin one. then move one placement for next week. one adjustment per sunday is enough to learn from.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#cycleawareplanning #weeklyplanning #adhdwomen #focusprotocol",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-04-19-C-1",
+    "date": "2027-04-19",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 16,
+    "week_theme": "plan heavy work into high-energy days",
+    "month_theme": "Track your own pattern",
+    "pillar": "P3",
+    "avatar": false,
+    "cover_prompt": "A weekly paper planner open on an oak desk with two days marked by small hand-drawn stars and thick blurred unreadable entries, other days nearly empty, a charcoal pen and ceramic cup beside it, bright morning light, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "heavy work goes <em>where the room is.</em>",
+        "sub": "placing your hardest tasks on the days your log says can hold them."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "name the heavy tasks.",
+        "p": [
+          "the ones that need a long stretch of attention: writing, deciding, numbers."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "check your pattern.",
+        "p": [
+          "which days of your month usually have the most room?"
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "book them first.",
+        "p": [
+          "heavy tasks get calendar slots before meetings fill the week."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "leave the low days light.",
+        "p": [
+          "admin and replies go there, on purpose."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "heavy work goes on the days that usually have room for it.\n\nlist the tasks that need a long stretch of attention. check your log for the days of the month that tend to have the most room. book the heavy tasks there first, before meetings arrive. low days get admin and replies, on purpose.\n\nsave this for sunday's planning.\n\n#cycleawareplanning #weeklyplanning #adhdwomen #focusprotocol",
+    "cta": "save"
+  },
+  {
+    "id": "2027-04-19-R-A",
+    "date": "2027-04-19",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 16,
+    "week_theme": "plan heavy work into high-energy days",
+    "month_theme": "Track your own pattern",
+    "pillar": "P4",
+    "format": "fore-efter-listan",
+    "avatar": false,
+    "hook_lines": [
+      "seven heavy tasks on one tuesday.",
+      "move four to the days with room.",
+      "same list, placed where it fits your week."
+    ],
+    "start_frame_prompt": "A row of seven cream index cards stacked in one column of a week grid drawn on a large paper sheet on an oak table, other columns empty, a hand resting at the edge, soft daylight, ceramic cup in the corner, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Static overhead camera, the hand slides four cards one by one out of the crowded column into other columns of the grid, leaving three behind, then rests flat on the paper, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "minimal piano focus",
+    "caption": "seven heavy tasks on one tuesday is a placement problem, not a willpower problem.\n\nkeep the same list. move four of them to the days that usually have room, and leave three where they are. starting is the hard part, and it's harder on a day that was already full.\n\nsend this to the friend who books the hardest work on her busiest day.\n\n#executivefunction #adhdplanning #cycleawareplanning #adhdwomen",
+    "cta": "send"
+  },
+  {
+    "id": "2027-04-20-C-2",
+    "date": "2027-04-20",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 16,
+    "week_theme": "plan heavy work into high-energy days",
+    "month_theme": "Track your own pattern",
+    "pillar": "P3",
+    "avatar": false,
+    "cover_prompt": "A notebook page with a column of blurred unreadable tasks, each with a small handwritten letter in the margin, a weekly calendar with two starred days beside it, a pencil and stoneware cup on oak, soft morning light, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "how to <em>place heavy work</em> in four moves.",
+        "sub": "a sunday method for matching tasks to the room you usually have."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "sort by weight.",
+        "p": [
+          "mark each task h for heavy or l for light."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "star the likely high days.",
+        "p": [
+          "from your log, star the days that usually have room."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "pair them.",
+        "p": [
+          "one h per starred day. never two."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "fill the rest with l's.",
+        "p": [
+          "light tasks take whatever space is left."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "placing heavy work takes four moves on sunday.\n\nmark every task h for heavy or l for light. star the days your log says usually have room. put one h on each starred day, never two. let the l's fill whatever space remains. the list stays the same, the order changes.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#cycleawareplanning #weeklyplanning #adhdwomen #focusprotocol",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-04-21-R-B",
+    "date": "2027-04-21",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 16,
+    "week_theme": "plan heavy work into high-energy days",
+    "month_theme": "Track your own pattern",
+    "pillar": "P2",
+    "format": "ett-verktyg",
+    "avatar": false,
+    "hook_lines": [
+      "an h or an l, nothing else.",
+      "heavy goes on starred days only.",
+      "light tasks fill the gaps around it."
+    ],
+    "start_frame_prompt": "An open notebook on a linen desk runner with a column of blurred unreadable lines, a hand holding a fine charcoal pen at the margin beside the first line, a small paper week calendar with two drawn stars nearby, a ceramic cup, soft daylight, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Slow push-in, the pen marks a small letter beside each line in turn, then moves to the calendar and draws a small star on one day, the hand sets the pen down, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "calm acoustic focus",
+    "caption": "one letter per task decides where it goes in the week.\n\nh for heavy, l for light. heavy tasks go only on the days you've starred as likely to have room, one per day. light tasks fill the gaps around them. it takes a few minutes on sunday.\n\nsave this for sunday evening.\n\n#cycleawareplanning #weeklyplanning #adhdwomen #focusprotocol",
+    "cta": "save"
+  },
+  {
+    "id": "2027-04-22-C-3",
+    "date": "2027-04-22",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 16,
+    "week_theme": "plan heavy work into high-energy days",
+    "month_theme": "Track your own pattern",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "A single index card with one blurred unreadable line resting on a closed laptop on an oak desk, a cup of tea and a small timer beside it, overcast afternoon light, quiet room, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "when the high day <em>doesn't arrive.</em>",
+        "sub": "a fallback for heavy work booked on a day with no room."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "shrink, don't skip.",
+        "p": [
+          "do the first fifteen minutes of the heavy task. that's today's version."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "move the rest once.",
+        "p": [
+          "one new date, chosen now. not 'later this week'."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "keep the slot.",
+        "p": [
+          "the low-energy fallback is still a plan."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "sometimes the starred day arrives with no room in it.\n\nshrink the heavy task to its first fifteen minutes and do only that. then give the rest one new date, chosen right now, not 'later this week'. the fallback version is still part of the plan.\n\nsave this for the day the plan meets a low day.\n\n#lowenergydays #cycleawareplanning #adhdwomen #executivefunction",
+    "cta": "save"
+  },
+  {
+    "id": "2027-04-23-C-4",
+    "date": "2027-04-23",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 16,
+    "week_theme": "plan heavy work into high-energy days",
+    "month_theme": "Track your own pattern",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "A laptop on a pale oak desk with a softly blurred Notion workspace and no readable words, a weekly paper planner with two starred days beside it, a stoneware cup, linen runner, clear morning light, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "a protocol for <em>high days</em> and one for low.",
+        "sub": "how FOCUS+ Core handles a week with both."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "4 phase protocols.",
+        "p": [
+          "each comes with a low-energy fallback for the days that go differently."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "switch in one click.",
+        "p": [
+          "a high day turns low at noon? switch the protocol, keep the pages."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "pin the week's variant.",
+        "p": [
+          "pin your phase or energy variant on sunday."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "built in Notion.",
+        "p": [
+          "14 pages, 6 databases, €27 one-time, 14-day money-back."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "a week can have high days and low days. FOCUS+ Core has a protocol for both.\n\n4 phase protocols, each with a low-energy fallback. pin your phase or energy variant on sunday. if a starred day turns thin by noon, switch in one click and keep working from the same pages. 14 pages and 6 databases in Notion.\n\nFOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #cycleawareplanning #focusprotocol",
+    "cta": "core"
+  },
+  {
+    "id": "2027-04-24-R-C",
+    "date": "2027-04-24",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 16,
+    "week_theme": "plan heavy work into high-energy days",
+    "month_theme": "Track your own pattern",
+    "pillar": "P3",
+    "format": "loop",
+    "avatar": true,
+    "hook_lines": [
+      "heavy first, on a day with room.",
+      "the lighter work waits for afternoon.",
+      "the same order, every starred day."
+    ],
+    "start_frame_prompt": "A woman at an oak desk in the morning, opening a thick notebook and setting a smaller one aside to the edge of the desk, minimal natural makeup, no-makeup look, relaxed hair down, an ivory chunky knit sweater, focused expression, over-the-shoulder, medium shot from chest up, bright soft morning light from a tall window, a ceramic cup and linen runner, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Gentle handheld drift, she opens the thick notebook and smooths the page with one hand, then lets it close again, her gaze stays on the desk, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "soft ambient morning",
+    "caption": "on a starred day, the heavy work goes first.\n\nthe morning of a day with room gets the task that needs the longest stretch. the lighter notebook waits at the edge of the desk until afternoon. same order every starred day, so there's nothing to decide at 9 am.\n\nsend this to the friend who saves the hard part for 4 pm.\n\n#cycleawareplanning #weeklyplanning #adhdwomen #focusprotocol",
+    "cta": "send"
+  },
+  {
+    "id": "2027-04-25-C-5",
+    "date": "2027-04-25",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 16,
+    "week_theme": "plan heavy work into high-energy days",
+    "month_theme": "Track your own pattern",
+    "pillar": "P3",
+    "avatar": false,
+    "cover_prompt": "A paper week calendar with two small hand-drawn stars on a linen tablecloth, a pencil, a teapot and a ceramic cup beside it, warm Sunday evening lamp light, dusk in the window, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "sunday: <em>star the days</em> before you fill them.",
+        "sub": "next week's heavy tasks, placed before anything else."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "star two days.",
+        "p": [
+          "based on your log, the two most likely to have room."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "one heavy task each.",
+        "p": [
+          "write it in the morning slot."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "everything else after.",
+        "p": [
+          "meetings and admin take what's left."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "star next week's best days before anything else goes in.\n\nuse your log to pick the two days most likely to have room and star them. give each one heavy task in the morning slot. only then add meetings and admin around them. the order of planning decides where the heavy work lands.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#cycleawareplanning #weeklyplanning #adhdwomen #focusprotocol",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-04-26-C-1",
+    "date": "2027-04-26",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 17,
+    "week_theme": "protect the low days in advance",
+    "month_theme": "Track your own pattern",
+    "pillar": "P1",
+    "avatar": true,
+    "cover_prompt": "A woman at a window desk drawing a soft pencil band across one row of days in a paper planner, marks too small to read, minimal natural makeup, no-makeup look, relaxed hair down, a grey cashmere knit sweater, calm expression, three-quarter view, looking away off-frame, medium shot from chest up, soft spring daylight, an oak desk with a ceramic cup and a vase of branches, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "protect the low days <em>before</em> they arrive.",
+        "sub": "if your log shows a dip, the calendar can know about it too."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "block them early.",
+        "p": [
+          "mark likely low days in the calendar a month ahead."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "decline in advance.",
+        "p": [
+          "no new meetings on marked days. decide it once, early."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "pre-write the list.",
+        "p": [
+          "three light tasks, chosen while you still have room to choose."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "plan the evening too.",
+        "p": [
+          "the simplest dinner and an early night, already decided."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "protect the low days while you still have the energy to plan them.\n\nuse your log to mark the days likely to be low, a month ahead. no new meetings go there. write a three-task list for each one now. decide the evening too: simplest dinner, early night. when the day comes, the decisions are already made.\n\nsave this for the start of next month.\n\n#lowenergydays #cycleawareplanning #adhdwomen #executivefunction",
+    "cta": "save"
+  },
+  {
+    "id": "2027-04-26-R-A",
+    "date": "2027-04-26",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 17,
+    "week_theme": "protect the low days in advance",
+    "month_theme": "Track your own pattern",
+    "pillar": "P1",
+    "format": "tre-rader",
+    "avatar": false,
+    "hook_lines": [
+      "the low day is already booked.",
+      "you put it there three weeks ago.",
+      "so nothing heavy got booked on top of it."
+    ],
+    "start_frame_prompt": "A paper planner open on a pale oak desk, a hand holding a dusty rose pencil above one row of days, other days filled with blurred unreadable entries, a ceramic cup and linen runner, soft morning window light, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Slow push-in, the hand draws one soft rose band across the row of days, lifts the pencil, and rests it in the planner's gutter, light shifts gently over the page, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "calm piano minimal",
+    "caption": "the low day is already in the calendar, marked three weeks ago.\n\nif your log shows a dip around the same part of the month, mark those days early with a soft band. nothing heavy gets booked on top. when the day arrives, it was planned as a lighter one.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #cycleawareplanning #adhdwomen #executivefunction",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-04-27-C-2",
+    "date": "2027-04-27",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 17,
+    "week_theme": "protect the low days in advance",
+    "month_theme": "Track your own pattern",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "A paper planner on an oak desk showing one week with a single row shaded in dusty rose and three short blurred unreadable lines written inside it, a pencil, a ceramic cup and a linen napkin, soft morning light, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "how to <em>guard a low day</em> three weeks out.",
+        "sub": "a short protocol for days you can see coming."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "find it.",
+        "p": [
+          "check last month's log for the dip and count forward."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "block it.",
+        "p": [
+          "a calendar block named 'held'. no explanation needed."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "fill it lightly.",
+        "p": [
+          "replies, filing, one walk. nothing that needs a long stretch."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "confirm the night before.",
+        "p": [
+          "if the day comes with more room, use it. if not, it's ready."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "a low day you can see coming can be guarded three weeks out.\n\nfind the dip in last month's log and count forward. block the day and call it 'held'. fill it lightly: replies, filing, a walk. the night before, check in. more room than expected? use it. if not, the day is already set up.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #cycleawareplanning #adhdwomen #executivefunction",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-04-28-R-B",
+    "date": "2027-04-28",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 17,
+    "week_theme": "protect the low days in advance",
+    "month_theme": "Track your own pattern",
+    "pillar": "P1",
+    "format": "ett-verktyg",
+    "avatar": false,
+    "hook_lines": [
+      "book the low day before others do.",
+      "one calendar block, called 'held'.",
+      "you decide later what fills it, if anything."
+    ],
+    "start_frame_prompt": "A laptop on a pale oak desk with a softly blurred calendar view on screen and no readable words, one day showing a long soft rose block, a hand resting near the trackpad, a stoneware cup and paper planner beside it, morning light, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Slow push-in toward the screen, the hand moves on the trackpad and the soft rose block on the blurred calendar stretches across the whole day, then the hand moves away to the cup, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "minimal ambient calm",
+    "caption": "a calendar block called 'held' protects a likely low day.\n\nput it on the day your log says tends to be thin, weeks in advance. nothing else gets booked there. what fills it gets decided the night before. in FOCUS+ Core, the same idea is the low-energy fallback that every protocol has.\n\nFOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#lowenergydays #cycleawareplanning #adhdwomen #executivefunction",
+    "cta": "demo"
+  },
+  {
+    "id": "2027-04-29-C-3",
+    "date": "2027-04-29",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 17,
+    "week_theme": "protect the low days in advance",
+    "month_theme": "Track your own pattern",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "A small card with three blurred unreadable lines propped against a ceramic cup on an oak side table, a wool blanket draped over a linen armchair, soft grey afternoon light, quiet room, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "the low day is here. <em>the list already exists.</em>",
+        "sub": "what a protected low day looks like from the inside."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "open the pre-written list.",
+        "p": [
+          "three light tasks, chosen weeks ago."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "do one.",
+        "p": [
+          "if one is all, that's the day's work."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "close early.",
+        "p": [
+          "the day was held for this. nothing to make up."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "the low day arrived, and the list was written weeks ago.\n\nopen it. three light tasks, chosen while you had room to choose. do one. if that's all, that's the day's work. close early. a held day isn't a missed day, it's the plan working as written.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #cycleawareplanning #adhdwomen #executivefunction",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-04-30-C-4",
+    "date": "2027-04-30",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 17,
+    "week_theme": "protect the low days in advance",
+    "month_theme": "Track your own pattern",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "A laptop on an oak desk showing a softly blurred Notion page with no readable words, a paper planner with one rose-shaded row beside it, a wool throw on the chair and a ceramic cup, soft morning light, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "the <em>low-energy fallback,</em> already built in.",
+        "sub": "how FOCUS+ Core holds a low day for you."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "every protocol has one.",
+        "p": [
+          "4 phase protocols, each with a low-energy fallback."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "one click to switch.",
+        "p": [
+          "on a low day, switch to the fallback without touching the rest."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "pin it ahead.",
+        "p": [
+          "pin your energy variant for the days you've held."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "see it in the demo.",
+        "p": [
+          "public demo first. €27 one-time, 14-day money-back."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "on a low day, the fallback is already built.\n\nevery one of the 4 phase protocols in FOCUS+ Core has a low-energy fallback. switch to it in one click, and pin your energy variant ahead for the days you've held. 14 pages and 6 databases, built in Notion.\n\nFOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #cycleawareplanning #focusprotocol",
+    "cta": "core"
+  }
+]

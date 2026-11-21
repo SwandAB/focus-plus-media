@@ -1,0 +1,1626 @@
+[
+  {
+    "id": "2027-05-01-R-C",
+    "date": "2027-05-01",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 17,
+    "week_theme": "protect the low days in advance",
+    "month_theme": "Track your own pattern",
+    "pillar": "P3",
+    "format": "loop",
+    "avatar": false,
+    "hook_lines": [
+      "your low days are not a surprise.",
+      "you logged them last month.",
+      "so their plan gets written today."
+    ],
+    "start_frame_prompt": "Vertical frame of a quiet oak desk beside a north-facing window, a linen-bound paper planner lies open with a soft pencil resting in the gutter, a small handmade ceramic cup of tea beside it, morning daylight falling across the ivory pages, a folded wool throw over the chair edge, the upper third of the frame left as calm empty ivory wall, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static locked-off camera, a hand enters and turns one planner page forward then lays it back, daylight shifts softly across the paper, the hand withdraws, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "soft piano ambient",
+    "caption": "if your low days repeat, they can be planned for.\n\nopen last month's energy log. find the days you rated 1 or 2. then mark the matching stretch this month and write one word on each: lighter. no deep work, no meetings you can move, a short list ready before you need it.\n\nsave this for sunday evening.\n\n#cycleawareplanning #lowenergydays #weeklyplanning",
+    "cta": "save"
+  },
+  {
+    "id": "2027-05-02-C-5",
+    "date": "2027-05-02",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 17,
+    "week_theme": "protect the low days in advance",
+    "month_theme": "Track your own pattern",
+    "pillar": "P3",
+    "avatar": false,
+    "cover_prompt": "4:5 overhead view of an oak desk with an open paper month calendar, a few faint pencil dots on some squares, a sharpened pencil and a small ceramic dish holding two more pencils beside it, a sage linen napkin folded at the edge, soft evening window light from the right, the upper half of the frame kept as calm empty ivory linen, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "the week ahead, <em>marked in pencil</em> first.",
+        "sub": "before the tasks go in, the low days go on."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "open last month's log.",
+        "p": [
+          "find the days you rated 1 or 2. note the dates, nothing else."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "dot the matching days.",
+        "p": [
+          "a small pencil mark on the same stretch this month. a guess, not a rule."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "pre-write the short version.",
+        "p": [
+          "for each dotted day, three tasks that still count if that is all you do."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "move one thing now.",
+        "p": [
+          "if a heavy meeting sits on a dotted day, ask to shift it while there is room."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "plan the low days before you plan the tasks.\n\nsunday, ten minutes: check last month's energy log, dot the days that came in low, and write a three-task version for each. if something heavy lands on a dot, move it now, while asking is still easy.\n\nif your energy shifts across the month, the plan can shift with it.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#cycleawareplanning #lowenergydays #weeklyreview #adhdplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-05-03-C-1",
+    "date": "2027-05-03",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 18,
+    "week_theme": "why starting is the hard part",
+    "month_theme": "Start friction",
+    "pillar": "P4",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a closed laptop on a pale oak desk, a single folded sheet of paper and a graphite pencil resting on its lid, a ceramic mug with the last of the coffee, linen curtain filtering soft late-morning daylight, a wide area of empty warm ivory wall on the left half of the frame for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "starting is a <em>separate task</em> from the task.",
+        "sub": "a list names the work. it rarely names the first move."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "the task is too big to begin.",
+        "p": [
+          "'write the report' is an outcome, not an action. it gives your hands nowhere to go."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "name the first physical move.",
+        "p": [
+          "open the file. type the title. paste last month's numbers."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "make it smaller than feels useful.",
+        "p": [
+          "if you still stall, halve it again. the entry should feel almost too small."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "put the move on the list.",
+        "p": [
+          "the first move gets its own line, above the outcome. that is where you begin."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "the task and the start of the task are two different things.\n\nmost to-do lists only hold outcomes. add one line above each: the first physical move. open, find, type, paste. a verb and an object. starting is the hard part, so give it its own line.\n\nsave this for monday morning.\n\n#executivefunction #adhdwomen #adhdplanning #focusprotocol",
+    "cta": "save"
+  },
+  {
+    "id": "2027-05-03-R-A",
+    "date": "2027-05-03",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 18,
+    "week_theme": "why starting is the hard part",
+    "month_theme": "Start friction",
+    "pillar": "P4",
+    "format": "fel-fraga-ratt-fraga",
+    "avatar": true,
+    "hook_lines": [
+      "not 'why can't i start?'",
+      "ask: what is the first move?",
+      "open the file. that is the move."
+    ],
+    "start_frame_prompt": "A woman seated at an oak desk beside a tall window, one hand resting on a closed laptop lid, a ceramic mug and a linen notebook beside her, minimal natural makeup, no-makeup look, relaxed hair down, oat knit sweater, focused expression, side profile, medium shot from chest up, soft nordic morning light, vertical composition with calm empty ivory wall in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "slow push-in, she lifts the laptop lid with one hand and rests her fingers on the trackpad, daylight shifts softly across the desk, her gaze stays on the screen and never turns toward the lens, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "minimal piano slow",
+    "caption": "one question gives you nothing to do. the other gives you a move.\n\n'why can't i start' has no answer you can act on. 'what is the first move' does. open the document. type the title. that counts as starting.\n\nsend this to the friend who has been about to start since tuesday.\n\n#executivefunction #adhdwomen #focusprotocol",
+    "cta": "send"
+  },
+  {
+    "id": "2027-05-04-C-2",
+    "date": "2027-05-04",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 18,
+    "week_theme": "why starting is the hard part",
+    "month_theme": "Start friction",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a hand-written list on heavy ivory paper, lines blurred and illegible, one line circled softly in graphite, a pencil laid diagonally across the page, an oak desk edge and a small sage ceramic bowl in the corner, diffuse window light, the upper half left as clean empty paper and desk, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "turn any task into <em>a first move</em> in four steps.",
+        "sub": "the method behind a list that names where to begin."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "circle the stuck task.",
+        "p": [
+          "the one you have looked at three times today."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "ask what your hands do first.",
+        "p": [
+          "open, find, write, call, print. pick one verb."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "add the object.",
+        "p": [
+          "'open the budget sheet.' a verb and a thing, nothing vague."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "give it its own line.",
+        "p": [
+          "above the task, on the list you look at first."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "a stuck task usually has no first move written down.\n\nfour steps: circle it, choose a verb, add the object, give it its own line. 'open the budget sheet' sits above 'do the budget'. the outcome stays on the list. the start goes first.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#executivefunction #adhdplanning #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-05-05-R-B",
+    "date": "2027-05-05",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 18,
+    "week_theme": "why starting is the hard part",
+    "month_theme": "Start friction",
+    "pillar": "P4",
+    "format": "ett-verktyg",
+    "avatar": false,
+    "hook_lines": [
+      "tomorrow's first move, on the closed lid.",
+      "one paper note, nothing else on it.",
+      "open the lid. do the note. then decide."
+    ],
+    "start_frame_prompt": "Vertical frame of a closed laptop on a warm oak desk, a small square of ivory paper with a few blurred illegible pencil marks resting on the lid, a hand holding a short pencil just above it, a ceramic tumbler of water and a linen cloth nearby, soft evening window light from the left, calm empty pale wall across the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static locked-off camera, the hand presses the paper note onto the closed lid, pauses, then slowly lifts the lid, the note rising with it, soft light shifts across the desk, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "calm piano minimal",
+    "caption": "a note on the laptop lid is a starting line you set the night before.\n\nwrite tomorrow's first move, only the first move, on a small piece of paper. stick it on the closed laptop. in the morning the first thing you see is an action instead of a list.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#executivefunction #adhdwomen #focusprotocol",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-05-06-C-3",
+    "date": "2027-05-06",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 18,
+    "week_theme": "why starting is the hard part",
+    "month_theme": "Start friction",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a soft wool blanket folded on a linen sofa arm, a small notebook lying closed on top with a pencil, a ceramic cup of warm tea on a low oak side table, overcast morning light through sheer curtains, quiet and unhurried, the left half of the frame kept as empty soft ivory wall for a headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "on a low day, <em>start smaller</em> than small.",
+        "sub": "the entry point shrinks with your energy. the task stays."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "rate your energy first.",
+        "p": [
+          "1 to 5, before you look at the list."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "2 or lower: a one-minute start.",
+        "p": [
+          "open the doc. find the email. lay out the papers. one minute."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "stopping there is allowed.",
+        "p": [
+          "the task is open for tomorrow, and that is the point."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "on low days the task can stay the same size. the start gets smaller.\n\nrate your energy 1 to 5 before you read the list. at 2 or lower, pick a one-minute entry: open the document, find the email, put the papers on the desk. if that is all today holds, the task is still open for tomorrow.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #executivefunction #adhdwomen",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-05-07-C-4",
+    "date": "2027-05-07",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 18,
+    "week_theme": "why starting is the hard part",
+    "month_theme": "Start friction",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a laptop on an oak desk showing a softly blurred Notion workspace with pale pages and no readable words, a linen notebook and a ceramic mug beside it, a sprig of dried grass in a small vase, gentle afternoon window light, the upper half of the frame left as calm empty ivory wall, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "where a hard start goes <em>inside FOCUS+.</em>",
+        "sub": "the low-energy fallback: a smaller version of the day, already written."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "4 phase protocols.",
+        "p": [
+          "four protocols inside FOCUS+ Core, built in Notion."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "each has a low-energy fallback.",
+        "p": [
+          "for the mornings when starting is the whole effort."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "one click to switch.",
+        "p": [
+          "move to the fallback without rewriting your plan."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "pin your variant.",
+        "p": [
+          "pin the phase or energy variant you are in."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "a hard start needs a smaller day, not a new plan.\n\nFOCUS+ Core has 4 phase protocols, each with a low-energy fallback. one click switches you to it. pin the phase or energy variant you are in, so the week starts from the right version. 14 pages, 6 databases, built in Notion.\n\nFOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #executivefunction #lowenergydays",
+    "cta": "core"
+  },
+  {
+    "id": "2027-05-08-R-C",
+    "date": "2027-05-08",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 18,
+    "week_theme": "why starting is the hard part",
+    "month_theme": "Start friction",
+    "pillar": "P4",
+    "format": "loop",
+    "avatar": false,
+    "hook_lines": [
+      "the hard part is the first minute.",
+      "after that, the task is the task.",
+      "so plan the minute, not the hour."
+    ],
+    "start_frame_prompt": "Vertical frame of a small glass sand timer standing on a pale oak desk next to an open notebook with blurred illegible handwriting, a ceramic dish holding two pencils, morning daylight from a window on the right casting a soft shadow, calm empty ivory wall filling the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static locked-off camera, a hand turns the sand timer over and sets it down, sand begins to fall, the hand withdraws, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "ambient piano soft",
+    "caption": "the first minute is the hard part, so that is the part to plan.\n\nbefore you plan the hour, plan the minute: which file opens, which line gets written, which drawer gets pulled out. once the minute is done, the task is open.\n\nsend this to the friend who rewrites her list instead of starting it.\n\n#executivefunction #adhdwomen #focusprotocol",
+    "cta": "send"
+  },
+  {
+    "id": "2027-05-09-C-5",
+    "date": "2027-05-09",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 18,
+    "week_theme": "why starting is the hard part",
+    "month_theme": "Start friction",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a sunday evening desk, a linen notebook open to a fresh page, a pencil resting across it, a small ceramic lamp casting warm light, a window showing soft blue dusk, a sage wool throw on the chair, the upper half of the frame kept as calm empty wall, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "sunday: write <em>monday's first move</em> tonight.",
+        "sub": "one line, so the week starts with an action instead of a decision."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "pick monday's main task.",
+        "p": [
+          "the one that would make the day count if nothing else happened."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "write its first move.",
+        "p": [
+          "a physical action under two minutes. open, find, write, send."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "put it where you will see it.",
+        "p": [
+          "on the closed laptop, the notebook's first page, or the top of the list."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "close the notebook.",
+        "p": [
+          "the rest of the planning can wait until monday has begun."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "monday's first move, written on sunday.\n\npick the task that would make monday count. write the first physical action, under two minutes. leave it where your eyes land first. then close the notebook and let the rest wait until monday.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyreview #weeklyplanning #adhdplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-05-10-C-1",
+    "date": "2027-05-10",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 19,
+    "week_theme": "transitions between tasks",
+    "month_theme": "Start friction",
+    "pillar": "P4",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of two stacks on an oak desk, a closed linen folder on the left and an open notebook on the right, a pencil lying in the gap between them, a ceramic cup of water, soft side light from a tall window, the upper half of the frame left as plain ivory wall, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "the gap <em>between tasks</em> is part of the day.",
+        "sub": "ending one thing and starting the next is its own step."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "a transition is a task.",
+        "p": [
+          "closing one thing and opening another takes more than it looks like."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "end with a parking line.",
+        "p": [
+          "before you stop: where you were, and what comes next."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "add a buffer.",
+        "p": [
+          "five quiet minutes between blocks. water, window, stand up."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "start the next with its first move.",
+        "p": [
+          "not the whole task. the opening action you wrote earlier."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "a day can get lost between tasks as easily as inside them.\n\ntreat the switch as its own step. end each block with a parking line, take five minutes, then begin the next task with its first move. plan the gaps the way you plan the work.\n\nsave this for wednesday afternoon.\n\n#executivefunction #adhdwomen #weeklyplanning #focusprotocol",
+    "cta": "save"
+  },
+  {
+    "id": "2027-05-10-R-A",
+    "date": "2027-05-10",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 19,
+    "week_theme": "transitions between tasks",
+    "month_theme": "Start friction",
+    "pillar": "P4",
+    "format": "tre-rader",
+    "avatar": false,
+    "hook_lines": [
+      "you didn't lose the afternoon.",
+      "you lost it between two tasks.",
+      "end each block with one parking line."
+    ],
+    "start_frame_prompt": "Vertical frame of a hand capping a black fountain pen above an open notebook on an oak desk, a laptop softly out of focus behind with a blurred pale screen, a ceramic mug and a linen napkin, late afternoon window light slanting across the page, calm empty ivory wall filling the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "slow push-in, the hand caps the pen and lays it across the notebook, a faint wisp of steam rises from the mug, warm light drifts slowly across the desk, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "calm acoustic minimal",
+    "caption": "the afternoon goes missing in the gap, not in the work.\n\nbefore you switch, write one parking line: where you stopped and what comes next. it takes twenty seconds. the next time you open that task, the start is waiting for you.\n\nsend this to the friend whose afternoons disappear between meetings.\n\n#executivefunction #adhdwomen #focusprotocol",
+    "cta": "send"
+  },
+  {
+    "id": "2027-05-11-C-2",
+    "date": "2027-05-11",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 19,
+    "week_theme": "transitions between tasks",
+    "month_theme": "Start friction",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a tidy oak desk at the end of a work block, a closed laptop, a notebook with a single blurred line of handwriting, a pencil placed parallel to it, a ceramic tray holding a folded linen cloth, soft diffuse daylight, the upper half of the frame left as calm ivory wall, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "a <em>closing ritual</em> for every work block.",
+        "sub": "four moves that end one task so the next can begin."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "save and name.",
+        "p": [
+          "save the file with today's date so it is easy to find again."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "write the parking line.",
+        "p": [
+          "'stopped at section 3. next: the table.'"
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "close what belongs to it.",
+        "p": [
+          "tabs, papers, the notebook page. clear the surface."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "stand up once.",
+        "p": [
+          "a short break before the next first move."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "end a task on purpose, and the next one has a clear place to begin.\n\nfour moves, about two minutes: save and name the file, write a parking line, close what belongs to the task, stand up once. then open the next task with its first move.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#executivefunction #adhdplanning #focusprotocol",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-05-12-R-B",
+    "date": "2027-05-12",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 19,
+    "week_theme": "transitions between tasks",
+    "month_theme": "Start friction",
+    "pillar": "P2",
+    "format": "ett-verktyg",
+    "avatar": false,
+    "hook_lines": [
+      "before you switch, write one line.",
+      "where you stopped. what comes next.",
+      "the next start has somewhere to land."
+    ],
+    "start_frame_prompt": "Vertical frame looking down at an open notebook on a light oak desk, a hand holding a pencil poised over a blank line, a few blurred illegible lines above it, a small ceramic cup and a folded sage linen cloth at the edge, soft overcast window light, generous calm empty desk surface in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "gentle handheld drift, the hand makes one short pencil stroke, too small to read, pauses, then sets the pencil down across the page, the camera settles, overcast light shifts softly over the paper, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "soft piano minimal",
+    "caption": "one line before you switch tasks.\n\nwrite where you stopped and what comes next. 'stopped at the intro. next: the second quote.' when you return, you read one line instead of rebuilding the whole picture.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#executivefunction #adhdwomen #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-05-13-C-3",
+    "date": "2027-05-13",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 19,
+    "week_theme": "transitions between tasks",
+    "month_theme": "Start friction",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a calm kitchen table in overcast light, a single ceramic bowl of oranges, a closed notebook and a phone lying face down with a dark screen, a linen runner, a window with soft grey sky, the left half of the frame kept as empty pale wall for a headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "low energy? <em>fewer switches,</em> not fewer hours.",
+        "sub": "on a 2-out-of-5 day, batch the small things and protect one block."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "count today's switches.",
+        "p": [
+          "meetings, messages, errands. each one is a restart."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "group the small ones.",
+        "p": [
+          "one 30-minute window for replies and admin, not ten scattered ones."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "one task, one block.",
+        "p": [
+          "the main task gets a single stretch with nothing switching in the middle."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "on a low day, every switch costs a restart.\n\ncount the switches first. put replies and small admin into one 30-minute window. give the main task one block with nothing in the middle. same day, fewer restarts.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #executivefunction #adhdplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-05-14-C-4",
+    "date": "2027-05-14",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 19,
+    "week_theme": "transitions between tasks",
+    "month_theme": "Start friction",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a laptop on a pale oak desk with a softly blurred Notion page in muted tones and no readable words, a hand resting near the trackpad, a ceramic mug and a stack of two linen notebooks, warm side light from a window, the upper half of the frame left as calm ivory wall, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "switching protocols <em>with one click.</em>",
+        "sub": "when the day changes, the plan changes with it, without a rebuild."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "4 phase protocols.",
+        "p": [
+          "each one with its own structure inside FOCUS+ Core, built in Notion."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "one click between them.",
+        "p": [
+          "move from one protocol to another without copying a single task."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "a low-energy fallback in each.",
+        "p": [
+          "when a switch costs more than usual, the smaller version is already there."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "pin your variant.",
+        "p": [
+          "pin the phase or energy variant you are in for the week."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "a transition inside the plan, not a new plan.\n\nFOCUS+ Core holds 4 phase protocols, each with a low-energy fallback. switching between them is one click. pin your phase or energy variant for the week. 14 pages and 6 databases, built in Notion.\n\nFOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #executivefunction",
+    "cta": "demo"
+  },
+  {
+    "id": "2027-05-15-R-C",
+    "date": "2027-05-15",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 19,
+    "week_theme": "transitions between tasks",
+    "month_theme": "Start friction",
+    "pillar": "P4",
+    "format": "loop",
+    "avatar": true,
+    "hook_lines": [
+      "five minutes between blocks.",
+      "water, window, one slow breath.",
+      "then the next first move."
+    ],
+    "start_frame_prompt": "A woman standing at a pale oak kitchen counter, pouring water from a ceramic jug into a glass between work blocks, a window with soft daylight beside her, minimal natural makeup, no-makeup look, relaxed hair down, grey knit cardigan over an ivory top, calm expression, three-quarter view, looking away off-frame, medium shot from chest up, vertical composition with calm empty wall in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static locked-off camera, she pours water into the glass, sets the jug down and turns slightly toward the window, light shifts softly, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "calm piano ambient",
+    "caption": "five minutes between two tasks is part of the plan.\n\nwhen a block ends, stand up. pour water. look out of a window. then open the next task with the first move you already wrote. a buffer you planned is not time you lost.\n\nsave this for your next back-to-back afternoon.\n\n#executivefunction #adhdwomen #weeklyplanning",
+    "cta": "save"
+  },
+  {
+    "id": "2027-05-16-C-5",
+    "date": "2027-05-16",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 19,
+    "week_theme": "transitions between tasks",
+    "month_theme": "Start friction",
+    "pillar": "P3",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a paper weekly planner open on a linen tablecloth, five day columns with blurred illegible pencil notes and small soft dots on two of them, a ceramic cup of tea and a pencil, warm sunday evening lamp light, the upper half of the frame kept as plain ivory linen, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "sunday: map the week's <em>hand-offs.</em>",
+        "sub": "where one thing ends and the next begins is where plans break."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "look at monday to friday.",
+        "p": [
+          "circle the places where one block runs straight into the next."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "check your log for low days.",
+        "p": [
+          "if last month's notes show less room on certain days, mark them."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "add one buffer to each circle.",
+        "p": [
+          "ten minutes, written in like a meeting. two on the marked days."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "write monday's first move.",
+        "p": [
+          "so the first transition of the week is already decided."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "plan the hand-offs, not just the tasks.\n\ncircle every place where one block runs straight into the next. check your energy log for days that had less room last month and mark them. add a ten-minute buffer to each circle, two on marked days. track your own pattern and plan the gaps around it.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyreview #cycleawareplanning #weeklyplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-05-17-C-1",
+    "date": "2027-05-17",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 20,
+    "week_theme": "time blindness and visible time",
+    "month_theme": "Start friction",
+    "pillar": "P4",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a round analog wall clock with a pale face and no numerals, hung on a warm ivory wall above an oak desk, a ceramic vase with a single dried branch below it, soft late-morning daylight, the left half of the frame kept as calm empty wall for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "if time is <em>invisible,</em> put it on the desk.",
+        "sub": "a clock you can see makes the hour something to look at."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "time blindness, described.",
+        "p": [
+          "twenty minutes feel like five. or the afternoon is gone and the task is untouched."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "make the block visible.",
+        "p": [
+          "an analog timer or a clock face in sight, not a number in a corner of the screen."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "estimate, then check.",
+        "p": [
+          "write how long you think a task takes. note the real time beside it."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "plan with your own numbers.",
+        "p": [
+          "after a week, use measured times instead of hopeful ones."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "when time is hard to feel, make it something you can see.\n\na clock face in sight, a timer on the desk, an estimate written next to the real time. after a week you plan with your own numbers. starting gets less guesswork when the hour is in view.\n\nsave this for monday morning.\n\n#executivefunction #adhdwomen #adhdplanning #weeklyplanning",
+    "cta": "save"
+  },
+  {
+    "id": "2027-05-17-R-A",
+    "date": "2027-05-17",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 20,
+    "week_theme": "time blindness and visible time",
+    "month_theme": "Start friction",
+    "pillar": "P2",
+    "format": "tre-rader",
+    "avatar": false,
+    "hook_lines": [
+      "your estimate is a wish.",
+      "write it down. then time it.",
+      "plan next week with the real number."
+    ],
+    "start_frame_prompt": "Vertical frame of a hand writing in a two-column notebook on an oak desk, the handwriting blurred and illegible, a small round analog desk clock with no numerals beside it, a ceramic mug, soft side light from a window, calm empty ivory wall across the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "slow push-in toward the notebook, the hand makes a short pencil mark in the second column, too small to read, the clock hand moves a small step, light shifts softly, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "minimal piano calm",
+    "caption": "the time you think it takes and the time it takes are two numbers.\n\nfor one week, write your estimate before each task and the real time after. then plan next week with the real numbers. no judgement, just better inputs.\n\nsend this to the friend who says 'ten minutes' about everything.\n\n#executivefunction #adhdwomen #weeklyplanning",
+    "cta": "send"
+  },
+  {
+    "id": "2027-05-18-C-2",
+    "date": "2027-05-18",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 20,
+    "week_theme": "time blindness and visible time",
+    "month_theme": "Start friction",
+    "pillar": "P2",
+    "avatar": false,
+    "cover_prompt": "4:5 overhead view of a notebook ruled into two columns with blurred illegible handwriting, a pencil, a small analog timer in pale ceramic, a linen napkin and a few oat biscuits on a plate, soft morning light, the upper half of the frame left as calm empty oak desk, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "the <em>estimate log:</em> one week, two columns.",
+        "sub": "write how long you think, then how long it took."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "column one: your guess.",
+        "p": [
+          "before each task, write the minutes you expect."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "column two: the real time.",
+        "p": [
+          "note when you finished. no judgement, just the number."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "find your multiplier.",
+        "p": [
+          "if most tasks took twice the guess, that is your factor."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "plan with the factor.",
+        "p": [
+          "next week, multiply each estimate before it goes in the calendar."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "a week of estimates gives you a number to plan with.\n\ntwo columns: your guess, the real time. at the end of the week, find your multiplier. if most things took twice as long, double every estimate next week before it goes in the calendar.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyplanning #executivefunction #adhdplanning",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-05-19-R-B",
+    "date": "2027-05-19",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 20,
+    "week_theme": "time blindness and visible time",
+    "month_theme": "Start friction",
+    "pillar": "P4",
+    "format": "ett-verktyg",
+    "avatar": true,
+    "hook_lines": [
+      "a timer you can see from here.",
+      "set it for one block. 25 minutes.",
+      "the hour becomes something you can look at."
+    ],
+    "start_frame_prompt": "A woman at an oak desk by a window, setting a small round pale ceramic kitchen timer with both hands, a notebook and a laptop beside her, minimal natural makeup, no-makeup look, relaxed hair down, ivory knit sweater, focused expression, over-the-shoulder, medium shot from chest up, soft nordic daylight, vertical composition with calm empty wall in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "gentle handheld drift, she turns the timer dial and sets it down beside the notebook, her eyes stay on the desk, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "soft ambient piano",
+    "caption": "put the block where you can see it.\n\na physical timer on the desk, set for one block. 25 minutes, or whatever you can say yes to today. when time is visible, you can glance at it instead of guessing.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#executivefunction #adhdwomen #focusprotocol",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-05-20-C-3",
+    "date": "2027-05-20",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 20,
+    "week_theme": "time blindness and visible time",
+    "month_theme": "Start friction",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a small pale ceramic timer on a linen sofa cushion next to a closed notebook and a cup of tea on a low oak tray, overcast light through a window, a wool blanket folded at the edge, the left half of the frame kept as quiet empty wall for a headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "low day: <em>shorter blocks,</em> visible ones.",
+        "sub": "set ten minutes and keep the timer where you can see it."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "ten minutes, not an hour.",
+        "p": [
+          "set the timer to a length you can say yes to today."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "one block, then a check.",
+        "p": [
+          "when it rings, rate yourself 1 to 5. another block, or stop."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "stopping is part of the design.",
+        "p": [
+          "two finished blocks on a low day is the day going as planned."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "on a low day, make the block smaller and keep it in sight.\n\nten minutes on a timer you can see. when it rings, rate your energy 1 to 5 and choose: one more block, or stop. both are part of the plan you made.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #adhdwomen #executivefunction",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-05-21-C-4",
+    "date": "2027-05-21",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 20,
+    "week_theme": "time blindness and visible time",
+    "month_theme": "Start friction",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a laptop on an oak desk with a softly blurred Notion workspace showing pale page blocks and no readable words, a linen notebook closed beside it, a ceramic mug, a small round clock with no numerals on the wall behind, soft daylight, the upper half of the frame left as empty ivory wall, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "the week, <em>visible</em> in one place.",
+        "sub": "FOCUS+ Core: 14 pages and 6 databases, built in Notion."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "14 pages.",
+        "p": [
+          "one workspace built in Notion, opened from the same place every day."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "6 databases underneath.",
+        "p": [
+          "the structure stays put while the week changes on top of it."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "pin your variant.",
+        "p": [
+          "pin the phase or energy variant you are in for the week."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "€27 one-time.",
+        "p": [
+          "14-day money-back. the public demo is open before you decide."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "one place to look at the week.\n\nFOCUS+ Core is 14 pages and 6 databases, built in Notion. 4 phase protocols with a low-energy fallback, switched with one click. pin the phase or energy variant you are in. €27 one-time, 14-day money-back.\n\nFOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #weeklyplanning",
+    "cta": "core"
+  },
+  {
+    "id": "2027-05-22-R-C",
+    "date": "2027-05-22",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 20,
+    "week_theme": "time blindness and visible time",
+    "month_theme": "Start friction",
+    "pillar": "P4",
+    "format": "loop",
+    "avatar": false,
+    "hook_lines": [
+      "an hour, made visible.",
+      "light moves across the desk.",
+      "the block ends when the shadow does."
+    ],
+    "start_frame_prompt": "Vertical frame of a quiet oak desk with an open notebook and a pencil, the shadow of a window frame falling across linen and paper in soft morning sun, a ceramic cup and a small dried flower in a bud vase, calm empty ivory wall in the upper third of the frame, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static locked-off camera, the window shadow drifts slowly across the notebook and the linen, a sheer curtain moves gently in a faint breeze, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "slow piano ambient",
+    "caption": "time you can watch is time you can plan.\n\na shadow moving across the desk, a timer, a clock face in view. anything that turns the hour into something you can see. watch one block pass on purpose today.\n\nsave this for the next afternoon that disappears.\n\n#executivefunction #adhdwomen #focusprotocol",
+    "cta": "save"
+  },
+  {
+    "id": "2027-05-23-C-5",
+    "date": "2027-05-23",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 20,
+    "week_theme": "time blindness and visible time",
+    "month_theme": "Start friction",
+    "pillar": "P3",
+    "avatar": true,
+    "cover_prompt": "A woman sitting on a linen-covered window seat with a paper week planner open on her knees, faint marks too small to read, a pencil in one hand, a ceramic cup of tea on the sill, minimal natural makeup, no-makeup look, relaxed hair down, oat knit sweater, contemplative expression, side profile, medium shot from chest up, sunday evening light, 4:5 frame with calm empty wall in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "sunday: <em>count the free hours</em> first.",
+        "sub": "count the hours that are free. then plan only those."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "block the fixed things.",
+        "p": [
+          "meetings, school runs, travel, meals. they go in first."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "mark your low days.",
+        "p": [
+          "check your energy log. days that had less room last month get a dot."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "count what is left.",
+        "p": [
+          "add up the free hours. dotted days count at half."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "fill to 70 percent.",
+        "p": [
+          "leave the rest open for transitions and things that run long."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "count the hours before you fill them.\n\nfixed things first. then check your energy log and dot the days that had less room last month. count the free hours, dotted days at half. plan to 70 percent of that number. if your energy shifts across the month, plan for it.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyreview #cycleawareplanning #weeklyplanning #lowenergydays",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-05-24-C-1",
+    "date": "2027-05-24",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 21,
+    "week_theme": "body doubling, quietly",
+    "month_theme": "Start friction",
+    "pillar": "P4",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a long oak table with two ceramic mugs set across from each other, one open laptop with a blurred pale screen and one open notebook, two pairs of hands working quietly, soft daylight from tall windows, the upper half of the frame kept as calm ivory wall, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "body doubling <em>without a video call.</em>",
+        "sub": "quiet company, chosen on purpose, so starting is not a solo act."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "what it is.",
+        "p": [
+          "working with someone present. not helping, just there while you begin."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "a library or café table.",
+        "p": [
+          "other people working nearby can be enough."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "a friend on the same clock.",
+        "p": [
+          "'starting at 10, done at 10.50.' both work, then check in."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "a recorded room.",
+        "p": [
+          "a long video of a quiet study room, sound low, as background."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "some tasks start more easily with someone else in the room.\n\nbody doubling is working next to another person who is not helping. a library table, a friend on the same clock, a quiet recorded room in the background. pick one and try it on the task you have moved twice.\n\nsave this for thursday.\n\n#executivefunction #adhdwomen #focusprotocol #adhdplanning",
+    "cta": "save"
+  },
+  {
+    "id": "2027-05-24-R-A",
+    "date": "2027-05-24",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 21,
+    "week_theme": "body doubling, quietly",
+    "month_theme": "Start friction",
+    "pillar": "P4",
+    "format": "tre-rader",
+    "avatar": false,
+    "hook_lines": [
+      "she isn't helping.",
+      "she's just in the room.",
+      "and the start is shared."
+    ],
+    "start_frame_prompt": "Vertical frame of a shared oak table seen from the side, two ceramic mugs, one pair of hands typing on a laptop with a blurred pale screen and another pair making small pencil marks in a linen notebook across from it, marks too small to read, soft daylight from a tall window, calm empty wall filling the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static locked-off camera, both pairs of hands keep working quietly, one hand reaches for a mug, takes it and sets it back down, the other turns a notebook page, daylight shifts softly over the table, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "calm piano lofi",
+    "caption": "company that does nothing can still change where you begin.\n\nworking next to someone who is busy with their own task is called body doubling. no talking, no coaching. one table, two tasks, a start time you share.\n\nsend this to the friend you'd work next to.\n\n#executivefunction #adhdwomen #focusprotocol",
+    "cta": "send"
+  },
+  {
+    "id": "2027-05-25-C-2",
+    "date": "2027-05-25",
+    "weekday": "Tue",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "2",
+    "role": "method: metod steg för steg",
+    "iso_week": 21,
+    "week_theme": "body doubling, quietly",
+    "month_theme": "Start friction",
+    "pillar": "P4",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of two notebooks side by side on an oak table, two pencils, two ceramic cups of coffee, a small linen napkin between them, soft morning light from a window, a calm empty area of pale wall across the upper half of the frame, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "set up a <em>quiet co-working hour</em> in five steps.",
+        "sub": "one person, one time, one task each. nothing to perform."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "pick one person.",
+        "p": [
+          "someone who also has something to start."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "fix a time and a length.",
+        "p": [
+          "45 minutes, same day each week."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "say your one task.",
+        "p": [
+          "one line each at the start. no updates in between."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "work in silence.",
+        "p": [
+          "same room, camera off, or a text at the start. your choice."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "05",
+        "h": "close with one word.",
+        "p": [
+          "'done' or 'started'. both count."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "a co-working hour can be quiet and still work as company.\n\none person, a fixed weekly time, one task each said out loud at the start. then silence for 45 minutes. close with one word: done or started.\n\nsave this and send it to the person you'd ask.\n\n#executivefunction #adhdplanning #focusprotocol",
+    "cta": "save"
+  },
+  {
+    "id": "2027-05-26-R-B",
+    "date": "2027-05-26",
+    "weekday": "Wed",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "B",
+    "role": "metod-reel: ett konkret verktyg",
+    "iso_week": 21,
+    "week_theme": "body doubling, quietly",
+    "month_theme": "Start friction",
+    "pillar": "P2",
+    "format": "ett-verktyg",
+    "avatar": false,
+    "hook_lines": [
+      "text one friend: starting at 10.",
+      "she replies: me too, until 10.50.",
+      "two people, one clock, no call."
+    ],
+    "start_frame_prompt": "Vertical frame of an oak desk with a phone lying face up showing a dark blank screen, a hand resting beside it, an open notebook and a ceramic cup, a small round clock with no numerals nearby, soft morning window light, calm empty ivory wall across the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "slow push-in, the hand turns the phone face down and slides it to the far edge of the desk, soft morning light shifts across the paper, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "soft piano focus",
+    "caption": "body doubling can be one text message.\n\n'starting at 10, done at 10.50.' your friend sends the same. you both work, phones face down. at 10.50, one word each. if you want a fixed structure for the days around it, look before you decide.\n\nFOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#executivefunction #adhdwomen #notiontemplate",
+    "cta": "demo"
+  },
+  {
+    "id": "2027-05-27-C-3",
+    "date": "2027-05-27",
+    "weekday": "Thu",
+    "time_cet": "09:00",
+    "kind": "carousel",
+    "slot": "3",
+    "role": "low-energy: lågenergi-varianten av veckans ämne",
+    "iso_week": 21,
+    "week_theme": "body doubling, quietly",
+    "month_theme": "Start friction",
+    "pillar": "P1",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a reading corner with a linen armchair, a wool blanket, a notebook and a pencil on a small oak stool, a second empty cup on the stool as if someone sat nearby, soft overcast light from a window, the left half of the frame left as calm empty wall for a headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "low day: <em>borrow</em> someone's quiet.",
+        "sub": "when starting alone is too much today, start next to someone."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "ask for presence, not help.",
+        "p": [
+          "'can i sit with you for 30 minutes?' is a small ask."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "bring the smallest version.",
+        "p": [
+          "one email, one page, one drawer."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "leave when the block ends.",
+        "p": [
+          "the plan was 30 minutes. done is done."
+        ]
+      },
+      {
+        "shared": "cta-reset"
+      }
+    ],
+    "caption": "on a low day, company can be the plan.\n\nask someone if you can sit with them for 30 minutes. bring the smallest version of one task. when the time is up, stop. you asked for presence, and you used it.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #adhdwomen #executivefunction",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-05-28-C-4",
+    "date": "2027-05-28",
+    "weekday": "Fri",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "4",
+    "role": "system: hur FOCUS+ Core gör det (produkt)",
+    "iso_week": 21,
+    "week_theme": "body doubling, quietly",
+    "month_theme": "Start friction",
+    "pillar": "P5",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a laptop open on a linen-covered table showing a softly blurred Notion workspace with pale blocks and no readable words, a second chair pulled up with a ceramic cup in front of it, a notebook, soft afternoon window light, the upper half of the frame kept as empty ivory wall, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "open the <em>public demo</em> next to your own list.",
+        "sub": "look through FOCUS+ Core before you decide, at your own pace."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "what you are looking at.",
+        "p": [
+          "14 pages and 6 databases, built in Notion."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "4 phase protocols.",
+        "p": [
+          "each with a low-energy fallback for the days with less room."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "switch with one click.",
+        "p": [
+          "pin your phase or energy variant, switch when the day changes."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "€27 one-time.",
+        "p": [
+          "14-day money-back if it is not for you."
+        ]
+      },
+      {
+        "shared": "cta-core"
+      }
+    ],
+    "caption": "look first, decide later.\n\nthe public demo shows FOCUS+ Core as it is: 14 pages, 6 databases, 4 phase protocols with a low-energy fallback, a one-click switch, built in Notion. open it beside your own list and compare. €27 one-time, 14-day money-back.\n\nFOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #adhdplanning",
+    "cta": "demo"
+  },
+  {
+    "id": "2027-05-29-R-C",
+    "date": "2027-05-29",
+    "weekday": "Sat",
+    "time_cet": "10:00",
+    "kind": "reel",
+    "slot": "C",
+    "role": "loop-reel: lugn, loopbar, sparvänlig",
+    "iso_week": 21,
+    "week_theme": "body doubling, quietly",
+    "month_theme": "Start friction",
+    "pillar": "P4",
+    "format": "loop",
+    "avatar": true,
+    "hook_lines": [
+      "two mugs, one table.",
+      "nobody says a word for 30 minutes.",
+      "the task still gets its start."
+    ],
+    "start_frame_prompt": "A woman at a long oak kitchen table resting a pencil on an open linen notebook, a second ceramic mug set across the table in front of an empty chair, minimal natural makeup, no-makeup look, relaxed hair down, grey knit sweater, calm expression, side profile, medium shot from chest up, soft late-morning daylight, vertical composition with calm empty wall in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static locked-off camera, she lifts her mug and sets it back down beside the notebook, light drifts over the table, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "lofi piano calm",
+    "caption": "quiet company counts.\n\na second mug on the table, a friend across from you, or someone on the same start time by text. no talking. one task each. the start belongs to both of you.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#executivefunction #adhdwomen #focusprotocol",
+    "cta": "reset"
+  },
+  {
+    "id": "2027-05-30-C-5",
+    "date": "2027-05-30",
+    "weekday": "Sun",
+    "time_cet": "19:00",
+    "kind": "carousel",
+    "slot": "5",
+    "role": "sunday review: söndagsgenomgång inför veckan",
+    "iso_week": 21,
+    "week_theme": "body doubling, quietly",
+    "month_theme": "Start friction",
+    "pillar": "P3",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a paper weekly planner on an oak desk with two small blocks softly shaded in sage pencil, blurred illegible notes elsewhere, a ceramic cup of tea and a pencil, sunday evening lamp light, a wool throw on the chair, the upper half of the frame kept as plain ivory wall, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "sunday: book <em>two quiet sessions</em> for the week.",
+        "sub": "body doubling, planned on sunday instead of hoped for on thursday."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "pick the hardest task.",
+        "p": [
+          "the one you have moved twice. that one gets company."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "place it by your log.",
+        "p": [
+          "if your notes show lower-room days, put a session there."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "choose the who and where.",
+        "p": [
+          "a friend on text, a colleague, a library table."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "put it in the calendar.",
+        "p": [
+          "two 45-minute sessions, named, with a start time."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "book the company instead of hoping for it.\n\non sunday, pick the task you have moved twice. check your energy log and place a quiet session on a day that usually has less room. choose the person and the place. two 45-minute blocks, in the calendar, named.\n\nsave this for sunday evening.\n\n#weeklyreview #cycleawareplanning #executivefunction",
+    "cta": "save"
+  },
+  {
+    "id": "2027-05-31-C-1",
+    "date": "2027-05-31",
+    "weekday": "Mon",
+    "time_cet": "12:30",
+    "kind": "carousel",
+    "slot": "1",
+    "role": "topic: veckans ämne, sparbar",
+    "iso_week": 22,
+    "week_theme": "the two-minute entry point",
+    "month_theme": "Start friction",
+    "pillar": "P4",
+    "avatar": false,
+    "cover_prompt": "4:5 frame of a half-open oak door leading into a calm study with soft daylight, a linen runner on the floor, a small oak desk with a notebook visible inside the room, the left half of the frame kept as empty warm ivory wall for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "slides": [
+      {
+        "type": "hook",
+        "text": "every task has a <em>two-minute door.</em>",
+        "sub": "find the part that takes under two minutes and start there."
+      },
+      {
+        "type": "body",
+        "num": "01",
+        "h": "not about finishing small tasks.",
+        "p": [
+          "this is about entering large ones."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "02",
+        "h": "write the door.",
+        "p": [
+          "for each big task: the first action that takes under two minutes."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "03",
+        "h": "open the door, then decide.",
+        "p": [
+          "after two minutes, keep going or stop. both count."
+        ]
+      },
+      {
+        "type": "body",
+        "num": "04",
+        "h": "keep a door list.",
+        "p": [
+          "next to your short list, one entry point per task."
+        ]
+      },
+      {
+        "shared": "cta-save"
+      }
+    ],
+    "caption": "a big task needs a small way in.\n\nfor each large task, write the part that takes under two minutes: open the folder, name the file, write the first line. open the door, then choose whether to keep going. the entry is the plan.\n\nsave this for monday morning.\n\n#executivefunction #adhdwomen #focusprotocol #weeklyplanning",
+    "cta": "save"
+  },
+  {
+    "id": "2027-05-31-R-A",
+    "date": "2027-05-31",
+    "weekday": "Mon",
+    "time_cet": "19:00",
+    "kind": "reel",
+    "slot": "A",
+    "role": "hook-reel byggd för sends",
+    "iso_week": 22,
+    "week_theme": "the two-minute entry point",
+    "month_theme": "Start friction",
+    "pillar": "P4",
+    "format": "tre-rader",
+    "avatar": false,
+    "hook_lines": [
+      "two minutes is not a task.",
+      "it is the way into one.",
+      "write the door, not the room."
+    ],
+    "start_frame_prompt": "Vertical frame of a hand opening a linen-bound notebook to a fresh ivory page on an oak desk, a pencil resting at the spine, a ceramic cup and a folded wool cloth nearby, a softly lit half-open door in the blurred background, calm empty wall across the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "slow push-in, the hand opens the notebook and smooths the fresh page flat with the palm, soft light shifts across the paper, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "music_mood": "calm piano minimal",
+    "caption": "two minutes is the door, not the room.\n\nplan the way in, not the whole task: the first action that fits in two minutes. once you are through the door, you decide what happens next.\n\nsend this to the friend with one task she has been circling for a week.\n\n#executivefunction #adhdwomen #focusprotocol",
+    "cta": "send"
+  }
+]
