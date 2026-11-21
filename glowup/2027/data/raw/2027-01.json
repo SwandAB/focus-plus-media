@@ -78,7 +78,7 @@
       "one blank page. then close the notebook."
     ],
     "start_frame_prompt": "Top-down view of hands resting on an open blank notebook on a grey wool throw by a frosted window, a ceramic cup of tea beside it, an oak tray holding a single pencil, soft overcast morning light, quiet and unhurried. Vertical 9:16 composition with calm empty space in the upper third of the frame, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "static locked-off camera from above, a hand slowly smooths the blank page flat, then lifts the cover and closes the notebook halfway, light drifts softly across the throw, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "static locked-off camera from above, a hand slowly smooths the blank page flat, then lifts the cover halfway and lets it fall open again, light drifts softly across the throw, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "calm piano minimal",
     "caption": "january 2nd is a practice day, not a test.\n\nopen one page. write nothing on it if that's where you are. the point is to show up to the place where the planning happens, then close it again. the real start is monday.\n\nsave this for the next slow saturday.\n\n#lowenergydays #adhdwomen #executivefunction #weeklyplanning",
     "cta": "save"
@@ -307,7 +307,7 @@
     "month_theme": "Plan the year you have",
     "pillar": "P5",
     "avatar": false,
-    "cover_prompt": "A MacBook-style laptop open on an oak desk with a soft blurred Notion workspace on screen, nothing readable, a ceramic cup and a linen notebook in the foreground, morning daylight from a tall window, a sage plant leaf at the edge of frame. 4:5 composition with calm empty space on the left side of the frame for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A plain unbranded laptop open on an oak desk with a soft blurred Notion workspace on screen, nothing readable, a ceramic cup and a linen notebook in the foreground, morning daylight from a tall window, a sage plant leaf at the edge of frame. 4:5 composition with calm empty space on the left side of the frame for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -396,7 +396,7 @@
       {
         "type": "hook",
         "text": "sunday: <em>score first,</em> plan second.",
-        "sub": "one extra line makes next month's planning more accurate."
+        "sub": "one extra line on energy gives next month something to plan from."
       },
       {
         "type": "body",
@@ -675,8 +675,8 @@
       "the rest of the list waits.",
       "read the card. begin with line one."
     ],
-    "start_frame_prompt": "A woman at a pale wooden kitchen table writing on a small plain card with a pencil, a ceramic cup of tea and a linen napkin beside her, soft winter daylight from the window behind, minimal natural makeup, no-makeup look, relaxed hair down, oat knit sweater, calm expression, side profile, medium shot from chest up. Vertical 9:16 composition with calm empty space in the upper third of the frame, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "static locked-off camera, she writes a short mark on the card, sets it down beside the cup, lifts the cup, places it back, her gaze stays on the table, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "start_frame_prompt": "A woman at a pale wooden kitchen table resting a pencil on a small blank card, a ceramic cup of tea and a linen napkin beside her, soft winter daylight from the window behind, minimal natural makeup, no-makeup look, relaxed hair down, oat knit sweater, calm expression, side profile, medium shot from chest up. Vertical 9:16 composition with calm empty space in the upper third of the frame, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static locked-off camera, she slides the blank card beside the cup and rests her hand on it, her gaze stays on the table, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "soft piano loop",
     "caption": "a card with three lines is a whole plan.\n\nwrite the short list on a card, not in an app. three lines. put it next to the cup. when you lose the thread, read the card again and start with line one. the rest of the list is safe where it is.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #adhdwomen #executivefunction #focusprotocol",
     "cta": "reset"
@@ -806,7 +806,7 @@
         "num": "04",
         "h": "give it two minutes.",
         "p": [
-          "after two minutes, stopping is allowed. most days you'll keep going."
+          "after two minutes, stopping is allowed. sometimes you'll keep going."
         ]
       },
       {
@@ -1055,7 +1055,7 @@
       "track it for four weeks. then plan for it."
     ],
     "start_frame_prompt": "Two plain paper cards side by side on a dark oak table in low winter light, one card slightly turned, a pencil between them, a ceramic cup of tea, a candle glowing softly at the edge, deep blue morning dark outside the window. Vertical 9:16 composition with calm empty space in the upper third of the frame, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "slow push-in, a hand turns the left card face down and draws the right card closer, then rests the pencil on top of it, the soft daylight stays even and quiet across the frame, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "slow push-in, a hand turns the left card face down and draws the right card closer, then rests the pencil on top of it, the low winter light stays even and quiet across the frame, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "slow ambient piano",
     "caption": "january is a slow month for plenty of people.\n\nthe useful question isn't why. it's what your pattern looks like. one mark a day, 1 to 5, for four weeks. then look at it and plan the next month around what you saw. it's observation, not judgment.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#cycleawareplanning #adhdwomen #weeklyplanning #lowenergydays",
     "cta": "reset"
@@ -1073,7 +1073,7 @@
     "month_theme": "Plan the year you have",
     "pillar": "P3",
     "avatar": true,
-    "cover_prompt": "A woman at a wooden kitchen table in the evening writing a small mark in the margin of a paper planner, a ceramic cup and a lamp beside her, dark window behind with soft reflections, minimal natural makeup, no-makeup look, relaxed hair down, ivory wool knit, contemplative expression, over-the-shoulder, medium shot from chest up. 4:5 composition with calm empty space on the left side of the frame for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A woman at a wooden kitchen table in the evening making a small pencil mark in the margin of a paper planner, marks too small to read, a ceramic cup and a lamp beside her, dark window behind with soft reflections, minimal natural makeup, no-makeup look, relaxed hair down, ivory wool knit, contemplative expression, over-the-shoulder, medium shot from chest up. 4:5 composition with calm empty space on the left side of the frame for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -1138,8 +1138,8 @@
       "same tasks, later start, fewer of them.",
       "write it before the dark mornings do."
     ],
-    "start_frame_prompt": "A woman at an oak desk under a warm lamp writing on a small card, a dark blue window behind her, a ceramic cup steaming, a linen notebook open beside her, minimal natural makeup, no-makeup look, relaxed hair down, soft grey knit cardigan over an ivory top, focused expression, three-quarter view, looking away off-frame, medium shot from chest up. Vertical 9:16 composition with calm empty space in the upper third of the frame, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "slow push-in, she finishes writing, slides the card under the edge of the lamp base, then lifts the cup, her gaze stays down on the desk, the soft daylight stays even and quiet across the frame, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "start_frame_prompt": "A woman at an oak desk under a warm lamp holding a pencil over a small blank card, a dark blue window behind her, a ceramic cup steaming, a linen notebook open beside her, minimal natural makeup, no-makeup look, relaxed hair down, soft grey knit cardigan over an ivory top, focused expression, three-quarter view, looking away off-frame, medium shot from chest up. Vertical 9:16 composition with calm empty space in the upper third of the frame, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "slow push-in, she slides the blank card under the edge of the lamp base and rests her hand beside it, her gaze stays down on the desk, the warm lamplight stays even and quiet across the frame, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "warm piano minimal",
     "caption": "write the dark-morning version of your plan now.\n\nsame tasks, a later start, and fewer of them. put it on a card by the lamp. when a dark morning arrives, there's no deciding. you follow the version you wrote on a day with more room.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #adhdwomen #executivefunction #focusprotocol",
     "cta": "reset"

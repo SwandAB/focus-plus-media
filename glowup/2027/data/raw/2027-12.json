@@ -88,11 +88,11 @@
     "month_theme": "Quiet Q4",
     "pillar": "P5",
     "avatar": false,
-    "cover_prompt": "A MacBook on an oak desk showing a blurred Notion page, a beeswax candle burning in a ceramic holder beside it, a wool throw over the chair, a hand resting on a linen notebook, warm lamplight on a dark december afternoon, 4:5 composition with calm empty space on the left side for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A plain unbranded laptop on an oak desk showing a blurred Notion page, a beeswax candle burning in a ceramic holder beside it, a wool throw over the chair, a hand resting on a linen notebook, warm lamplight on a dark december afternoon, 4:5 composition with calm empty space on the left side for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
-        "text": "a <em>low-energy fallback</em> for every protocol.",
+        "text": "december weeks, <em>with a smaller version</em> ready.",
         "sub": "what FOCUS+ Core does on the weeks with less room."
       },
       {
@@ -116,7 +116,7 @@
         "num": "03",
         "h": "pin the variant you're in.",
         "p": [
-          "your phase or energy variant opens first."
+          "pin your phase or energy variant for the week."
         ]
       },
       {
@@ -131,7 +131,7 @@
         "shared": "cta-core"
       }
     ],
-    "caption": "every protocol has a smaller version.\n\nFOCUS+ Core is our own product. 4 phase protocols, each with a low-energy fallback, switched in one click. pin the variant you're in and the week opens on it. 14 pages, 6 databases, built in Notion.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #focusprotocol #weeklyplanning",
+    "caption": "every protocol has a smaller version.\n\nFOCUS+ Core is our own product. 4 phase protocols, each with a low-energy fallback, switched in one click. pin the variant you're in for the week. 14 pages, 6 databases, built in Notion.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #focusprotocol #weeklyplanning",
     "cta": "core"
   },
   {
@@ -227,7 +227,7 @@
     "slides": [
       {
         "type": "hook",
-        "text": "the annual review <em>in four questions.</em>",
+        "text": "a year on one page, <em>four questions.</em>",
         "sub": "no vision board. one page and twenty minutes."
       },
       {
@@ -288,8 +288,8 @@
       "four questions. twenty minutes.",
       "the long version is optional."
     ],
-    "start_frame_prompt": "A woman at a kitchen table in the evening with a single sheet of paper and a pencil, a lit candle and a warm brass lamp beside her, minimal natural makeup, no-makeup look, relaxed hair down, an ivory ribbed wool knit, focused expression, three-quarter view, looking down at the page, candid mid-action, medium shot from chest up, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "gentle handheld drift, she writes a short line on the sheet, pauses with the pencil lifted, then writes again, her gaze stays on the paper, candle flame moves softly, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "start_frame_prompt": "A woman at a kitchen table in the evening with a single sheet of paper with faint marks too small to read and a pencil, a lit candle and a warm brass lamp beside her, minimal natural makeup, no-makeup look, relaxed hair down, an ivory ribbed wool knit, focused expression, three-quarter view, looking down at the page, candid mid-action, medium shot from chest up, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "gentle handheld drift, she lifts the pencil from the sheet, pauses, then rests it on the paper again, her gaze stays on the paper, candle flame moves softly, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "reflective piano calm",
     "caption": "the annual review fits on one page.\n\nfour questions, twenty minutes: what worked more than once, what kept getting postponed, what was never yours, what comes with you into 2028. that's the review. the long version can stay optional.\n\nsend this to the friend who skips the annual review because it's too long.\n\n#weeklyreview #weeklyplanning #executivefunction #adhdwomen",
     "cta": "send"
@@ -442,7 +442,7 @@
     "month_theme": "Close the year",
     "pillar": "P5",
     "avatar": false,
-    "cover_prompt": "A MacBook on an oak desk with a blurred Notion workspace, a stack of linen notebooks from the past year beside it tied with string, a lit candle, a ceramic cup, warm lamplight, a hand on the stack, 4:5 composition with calm empty space in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A plain unbranded laptop on an oak desk with a blurred Notion workspace, a stack of linen notebooks from the past year beside it tied with string, a lit candle, a ceramic cup, warm lamplight, a hand on the stack, 4:5 composition with calm empty space in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -526,7 +526,7 @@
     "month_theme": "Close the year",
     "pillar": "P2",
     "avatar": true,
-    "cover_prompt": "A woman curled on a linen sofa under a wool blanket with a notebook and pencil, a lit candle and a warm lamp beside her, minimal natural makeup, no-makeup look, relaxed hair down, a soft grey cashmere knit, calm expression, over-the-shoulder view, candid mid-action, writing slowly, medium shot from chest up, 4:5 composition with calm empty space in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A woman curled on a linen sofa under a wool blanket with a notebook and pencil, a lit candle and a warm lamp beside her, minimal natural makeup, no-makeup look, relaxed hair down, a soft grey cashmere knit, calm expression, over-the-shoulder view, candid mid-action, holding a pencil over faint marks too small to read, medium shot from chest up, 4:5 composition with calm empty space in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -727,7 +727,7 @@
       "the pattern shows up on its own."
     ],
     "start_frame_prompt": "Overhead view of a paper year grid on an oak table, a hand placing small marks in sage, charcoal and dusty rose pencil in a row of squares, a lit candle and a ceramic cup at the corner, warm lamplight, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "static overhead camera, the hand places three small marks in three squares, switching pencils between marks, then sets the pencils down in a neat row beside the grid, warm candle light flickers softly over the paper, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "static overhead camera, the hand places one small mark in a square, then sets the pencil down beside the grid, warm candle light flickers softly over the paper, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "minimal electronic soft",
     "caption": "one mark per week, three kinds.\n\ngo through the year and give each week one mark: heavy, light or empty. it takes ten minutes. the pattern shows up on its own. if you want next year's weeks in one structure, FOCUS+ Core is our own product. it's built in Notion.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #focusprotocol #weeklyplanning",
     "cta": "core"
@@ -796,7 +796,7 @@
     "month_theme": "Close the year",
     "pillar": "P5",
     "avatar": false,
-    "cover_prompt": "A MacBook on an oak desk showing a blurred Notion page, a paper year calendar rolled and tied beside it, a dusty rose ceramic vase, a lit candle, warm lamplight, a hand on the trackpad, 4:5 composition with calm empty space in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A plain unbranded laptop on an oak desk showing a blurred Notion page, a paper year calendar rolled and tied beside it, a dusty rose ceramic vase, a lit candle, warm lamplight, a hand on the trackpad, 4:5 composition with calm empty space in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -816,7 +816,7 @@
         "num": "02",
         "h": "pin what you're in.",
         "p": [
-          "your phase or energy variant opens first."
+          "pin your phase or energy variant for the week."
         ]
       },
       {
@@ -931,7 +931,7 @@
     "month_theme": "Close the year",
     "pillar": "P2",
     "avatar": true,
-    "cover_prompt": "A woman at a kitchen table writing on a single sheet of paper, a lit candle and a warm lamp beside her, a dark december window behind, minimal natural makeup, no-makeup look, relaxed hair down, an ivory ribbed wool knit, focused expression, three-quarter view, looking down at the page, candid mid-action, medium shot from chest up, 4:5 composition with calm empty space on the left side for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A woman at a kitchen table resting a pencil on a single sheet of paper with faint marks too small to read, a lit candle and a warm lamp beside her, a dark december window behind, minimal natural makeup, no-makeup look, relaxed hair down, an ivory ribbed wool knit, focused expression, three-quarter view, looking down at the page, candid mid-action, medium shot from chest up, 4:5 composition with calm empty space on the left side for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -1081,7 +1081,7 @@
       "the whole year, folded into a notebook."
     ],
     "start_frame_prompt": "Overhead view of a hand folding a sheet of cream paper with four faint pencil boxes, a linen notebook open beside it on an oak desk, a lit candle and a ceramic cup, warm lamplight, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "static overhead camera, the hand folds the sheet in half, presses the fold flat and tucks it into the open notebook, then closes the cover gently, candle flame sways, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "static overhead camera, the hand folds the sheet in half and tucks it into the open notebook, candle flame sways, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "minimal piano soft",
     "caption": "the year, folded into one sheet.\n\nfour boxes, one per quarter, one line in each. fold it into the notebook you use every week. FOCUS+ Core is our own product. 14 pages and 6 databases built in Notion, with a public demo.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #focusprotocol #weeklyplanning",
     "cta": "demo"
@@ -1266,8 +1266,8 @@
       "decide its first hour this week.",
       "starting is the hard part. write it now."
     ],
-    "start_frame_prompt": "A woman at an oak desk in a calm winter evening writing in a paper planner, a lit candle and a warm lamp beside her, minimal natural makeup, no-makeup look, relaxed hair down, a soft grey cashmere knit, calm expression, over-the-shoulder view, candid mid-action, pencil moving across the page, medium shot from chest up, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "gentle handheld drift behind her shoulder, she writes one line in the planner, pauses, then underlines it once, her face stays turned to the page, candle flame sways and lamp light stays warm, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "start_frame_prompt": "A woman at an oak desk in a calm winter evening with a paper planner open, a lit candle and a warm lamp beside her, minimal natural makeup, no-makeup look, relaxed hair down, a soft grey cashmere knit, calm expression, over-the-shoulder view, candid mid-action, pencil resting on a page with faint marks too small to read, medium shot from chest up, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "gentle handheld drift behind her shoulder, she rests the pencil on the planner page, pauses, then sets it down beside the planner, her face stays turned to the page, candle flame sways and lamp light stays warm, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "calm piano morning",
     "caption": "monday january 3, decided in december.\n\nstarting is the hard part. so decide the first hour of the year now: the task, the first step, where you sit. write it in the planner. on monday, the decision is already made.\n\nsend this to the friend who dreads the first monday of the year.\n\n#executivefunction #weeklyplanning #focusprotocol #adhdwomen",
     "cta": "send"
@@ -1350,7 +1350,7 @@
       "crossed down to three tasks.",
       "the other six get a later week."
     ],
-    "start_frame_prompt": "Overhead view of a hand with a pencil crossing out lines on a short cream paper list on an oak table, a MacBook at the edge showing a blurred Notion page, a lit candle and a ceramic cup, warm lamplight, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "start_frame_prompt": "Overhead view of a hand with a pencil crossing out lines on a short cream paper list on an oak table, a plain unbranded laptop at the edge showing a blurred Notion page, a lit candle and a ceramic cup, warm lamplight, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "video_prompt": "static overhead camera, the pencil strikes through lines one by one, then circles three remaining lines and is set down beside the paper, candle light flickers softly over the desk, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "minimal piano calm",
     "caption": "nine plans for one week is a month.\n\ncross the first week of january down to three tasks. the other six get a later week, written in. FOCUS+ Core is our own product. 4 phase protocols with a low-energy fallback, built in Notion.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #focusprotocol #weeklyplanning",
@@ -1420,7 +1420,7 @@
     "month_theme": "Close the year",
     "pillar": "P5",
     "avatar": false,
-    "cover_prompt": "A MacBook on an oak desk showing a blurred Notion page, a closed paper planner for the year beside it, a lit candle, a ceramic cup and a sprig of dried eucalyptus, warm lamplight on the last evening of december, 4:5 composition with calm empty space in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A plain unbranded laptop on an oak desk showing a blurred Notion page, a closed paper planner for the year beside it, a lit candle, a ceramic cup and a sprig of dried eucalyptus, warm lamplight on the last evening of december, 4:5 composition with calm empty space in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",

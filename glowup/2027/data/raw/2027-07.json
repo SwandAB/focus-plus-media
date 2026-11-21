@@ -63,7 +63,7 @@
     "month_theme": "Mid-year recalibration",
     "pillar": "P5",
     "avatar": false,
-    "cover_prompt": "A MacBook open on an oak table in a bright summer cottage kitchen, the screen softly blurred showing a pale Notion page with no readable words, a glass of water and a folded linen napkin beside it, green garden light through a small paned window, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and warm charcoal (#2C2C2C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A plain unbranded laptop open on an oak table in a bright summer cottage kitchen, the screen softly blurred showing a pale Notion page with no readable words, a glass of water and a folded linen napkin beside it, green garden light through a small paned window, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and warm charcoal (#2C2C2C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -147,7 +147,7 @@
     "month_theme": "Mid-year recalibration",
     "pillar": "P2",
     "avatar": true,
-    "cover_prompt": "A woman sitting on a wooden balcony bench in the soft evening light of a nordic summer, a paper notebook open on her knee and a pencil in her hand, minimal natural makeup, no-makeup look, relaxed hair down, oat linen-knit cardigan, contemplative expression, three-quarter view, looking away off-frame, medium shot from chest up, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A woman sitting on a wooden balcony bench in the soft evening light of a nordic summer, a paper notebook open on her knee with blank pages and a pencil in her hand, minimal natural makeup, no-makeup look, relaxed hair down, oat linen-knit cardigan, contemplative expression, three-quarter view, looking away off-frame, medium shot from chest up, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -226,7 +226,7 @@
         "num": "03",
         "h": "the rest is paused, in writing.",
         "p": [
-          "a written pause is a decision. an unwritten one tends to turn into guilt."
+          "a written pause is a decision. an unwritten one keeps asking."
         ]
       },
       {
@@ -282,7 +282,7 @@
     "month_theme": "Low-load summer",
     "pillar": "P2",
     "avatar": false,
-    "cover_prompt": "Hands writing on a small paper card at a white-painted garden table, a ceramic mug and a woven straw hat resting nearby, dappled light falling through apple tree leaves, soft green grass blurred in the background, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "Hands making small pencil marks on a paper card at a white-painted garden table, marks too small to read, a ceramic mug and a woven straw hat resting nearby, dappled light falling through apple tree leaves, soft green grass blurred in the background, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -347,8 +347,8 @@
       "high cost: keep it running.",
       "low cost: it can wait until august."
     ],
-    "start_frame_prompt": "A woman at a pale oak table in a bright nordic summer cottage, writing small marks beside a short list on a paper card, minimal natural makeup, no-makeup look, relaxed hair down, ivory cotton-knit sweater, focused expression, side profile, candid mid-action, medium shot from chest up, vertical composition with calm empty space in the upper third for the text lines, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and warm charcoal (#2C2C2C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "gentle handheld drift around the table, she adds a small pencil mark beside one line on the card, then sets the pencil down and slides the card slightly toward the window light, her gaze stays on the card throughout, her face stays relaxed and still, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "start_frame_prompt": "A woman at a pale oak table in a bright nordic summer cottage, making small pencil marks beside a short list on a paper card, marks too small to read, minimal natural makeup, no-makeup look, relaxed hair down, ivory cotton-knit sweater, focused expression, side profile, candid mid-action, medium shot from chest up, vertical composition with calm empty space in the upper third for the text lines, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and warm charcoal (#2C2C2C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "gentle handheld drift around the table, she adds a small pencil mark beside one line on the card, then sets the pencil down, her gaze stays on the card throughout, her face stays relaxed and still, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "soft lo-fi summer",
     "caption": "one number decides what keeps running in july.\n\nnext to each task, write how hard it would be to restart. hard: keep a small version going. easy: let it rest. starting again is often the expensive part, so plan around it.\n\nsend this to the friend who restarts everything in august.\n\n#executivefunction #adhdwomen #weeklyplanning",
     "cta": "send"
@@ -417,11 +417,11 @@
     "month_theme": "Low-load summer",
     "pillar": "P5",
     "avatar": false,
-    "cover_prompt": "A MacBook open on a linen tablecloth on a sunlit cottage table, the screen softly blurred showing a pale Notion workspace with no readable words, a ceramic bowl of blueberries and a folded paper card beside it, white walls and green garden light, 4:5 composition with calm empty space in the upper half for the headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A plain unbranded laptop open on a linen tablecloth on a sunlit cottage table, the screen softly blurred showing a pale Notion workspace with no readable words, a ceramic bowl of blueberries and a folded paper card beside it, white walls and green garden light, 4:5 composition with calm empty space in the upper half for the headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
-        "text": "the minimum week, <em>as a protocol.</em>",
+        "text": "a smaller week, <em>already designed.</em>",
         "sub": "how FOCUS+ Core holds a smaller week without a rebuild."
       },
       {
@@ -460,7 +460,7 @@
         "shared": "cta-core"
       }
     ],
-    "caption": "a minimum viable week works better when the structure is already built.\n\nFOCUS+ Core has 4 phase protocols, each with a low-energy fallback. switch with one click, pin the variant you are in. 14 pages, 6 databases in Notion. FOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #focusprotocol",
+    "caption": "a minimum viable week is simpler to run on a structure that already exists.\n\nFOCUS+ Core has 4 phase protocols, each with a low-energy fallback. switch with one click, pin the variant you are in. 14 pages, 6 databases in Notion. FOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #focusprotocol",
     "cta": "core"
   },
   {
@@ -595,7 +595,7 @@
         "shared": "cta-reset"
       }
     ],
-    "caption": "holiday mode works better as a setting than as a feeling.\n\nbefore you leave, decide what it changes: who can reach you, which card you look at, when you check work, and the day it switches back. write it down once.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyplanning #adhdplanning #focusprotocol",
+    "caption": "holiday mode can be a setting instead of a feeling.\n\nbefore you leave, decide what it changes: who can reach you, which card you look at, when you check work, and the day it switches back. write it down once.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyplanning #adhdplanning #focusprotocol",
     "cta": "reset"
   },
   {
@@ -701,8 +701,8 @@
       "where it stands. what comes next.",
       "then it can wait without following you."
     ],
-    "start_frame_prompt": "Hands writing short lines on a small stack of paper cards at a pale oak desk, a canvas tote and a folded linen shirt beside them, a ceramic cup of coffee, warm summer window light coming from the left, vertical composition with calm empty space in the upper third for the text lines, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "gentle handheld drift over the desk, a hand finishes writing on the top card, places it onto the stack and squares the edges with both hands, then sets the pencil down beside the cup, light shifts softly across the oak surface, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "start_frame_prompt": "Hands squaring a small stack of paper cards with faint pencil lines too small to read at a pale oak desk, a canvas tote and a folded linen shirt beside them, a ceramic cup of coffee, warm summer window light coming from the left, vertical composition with calm empty space in the upper third for the text lines, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "gentle handheld drift over the desk, a hand places the top card onto the stack and squares the edges with both hands, light shifts softly across the oak surface, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "calm minimal beats",
     "caption": "an open loop follows you on holiday until it has a sentence.\n\nfor each unfinished thing, write where it stands and what comes next. one card, one line each. the loop is parked on paper, so there is somewhere for it to wait.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#executivefunction #adhdwomen #focusprotocol",
     "cta": "reset"
@@ -783,7 +783,7 @@
         "num": "01",
         "h": "pin the low-energy variant.",
         "p": [
-          "it stays in place across the 14 pages until you switch it back."
+          "it stays pinned until you switch it back."
         ]
       },
       {
@@ -814,7 +814,7 @@
         "shared": "cta-core"
       }
     ],
-    "caption": "holiday mode is easier to switch on when the system has a switch.\n\nin FOCUS+ Core you pin the low-energy variant and it holds across the 14 pages. one click brings the full protocol back. the 6 databases stay as you left them. FOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #focusprotocol #notionsetup",
+    "caption": "holiday mode is easier to switch on when the system has a switch.\n\nin FOCUS+ Core you pin the low-energy variant and it stays pinned. one click brings the full protocol back. the 6 databases stay as you left them. FOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #focusprotocol #notionsetup",
     "cta": "demo"
   },
   {
@@ -1056,9 +1056,9 @@
       "ending on time is part of the deal."
     ],
     "start_frame_prompt": "A woman at a kitchen table in a bright nordic summer home, setting a simple round analog timer next to an open laptop with a softly blurred screen, minimal natural makeup, no-makeup look, relaxed hair down, ivory knit sweater with pushed-up sleeves, focused expression, side profile, candid mid-action, medium shot from chest up, vertical composition with calm empty space in the upper third for the text lines, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and warm charcoal (#2C2C2C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "slow pan right along the table, she turns the dial of the round timer and places it beside the laptop, then opens a paper notebook next to it and picks up a pencil, her eyes stay on her hands, warm summer light shifts gently across the table, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "slow pan right along the table, she turns the dial of the round timer and places it beside the laptop, her eyes stay on her hands, warm summer light shifts gently across the table, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "soft electronic calm",
-    "caption": "the quiet hour works better with a timer everyone can see.\n\nset it where the household can read it. when it rings, the hour ends, even mid-task. write the next step on a card and close the laptop. the end time is what makes the hour possible to agree on.\n\nsave this for the next summer workday at home.\n\n#executivefunction #adhdwomen #focusprotocol",
+    "caption": "give the quiet hour a timer everyone can see.\n\nset it where the household can read it. when it rings, the hour ends, even mid-task. write the next step on a card and close the laptop. the end time is what makes the hour possible to agree on.\n\nsave this for the next summer workday at home.\n\n#executivefunction #adhdwomen #focusprotocol",
     "cta": "save"
   },
   {
@@ -1125,7 +1125,7 @@
     "month_theme": "Low-load summer",
     "pillar": "P5",
     "avatar": false,
-    "cover_prompt": "A MacBook on a pale oak kitchen table with the screen softly blurred showing a calm Notion calendar view with no readable words, a ceramic fruit bowl and a linen napkin beside it, bright summer window light, an empty kitchen, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A plain unbranded laptop on a pale oak kitchen table with the screen softly blurred showing a calm Notion calendar view with no readable words, a ceramic fruit bowl and a linen napkin beside it, bright summer window light, an empty kitchen, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -1352,7 +1352,7 @@
     "month_theme": "Low-load summer",
     "pillar": "P4",
     "avatar": true,
-    "cover_prompt": "A woman at a small wooden desk by an open window in a bright nordic summer cottage, writing a short note on a paper card and tucking it into a notebook, minimal natural makeup, no-makeup look, relaxed hair down, grey linen-knit sweater, contemplative expression, three-quarter view, looking away off-frame, medium shot from chest up, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A woman at a small wooden desk by an open window in a bright nordic summer cottage, tucking a paper card with faint marks too small to read into a notebook, minimal natural makeup, no-makeup look, relaxed hair down, grey linen-knit sweater, contemplative expression, three-quarter view, looking away off-frame, medium shot from chest up, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -1409,7 +1409,7 @@
       "same day each week. one screen.",
       "nothing to fix. look, then close it."
     ],
-    "start_frame_prompt": "A MacBook on a pale oak garden table under a linen parasol, the screen softly blurred with a pale overview and no readable words, a ceramic cup of coffee and a small sand timer beside it, bright summer light and a green garden behind, vertical composition with calm empty space in the upper third for the text lines, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and warm charcoal (#2C2C2C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "start_frame_prompt": "A plain unbranded laptop on a pale oak garden table under a linen parasol, the screen softly blurred with a pale overview and no readable words, a ceramic cup of coffee and a small sand timer beside it, bright summer light and a green garden behind, vertical composition with calm empty space in the upper third for the text lines, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and warm charcoal (#2C2C2C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "video_prompt": "static locked-off camera on the garden table, a hand turns the small sand timer over and sets it down, sand begins to fall in a thin steady stream, the linen parasol fabric moves gently in the wind and dappled light drifts over the table, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "soft jazz piano",
     "caption": "the money glance is five minutes, once a week, all july.\n\nsame day, one screen, a sand timer. look at what came in and what went out. nothing to fix today, just look and close it. the glance keeps the thread, so august opens with a number you already know.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #weeklyplanning #focusprotocol",
@@ -1479,7 +1479,7 @@
     "month_theme": "Low-load summer",
     "pillar": "P5",
     "avatar": false,
-    "cover_prompt": "A MacBook on a linen-covered desk in a bright summer cottage room, the screen softly blurred showing a calm Notion page in soft sage tones with no readable words, a ceramic vase with a single stem of meadow grass, an open window, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and warm charcoal (#2C2C2C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A plain unbranded laptop on a linen-covered desk in a bright summer cottage room, the screen softly blurred showing a calm Notion page in soft sage tones with no readable words, a ceramic vase with a single stem of meadow grass, an open window, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and warm charcoal (#2C2C2C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -1491,7 +1491,7 @@
         "num": "01",
         "h": "pinned, not paused.",
         "p": [
-          "pin the low-energy variant and the 14 pages hold it."
+          "pin the low-energy variant and it stays pinned."
         ]
       },
       {
@@ -1515,14 +1515,14 @@
         "num": "04",
         "h": "see the demo.",
         "p": [
-          "the public demo shows every protocol before you decide."
+          "the public demo is open before you decide."
         ]
       },
       {
         "shared": "cta-core"
       }
     ],
-    "caption": "while you are away, the system can stay exactly as it is.\n\nin FOCUS+ Core you pin the low-energy variant, the 14 pages follow it, and one click switches you back to the full protocol on your first day back. FOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #focusprotocol",
+    "caption": "while you are away, the system can stay exactly as it is.\n\nin FOCUS+ Core you pin the low-energy variant, and one click switches you back to the full protocol on your first day back. FOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #focusprotocol",
     "cta": "demo"
   },
   {

@@ -129,7 +129,7 @@
       "one change carried over. nothing else."
     ],
     "start_frame_prompt": "A closed linen-bound notebook resting on a short stack of older notebooks on a pale oak desk, a new notebook beside it, a hand at the edge of frame, a ceramic cup and a sprig of spring blossom in a small vase, soft morning light, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "Slow push-in, the hand places the closed notebook on the stack, opens the new notebook to its first page and smooths it flat, then lifts the notebook back onto the stack, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "Slow push-in, the hand opens the new notebook to its first page and smooths it flat, then lets the cover close again, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "soft spring piano",
     "caption": "march is filed away. april gets a clean page and one change.\n\nclose the quarter's notebook. open a new page and write the one rule you chose at the end of march at the top. nothing else carries over: no backlog, no catch-up list.\n\nsave this for the first sunday of april.\n\n#weeklyreview #weeklyplanning #focusprotocol #adhdwomen",
     "cta": "save"
@@ -147,7 +147,7 @@
     "month_theme": "The weekly review",
     "pillar": "P2",
     "avatar": true,
-    "cover_prompt": "A woman at a sunlit kitchen table writing one line at the top of a fresh notebook page, a ceramic cup of coffee and a small vase of spring branches beside her, minimal natural makeup, no-makeup look, relaxed hair down, an ivory cotton knit sweater, focused expression, three-quarter view, looking away off-frame, medium shot from chest up, soft April daylight, oak table, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A woman at a sunlit kitchen table making one small pencil line at the top of a fresh notebook page, marks too small to read, a ceramic cup of coffee and a small vase of spring branches beside her, minimal natural makeup, no-makeup look, relaxed hair down, an ivory cotton knit sweater, focused expression, three-quarter view, looking away off-frame, medium shot from chest up, soft April daylight, oak table, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -348,7 +348,7 @@
       "shade the calendar and the month stops looking flat."
     ],
     "start_frame_prompt": "Two unbranded coloured pencils, one sage green and one dusty rose, lying on a printed paper month calendar on an oak desk, several squares already lightly shaded, a hand entering from the right, soft window light, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "Static locked-off camera, the hand picks up the rose pencil and lightly shades one calendar square, sets it down, picks up the sage pencil and shades the next square, light stays soft, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "Static locked-off camera, the hand lightly shades one calendar square with the rose pencil, then sets it down beside the sage one, light stays soft, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "minimal acoustic calm",
     "caption": "two pencils are enough to see whether your month is flat.\n\neach evening, shade today's square: sage if the day had room, rose if it didn't. no numbers, no notes. after a few weeks, look at the page. the clusters of rose are where next month's lighter weeks go.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#cycleawareplanning #weeklyplanning #adhdwomen #focusprotocol",
     "cta": "reset"
@@ -445,7 +445,7 @@
         "num": "03",
         "h": "pin your variant.",
         "p": [
-          "pin your phase or energy variant so today opens on the right one."
+          "pin your phase or energy variant so it stays in place."
         ]
       },
       {
@@ -460,7 +460,7 @@
         "shared": "cta-core"
       }
     ],
-    "caption": "if your month moves, the plan needs more than one setting.\n\nFOCUS+ Core has 4 phase protocols, each with a low-energy fallback. switch between them in one click when the week changes, and pin your phase or energy variant so the pages open on it. built in Notion, 14 pages and 6 databases.\n\nFOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #cycleawareplanning #focusprotocol",
+    "caption": "if your month moves, the plan needs more than one setting.\n\nFOCUS+ Core has 4 phase protocols, each with a low-energy fallback. switch between them in one click when the week changes, and pin your phase or energy variant for the week. built in Notion, 14 pages and 6 databases.\n\nFOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #cycleawareplanning #focusprotocol",
     "cta": "core"
   },
   {
@@ -620,7 +620,7 @@
     "start_frame_prompt": "A narrow paper strip taped to the inside of a pale oak kitchen cabinet door, blurred unreadable pencil ticks along it, a hand holding a pencil next to it, ceramic mugs on the shelf behind, warm evening light, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "video_prompt": "Gentle handheld drift, the hand adds one small tick to the paper strip, pauses, then closes the cabinet door halfway so the strip slides out of view, light warms softly, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "quiet lo-fi evening",
-    "caption": "the tracker failed. the tracking doesn't have to.\n\nmost energy logs stop because the log lives somewhere you don't go. move it: a paper strip inside the cabinet you open for tea, a note on the lock screen, the calendar by the door. one mark a night, where your eyes already land.\n\nsend this to the friend with six abandoned habit trackers.\n\n#executivefunction #adhdplanning #cycleawareplanning #adhdwomen",
+    "caption": "the tracker failed. the tracking doesn't have to.\n\nan energy log often stops because it lives somewhere you don't go. move it: a paper strip inside the cabinet you open for tea, a note on the lock screen, the calendar by the door. one mark a night, where your eyes already land.\n\nsend this to the friend with six abandoned habit trackers.\n\n#executivefunction #adhdplanning #cycleawareplanning #adhdwomen",
     "cta": "send"
   },
   {
@@ -1168,7 +1168,7 @@
         "shared": "cta-core"
       }
     ],
-    "caption": "most weeks have high days and low days. FOCUS+ Core has a protocol for both.\n\n4 phase protocols, each with a low-energy fallback. pin your phase or energy variant on sunday. if a starred day turns thin by noon, switch in one click and keep working from the same pages. 14 pages and 6 databases in Notion.\n\nFOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #cycleawareplanning #focusprotocol",
+    "caption": "a week can have high days and low days. FOCUS+ Core has a protocol for both.\n\n4 phase protocols, each with a low-energy fallback. pin your phase or energy variant on sunday. if a starred day turns thin by noon, switch in one click and keep working from the same pages. 14 pages and 6 databases in Notion.\n\nFOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #cycleawareplanning #focusprotocol",
     "cta": "core"
   },
   {
@@ -1191,7 +1191,7 @@
       "the same order, every starred day."
     ],
     "start_frame_prompt": "A woman at an oak desk in the morning, opening a thick notebook and setting a smaller one aside to the edge of the desk, minimal natural makeup, no-makeup look, relaxed hair down, an ivory chunky knit sweater, focused expression, over-the-shoulder, medium shot from chest up, bright soft morning light from a tall window, a ceramic cup and linen runner, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "Gentle handheld drift, she slides the small notebook to the desk edge, opens the thick notebook and smooths the page with one hand, then lifts it closed again, her gaze stays on the desk, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "Gentle handheld drift, she opens the thick notebook and smooths the page with one hand, then lets it close again, her gaze stays on the desk, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "soft ambient morning",
     "caption": "on a starred day, the heavy work goes first.\n\nthe morning of a day with room gets the task that needs the longest stretch. the lighter notebook waits at the edge of the desk until afternoon. same order every starred day, so there's nothing to decide at 9 am.\n\nsend this to the friend who saves the hard part for 4 pm.\n\n#cycleawareplanning #weeklyplanning #adhdwomen #focusprotocol",
     "cta": "send"
@@ -1260,7 +1260,7 @@
     "month_theme": "Track your own pattern",
     "pillar": "P1",
     "avatar": true,
-    "cover_prompt": "A woman at a window desk writing in a paper planner and drawing a soft band across one row of days, minimal natural makeup, no-makeup look, relaxed hair down, a grey cashmere knit sweater, calm expression, three-quarter view, looking away off-frame, medium shot from chest up, soft spring daylight, an oak desk with a ceramic cup and a vase of branches, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A woman at a window desk drawing a soft pencil band across one row of days in a paper planner, marks too small to read, minimal natural makeup, no-makeup look, relaxed hair down, a grey cashmere knit sweater, calm expression, three-quarter view, looking away off-frame, medium shot from chest up, soft spring daylight, an oak desk with a ceramic cup and a vase of branches, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -1405,8 +1405,8 @@
     "format": "ett-verktyg",
     "avatar": false,
     "hook_lines": [
-      "a calendar block called 'held'.",
-      "no meeting gets booked on top.",
+      "book the low day before others do.",
+      "one calendar block, called 'held'.",
       "you decide later what fills it, if anything."
     ],
     "start_frame_prompt": "A laptop on a pale oak desk with a softly blurred calendar view on screen and no readable words, one day showing a long soft rose block, a hand resting near the trackpad, a stoneware cup and paper planner beside it, morning light, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
@@ -1522,7 +1522,7 @@
         "shared": "cta-core"
       }
     ],
-    "caption": "a low day goes better when the fallback is already built.\n\nevery one of the 4 phase protocols in FOCUS+ Core has a low-energy fallback. switch to it in one click, and pin your energy variant ahead for the days you've held. 14 pages and 6 databases, built in Notion.\n\nFOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #cycleawareplanning #focusprotocol",
+    "caption": "on a low day, the fallback is already built.\n\nevery one of the 4 phase protocols in FOCUS+ Core has a low-energy fallback. switch to it in one click, and pin your energy variant ahead for the days you've held. 14 pages and 6 databases, built in Notion.\n\nFOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #cycleawareplanning #focusprotocol",
     "cta": "core"
   }
 ]

@@ -129,7 +129,7 @@
       "re-entry starts with what you choose, not what arrived."
     ],
     "start_frame_prompt": "A plain laptop with its lid closed pushed to the side of a pale oak desk, a paper notebook open in the center with a pencil resting across it, a ceramic cup of coffee, early august morning light from a tall window in a nordic home office, vertical composition with calm empty space in the upper third for the text lines, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and warm charcoal (#2C2C2C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "slow push-in toward the desk, a hand slides the closed laptop a little further aside, then picks up the pencil from the open notebook and holds it above the page for a moment, morning light shifts softly across the oak surface, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "slow push-in toward the desk, a hand slides the closed laptop a little further aside and rests on the open notebook, morning light shifts softly across the oak surface, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "steady piano morning",
     "caption": "on the first monday back, the inbox can wait until lunch.\n\nopen the notebook before the laptop. write the one task from your pause notes and start it. the messages will still be there at noon, and you will read them after doing something you chose.\n\nsend this to the colleague going back on monday.\n\n#executivefunction #adhdwomen #weeklyplanning",
     "cta": "send"
@@ -282,19 +282,19 @@
     "month_theme": "Back to structure",
     "pillar": "P5",
     "avatar": false,
-    "cover_prompt": "A MacBook on a pale oak desk in a calm nordic home office, the screen softly blurred showing a pale Notion workspace with no readable words, a ceramic cup and a fresh notebook beside it, a linen curtain filtering clear august light, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A plain unbranded laptop on a pale oak desk in a calm nordic home office, the screen softly blurred showing a pale Notion workspace with no readable words, a ceramic cup and a fresh notebook beside it, a linen curtain filtering clear august light, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
         "text": "the re-entry week, <em>one click away.</em>",
-        "sub": "switching FOCUS+ Core back from holiday mode."
+        "sub": "switching FOCUS+ Core back after a holiday."
       },
       {
         "type": "body",
         "num": "01",
-        "h": "unpin the fallback.",
+        "h": "leave the fallback.",
         "p": [
-          "the low-energy variant you pinned in july comes off with one click."
+          "switch from the low-energy variant you pinned in july with one click."
         ]
       },
       {
@@ -636,7 +636,7 @@
     "month_theme": "Back to structure",
     "pillar": "P5",
     "avatar": false,
-    "cover_prompt": "A MacBook on a pale oak desk with the screen softly blurred showing a calm Notion database view in sage and ivory tones with no readable words, a ceramic cup and a small paper card beside it, a nordic home office in soft august light, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and warm charcoal (#2C2C2C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A plain unbranded laptop on a pale oak desk with the screen softly blurred showing a calm Notion database view in sage and ivory tones with no readable words, a ceramic cup and a small paper card beside it, a nordic home office in soft august light, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), sage (#8A9E8C) and warm charcoal (#2C2C2C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -837,7 +837,7 @@
       "a reset builds on what already ran."
     ],
     "start_frame_prompt": "Two paper index cards lying side by side on a pale oak desk in a calm nordic office, one slightly faded and one fresh, a hand holding a pencil between them, a ceramic cup and soft august daylight from a tall window, vertical composition with calm empty space in the upper third for the text lines, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "slow push-in toward the desk, the hand sets the pencil down, slides the faded card on top of the fresh one with the edges aligned and taps the two cards together once, then rests beside them while daylight shifts softly, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "slow push-in toward the desk, the hand slides the faded card on top of the fresh one with the edges aligned, then rests beside them while daylight shifts softly, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "minimal piano focus",
     "caption": "an august reset does not start from zero.\n\nask what from january is still worth keeping: a review habit, a short list, one routine. carry those forward and build the reset on top. starting over throws away seven months of your own data.\n\nsend this to the friend planning a full restart on monday.\n\n#weeklyplanning #executivefunction #adhdwomen",
     "cta": "send"
@@ -943,8 +943,8 @@
     "slides": [
       {
         "type": "hook",
-        "text": "the august reset, <em>low-energy edition.</em>",
-        "sub": "two boxes instead of four."
+        "text": "the august reset <em>in two boxes.</em>",
+        "sub": "the low-energy edition: two boxes instead of four."
       },
       {
         "type": "body",
@@ -990,7 +990,7 @@
     "month_theme": "Back to structure",
     "pillar": "P5",
     "avatar": false,
-    "cover_prompt": "A MacBook on a pale oak desk with the screen softly blurred showing a calm Notion page with ivory and sage blocks and no readable words, a sheet of paper with a drawn grid beside it, a ceramic cup, a nordic office in soft august light, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A plain unbranded laptop on a pale oak desk with the screen softly blurred showing a calm Notion page with ivory and sage blocks and no readable words, a sheet of paper with a drawn grid beside it, a ceramic cup, a nordic office in soft august light, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -1217,7 +1217,7 @@
     "month_theme": "Back to structure",
     "pillar": "P4",
     "avatar": true,
-    "cover_prompt": "A woman at a pale oak kitchen table in a bright nordic home, writing a short evening checklist on a paper card next to a ceramic cup of tea, minimal natural makeup, no-makeup look, relaxed hair down, grey cotton-knit sweater, focused expression, three-quarter view, looking away off-frame, candid mid-action, medium shot from chest up, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), dusty rose (#C4968A) and warm charcoal (#2C2C2C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A woman at a pale oak kitchen table in a bright nordic home, resting a pencil on a paper card with faint marks too small to read next to a ceramic cup of tea, minimal natural makeup, no-makeup look, relaxed hair down, grey cotton-knit sweater, focused expression, three-quarter view, looking away off-frame, candid mid-action, medium shot from chest up, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), dusty rose (#C4968A) and warm charcoal (#2C2C2C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -1352,7 +1352,7 @@
     "month_theme": "Back to structure",
     "pillar": "P5",
     "avatar": false,
-    "cover_prompt": "A MacBook on a pale oak kitchen table with the screen softly blurred showing a calm Notion weekly view with no readable words, a paper wall calendar soft and blurred in the background, a ceramic cup and a basket of apples, clear august light, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A plain unbranded laptop on a pale oak kitchen table with the screen softly blurred showing a calm Notion weekly view with no readable words, a paper wall calendar soft and blurred in the background, a ceramic cup and a basket of apples, clear august light, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -1395,7 +1395,7 @@
         "shared": "cta-core"
       }
     ],
-    "caption": "when school starts, the system can adjust before you do.\n\nin FOCUS+ Core you switch between 4 phase protocols with one click, and each has a low-energy fallback for the fuller weeks. pin the variant you need until the new rhythm settles. FOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #focusprotocol #adhdplanning",
+    "caption": "when school starts, the system adjusts with one click.\n\nin FOCUS+ Core you switch between 4 phase protocols with one click, and each has a low-energy fallback for the fuller weeks. pin the variant you need until the new rhythm settles. FOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #focusprotocol #adhdplanning",
     "cta": "demo"
   },
   {
@@ -1413,14 +1413,14 @@
     "format": "loop",
     "avatar": false,
     "hook_lines": [
-      "saturday after the first school week.",
-      "one slow breakfast. nothing to plan.",
+      "a slow breakfast is today's whole plan.",
+      "the first school week is done.",
       "the next two weeks get planned tomorrow."
     ],
     "start_frame_prompt": "A slow breakfast on a pale oak table in a bright nordic kitchen, a ceramic plate with bread and berries, a cup of coffee on a saucer and a folded linen napkin, a sheer curtain glowing in soft morning light, vertical composition with calm empty space in the upper third for the text lines, muted nordic palette of ivory (#F5F0EA), dusty rose (#C4968A) and warm charcoal (#2C2C2C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "static locked-off camera on the table, a hand reaches in, lifts the coffee cup out of frame and returns it to the saucer, the sheer curtain behind moves softly and the morning light flickers gently over the plate, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "static locked-off camera on the table, a hand reaches in, lifts the coffee cup out of frame and returns it to the saucer, the sheer curtain behind moves softly and the morning light shifts gently over the plate, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "warm piano slow",
-    "caption": "the saturday after the first school week is not a planning day.\n\none slow breakfast, nothing on the card. the next two weeks get planned tomorrow evening, with the new fixed points in front of you. today, rest is the schedule.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #weeklyplanning #adhdwomen",
+    "caption": "today's whole plan is one slow breakfast.\n\nthe first school week is done, and saturday is not a planning day. nothing on the card. the next two weeks get planned tomorrow evening, with the new fixed points in front of you. today, rest is the schedule.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #weeklyplanning #adhdwomen",
     "cta": "reset"
   },
   {
@@ -1571,7 +1571,7 @@
     "month_theme": "Back to structure",
     "pillar": "P2",
     "avatar": true,
-    "cover_prompt": "A woman at a pale oak desk in a nordic home office on a late august afternoon, pinning a sheet of paper with a short list to a linen board on the wall, minimal natural makeup, no-makeup look, relaxed hair down, oat merino-knit sweater, calm expression, over-the-shoulder, candid mid-action, medium shot from chest up, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A woman at a pale oak desk in a nordic home office on a late august afternoon, pinning a sheet of paper with faint lines too small to read to a linen board on the wall, minimal natural makeup, no-makeup look, relaxed hair down, oat merino-knit sweater, calm expression, over-the-shoulder, candid mid-action, medium shot from chest up, 4:5 composition with calm empty space on the left side for the headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",

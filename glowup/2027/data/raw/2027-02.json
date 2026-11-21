@@ -256,7 +256,7 @@
     "month_theme": "Low-energy protocols",
     "pillar": "P3",
     "avatar": true,
-    "cover_prompt": "A woman at an oak desk in the evening reading back through a small paper notebook, a warm lamp and a ceramic cup beside her, a dark window behind, minimal natural makeup, no-makeup look, relaxed hair down, ivory wool knit, contemplative expression, over-the-shoulder, medium shot from chest up. 4:5 composition with calm empty space on the left side of the frame for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A woman at an oak desk in the evening reading back through a small paper notebook with faint marks too small to read, a warm lamp and a ceramic cup beside her, a dark window behind, minimal natural makeup, no-makeup look, relaxed hair down, ivory wool knit, contemplative expression, over-the-shoulder, medium shot from chest up. 4:5 composition with calm empty space on the left side of the frame for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -322,7 +322,7 @@
       "the one tomorrow depends on."
     ],
     "start_frame_prompt": "A woman standing at a tall oak desk by a window holding a single plain card, a ceramic cup beside her and a laptop closed, soft morning daylight, minimal natural makeup, no-makeup look, relaxed hair down, oat knit sweater with pushed-up sleeves, focused expression, candid mid-action, medium shot from chest up. Vertical 9:16 composition with calm empty space in the upper third of the frame, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "gentle handheld drift, she sets the card down beside the laptop, opens the laptop slowly and slides the cup aside, her gaze stays on the desk, the soft daylight stays even and quiet across the frame, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "gentle handheld drift, she sets the card down beside the laptop, then opens the laptop slowly, her gaze stays on the desk, the soft daylight stays even and quiet across the frame, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "minimal piano pulse",
     "caption": "pick one task before the day picks for you.\n\nat 8:40, not at noon. skip the easiest and the loudest. choose the one tomorrow depends on. write it on a card and do it first. after that, the rest of the list is optional for the morning.\n\nsend this to the colleague whose inbox picks her first task.\n\n#executivefunction #adhdplanning #adhdwomen #focusprotocol",
     "cta": "send"
@@ -495,7 +495,7 @@
         "num": "02",
         "h": "one protocol at a time.",
         "p": [
-          "4 phase protocols. you only see the one you're in."
+          "4 phase protocols. pin the one you're in and work from that."
         ]
       },
       {
@@ -518,7 +518,7 @@
         "shared": "cta-core"
       }
     ],
-    "caption": "one task needs one place to live.\n\nin FOCUS+ Core you pin the phase and energy variant for the week, so you see one protocol at a time instead of everything at once. each has a low-energy fallback. look through the demo first. FOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #focusprotocol #executivefunction",
+    "caption": "one task needs one place to live.\n\nin FOCUS+ Core you pin the phase and energy variant for the week, so the week runs from one protocol instead of all four. each has a low-energy fallback. look through the demo first. FOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #focusprotocol #executivefunction",
     "cta": "demo"
   },
   {
@@ -643,7 +643,7 @@
     "month_theme": "Low-energy protocols",
     "pillar": "P1",
     "avatar": true,
-    "cover_prompt": "A woman at a pale oak table writing on one of three small plain cards laid out in a row, a ceramic cup beside them, morning window light, minimal natural makeup, no-makeup look, relaxed hair down, oat knit sweater, calm expression, side profile, medium shot from chest up. 4:5 composition with calm empty space on the left side of the frame for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A woman at a pale oak table making a small pencil mark on one of three small plain cards laid out in a row, marks too small to read, a ceramic cup beside them, morning window light, minimal natural makeup, no-makeup look, relaxed hair down, oat knit sweater, calm expression, side profile, medium shot from chest up. 4:5 composition with calm empty space on the left side of the frame for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -709,7 +709,7 @@
       "on a low day, that card is the plan."
     ],
     "start_frame_prompt": "A woman sitting on the edge of a linen-covered bed propping a small plain card against a ceramic lamp on an oak nightstand, a glass of water beside it, soft grey morning light, minimal natural makeup, no-makeup look, relaxed hair down, soft grey knit cardigan over an ivory top, focused expression, three-quarter view, looking away off-frame, medium shot from chest up. Vertical 9:16 composition with calm empty space in the upper third of the frame, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "static locked-off camera, she props the card against the lamp, smooths the linen cover with her palm, then reaches for the glass, her gaze stays on her hands, the soft daylight stays even and quiet across the frame, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "static locked-off camera, she props the card against the lamp, then smooths the linen cover with her palm, her gaze stays on her hands, the soft daylight stays even and quiet across the frame, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "soft ambient keys",
     "caption": "the one-minute version needs to be where you wake up.\n\nwrite the smallest version of each habit on one card. stretch for one minute. one glass of water. one line in the notebook. keep it on the nightstand. on a low day, there is nothing to remember. the card is the plan.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#lowenergydays #adhdwomen #executivefunction #adhdwomen",
     "cta": "reset"
@@ -1012,7 +1012,7 @@
       "the timer ends it. not the guilt."
     ],
     "start_frame_prompt": "A woman on a linen sofa setting a small brass kitchen timer on a low oak table, a ceramic cup of tea and a closed notebook beside it, soft afternoon window light, minimal natural makeup, no-makeup look, relaxed hair down, oat knit sweater, calm expression, side profile, medium shot from chest up. Vertical 9:16 composition with calm empty space in the upper third of the frame, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "gentle handheld drift, she turns the dial of the timer, sets it on the table and leans back into the sofa with the cup, her gaze stays toward the window, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "gentle handheld drift, she sets the timer on the table and leans back into the sofa, her gaze stays toward the window, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "warm ambient piano",
     "caption": "a block called nothing is still a block.\n\nset twenty minutes in the calendar before the week starts. call it nothing. when it comes, set a timer and stop. the timer decides when it ends, so there's nothing to negotiate. it's a transition between tasks you planned on purpose.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#executivefunction #adhdplanning #adhdwomen #lowenergydays",
     "cta": "reset"
@@ -1035,7 +1035,7 @@
       {
         "type": "hook",
         "text": "rest on a low day <em>still needs a start time</em>",
-        "sub": "otherwise it turns into scrolling and guilt."
+        "sub": "otherwise it blurs into the afternoon."
       },
       {
         "type": "body",
@@ -1101,7 +1101,7 @@
         "num": "02",
         "h": "rest as its own entry.",
         "p": [
-          "add it to the protocol you're in, like any task."
+          "add it to the week in Notion, like any other entry."
         ]
       },
       {
@@ -1124,7 +1124,7 @@
         "shared": "cta-core"
       }
     ],
-    "caption": "rest needs a place in the system too.\n\nin FOCUS+ Core, pin your phase and energy variant for the week and add rest as its own entry in that protocol. if the week drops, the low-energy fallback is one click away. see the demo first. FOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #focusprotocol #lowenergydays",
+    "caption": "rest needs a place in the system too.\n\nin FOCUS+ Core, pin your phase and energy variant for the week and add rest to the week like any other entry. if the week drops, the low-energy fallback is one click away. see the demo first. FOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #focusprotocol #lowenergydays",
     "cta": "demo"
   },
   {

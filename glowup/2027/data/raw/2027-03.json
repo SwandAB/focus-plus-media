@@ -14,14 +14,14 @@
     "format": "fel-fraga-ratt-fraga",
     "avatar": false,
     "hook_lines": [
-      "wrong sunday question: what did i finish?",
+      "wrong sunday question: was i productive?",
       "better one: where did the week go?",
       "four questions on sunday. nothing else on the agenda."
     ],
     "start_frame_prompt": "Two cream index cards lie side by side on a pale oak desk beside a stoneware cup of tea, a hand resting near the left card, pencil laid across a linen napkin, soft overcast window light from the side, quiet Sunday evening stillness, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "video_prompt": "Static locked-off camera from above at a slight angle, a hand slides the left card off the desk edge and taps the right card twice with the pencil, steam drifts from the cup, the window light softens slightly, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "calm piano minimal",
-    "caption": "'what did i finish?' is a sunday question that only grades you.\n\ntry four others instead: what got done that wasn't planned, where did the week run out of room, what is still open, what is monday's first step. ten quiet minutes, one page, then stop.\n\nsend this to the friend who grades her week by how tired she is.\n\n#weeklyreview #weeklyplanning #focusprotocol #adhdwomen",
+    "caption": "'was i productive?' is a sunday question that only grades you.\n\ntry four others instead: what got done that wasn't planned, where did the week run out of room, what is still open, what is monday's first step. ten quiet minutes, one page, then stop.\n\nsend this to the friend who grades her week by how tired she is.\n\n#weeklyreview #weeklyplanning #focusprotocol #adhdwomen",
     "cta": "send"
   },
   {
@@ -172,7 +172,7 @@
     "month_theme": "The weekly review",
     "pillar": "P5",
     "avatar": false,
-    "cover_prompt": "A laptop open on an oak desk showing a softly blurred Notion workspace with no readable words, beside it a handwritten index card and a ceramic cup, morning window light, linen runner under the laptop, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A laptop open on an oak desk showing a softly blurred Notion workspace with no readable words, beside it a blank index card and a ceramic cup, morning window light, linen runner under the laptop, 4:5 composition with calm empty space in the upper half, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -376,14 +376,14 @@
     "format": "tre-rader",
     "avatar": false,
     "hook_lines": [
-      "half your list was never yours.",
+      "part of your list was never yours.",
       "the favour. the cc. her deadline.",
       "sort it out before you plan around it."
     ],
     "start_frame_prompt": "Several narrow paper strips with blurred unreadable handwriting scattered across a pale oak desk, a woven seagrass basket at the desk edge, a hand resting among the strips, soft side light from a tall window, linen and ceramic details, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "video_prompt": "Slow push-in, the hand sweeps three of the paper strips off the desk edge into the basket, leaving a smaller, tidier group behind, the hand rests for a moment, light shifts gently across the oak, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "minimal piano soft",
-    "caption": "a lot of your list was never yours to begin with.\n\nthe favour you said yes to in a hallway. the meeting you were only cc'd on. a colleague's deadline that became your evening. sort those out first, hand them back with one short message each, and plan the week around what's left.\n\nsend this to the friend who says yes before the question ends.\n\n#executivefunction #adhdplanning #weeklyreview #adhdwomen",
+    "caption": "part of your list was never yours to begin with.\n\nthe favour you said yes to in a hallway. the meeting you were only cc'd on. a colleague's deadline that became your evening. sort those out first, hand them back with one short message each, and plan the week around what's left.\n\nsend this to the friend who says yes before the question ends.\n\n#executivefunction #adhdplanning #weeklyreview #adhdwomen",
     "cta": "send"
   },
   {
@@ -465,7 +465,7 @@
       "the t's go back before monday."
     ],
     "start_frame_prompt": "An open notebook on a linen desk runner with a column of blurred unreadable handwritten lines, a hand holding a fine charcoal pen poised at the margin, a ceramic cup and oak pencil tray nearby, calm late-afternoon window light, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "Static locked-off camera, the pen moves down the margin making a small mark beside each line, the hand pauses, then sets the pen down across the page, soft light flickers through a curtain, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "Static locked-off camera, the pen moves down the margin making a small mark beside each line, the hand pauses, then sets the pen down across the page, soft light shifts through a curtain, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "calm acoustic minimal",
     "caption": "one letter in the margin shows whose task it is.\n\nm for mine, t for theirs. go down the list once, mark every line, don't discuss it with yourself. then every t gets one short message: 'this sits with you, right?' send them before monday, and your plan starts from your own list.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#executivefunction #adhdplanning #weeklyreview #adhdwomen",
     "cta": "reset"
@@ -712,7 +712,7 @@
         "shared": "cta-reset"
       }
     ],
-    "caption": "one number a day for a month tells you more than a new system.\n\nenergy, 1 to 5, same time every evening, written where you already look. don't analyse it daily. on day 31, circle the low stretches. if your energy shifts across the month, now you can see where, and plan for it.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#cycleawareplanning #weeklyplanning #adhdwomen #focusprotocol",
+    "caption": "one number a day, for one month. that's the whole method.\n\nenergy, 1 to 5, same time every evening, written where you already look. don't analyse it daily. on day 31, circle the low stretches. if your energy shifts across the month, now you can see where, and plan for it.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#cycleawareplanning #weeklyplanning #adhdwomen #focusprotocol",
     "cta": "reset"
   },
   {
@@ -734,7 +734,7 @@
       "energy, 1 to 5, every evening.",
       "by day 31, your month has a shape."
     ],
-    "start_frame_prompt": "A woman standing at a kitchen counter in the evening, writing a single small mark into a paper wall calendar with a pencil, minimal natural makeup, no-makeup look, relaxed hair down, a grey wool knit sweater, contemplative expression, side profile, looking away off-frame, medium shot from chest up, warm pendant light, ceramic bowls and a linen towel on the counter, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "start_frame_prompt": "A woman standing at a kitchen counter in the evening, making a single small pencil mark, too small to read, in a paper wall calendar, minimal natural makeup, no-makeup look, relaxed hair down, a grey wool knit sweater, contemplative expression, side profile, looking away off-frame, medium shot from chest up, warm pendant light, ceramic bowls and a linen towel on the counter, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "video_prompt": "Gentle handheld drift, she writes one small mark in a calendar square, lowers the pencil and lets her hand rest on the counter, her gaze stays on the calendar, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "quiet piano evening",
     "caption": "one number tells you nothing. thirty tell you something.\n\nevery evening, rate your energy from 1 to 5 and write it in the calendar square. same time, same place, no notes. at the end of the month, look at all thirty at once. that shape is your own pattern, and next month's plan can follow it.\n\nsend this to the friend who says every week feels the same.\n\n#cycleawareplanning #weeklyplanning #adhdwomen #focusprotocol",
@@ -931,7 +931,7 @@
         "shared": "cta-core"
       }
     ],
-    "caption": "your evening number can decide tomorrow's protocol.\n\nFOCUS+ Core has 4 phase protocols, each with a low-energy fallback. log a low number, switch in one click. pin your phase or energy variant and the pages open on it. 14 pages and 6 databases, built in Notion.\n\nFOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #weeklyreview #focusprotocol",
+    "caption": "your evening number can decide tomorrow's protocol.\n\nFOCUS+ Core has 4 phase protocols, each with a low-energy fallback. log a low number, switch in one click. pin your phase or energy variant so it stays put. 14 pages and 6 databases, built in Notion.\n\nFOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #notionsetup #weeklyreview #focusprotocol",
     "cta": "core"
   },
   {
@@ -956,7 +956,7 @@
     "start_frame_prompt": "Close framing of a paper calendar on an oak desk under a ceramic lamp, a pencil resting on the paper, small blurred marks in many squares, warm evening light, a linen sleeve edge at the frame corner, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "video_prompt": "Static locked-off camera, a hand enters, places one small pencil dot in a square, and withdraws, the lamp light breathes softly, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "slow ambient warm",
-    "caption": "one dot every evening, and the calendar fills in on its own.\n\nno app, no streak, no reminder. a pencil next to a paper calendar, one mark a night for your energy. by april you have a month of your own pattern on one page.\n\nsave this for the first of april.\n\n#cycleawareplanning #weeklyplanning #adhdwomen #focusprotocol",
+    "caption": "one dot every evening, and the calendar fills in slowly.\n\nno app, no streak, no reminder. a pencil next to a paper calendar, one mark a night for your energy. by april you have a month of your own pattern on one page.\n\nsave this for the first of april.\n\n#cycleawareplanning #weeklyplanning #adhdwomen #focusprotocol",
     "cta": "save"
   },
   {
@@ -1089,7 +1089,7 @@
       "a review that happens counts. the ideal one doesn't."
     ],
     "start_frame_prompt": "A thick planner with many coloured tabs sitting closed on the far side of an oak desk, a single thin notebook open in the foreground with a pencil on it, a hand resting beside the thin notebook, soft side light, ceramic and linen details, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "Slow push-in toward the thin notebook, the hand slides the heavy planner further away and pulls the thin notebook closer to the edge, then picks up the pencil and opens to a clean page, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "Slow push-in toward the thin notebook, the hand slides the heavy planner further away and pulls the thin notebook closer, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "minimal beat calm",
     "caption": "the weekly review you keep skipping is probably too long.\n\nif it needs an hour, it competes with your whole sunday and loses. cut it to ten minutes with a timer: look back, sort, choose, first step. a short review that runs every week gives you more to plan from than an ideal one that never happens.\n\nsend this to the friend whose weekly review is a two-hour project.\n\n#executivefunction #adhdplanning #weeklyreview #adhdwomen",
     "cta": "send"
@@ -1173,7 +1173,7 @@
       "whatever's on the page is enough for this week."
     ],
     "start_frame_prompt": "An unbranded round wooden kitchen timer on a pale oak table next to an open notebook with blurred unreadable notes, a hand reaching toward the timer dial, a stoneware cup and linen napkin, overcast window light, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "Static locked-off camera, the hand turns the timer dial a quarter turn and lets go, then moves to the notebook and begins writing, light shifts gently across the table, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "Static locked-off camera, the hand turns the timer dial a quarter turn and lets go, then rests the hand flat on the notebook, light shifts gently across the table, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "ticking minimal soft",
     "caption": "a kitchen timer is the whole structure of a ten-minute review.\n\nturn it to ten. look back, sort, choose, write monday's first step. when it rings, close the notebook, even if a section is half empty. a ten-minute limit makes the review something you can start on any sunday.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyreview #weeklyplanning #focusprotocol #adhdwomen",
     "cta": "reset"
@@ -1254,7 +1254,7 @@
         "num": "01",
         "h": "the pages exist.",
         "p": [
-          "14 pages and 6 databases, built in Notion. the review space is already designed."
+          "14 pages and 6 databases, built in Notion. the structure is already designed."
         ]
       },
       {
@@ -1308,7 +1308,7 @@
       "then the notebook closes for the week."
     ],
     "start_frame_prompt": "An unbranded wooden kitchen timer and an open notebook on a pale oak desk by a window, a pencil resting in the notebook gutter, a ceramic cup with steam, soft morning light falling across both objects, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "Slow push-in, a hand turns the timer dial, then closes the notebook gently and opens it again to the same page, steam keeps rising from the cup, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "Slow push-in, a hand closes the notebook gently and opens it again to the same page, steam keeps rising from the cup, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "calm piano loop",
     "caption": "ten minutes, a timer and a notebook. that's the whole weekly review.\n\nturn the dial, look back, sort, choose three anchors, write monday's first step. when it rings, the notebook closes until next sunday.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#weeklyreview #weeklyplanning #focusprotocol #adhdwomen",
     "cta": "reset"
@@ -1326,7 +1326,7 @@
     "month_theme": "The weekly review",
     "pillar": "P2",
     "avatar": true,
-    "cover_prompt": "A woman sitting in a linen armchair by a window in the evening, holding an open notebook and a pencil, an unbranded wooden timer on the oak side table beside her, minimal natural makeup, no-makeup look, relaxed hair down, an oat-coloured chunky knit sweater, focused expression, over-the-shoulder, medium shot from chest up, soft lamp light and fading blue dusk through the window, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A woman sitting in a linen armchair by a window in the evening, holding an open notebook with blank pages and a pencil, an unbranded wooden timer on the oak side table beside her, minimal natural makeup, no-makeup look, relaxed hair down, an oat-coloured chunky knit sweater, focused expression, over-the-shoulder, medium shot from chest up, soft lamp light and fading blue dusk through the window, 4:5 composition with calm empty space on the left side, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
@@ -1450,8 +1450,8 @@
       "change one thing for april.",
       "keep the rest running as it is."
     ],
-    "start_frame_prompt": "A woman at a window desk, leafing through a small stack of handwritten notebook pages and setting one aside, minimal natural makeup, no-makeup look, relaxed hair down, a grey ribbed knit sweater, contemplative expression, three-quarter view, looking away off-frame, medium shot from chest up, soft overcast daylight, an oak desk with a ceramic cup and linen runner, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "Gentle handheld drift, she turns over two pages, pauses on one, and moves it to a separate spot on the desk, then squares the rest of the stack, her eyes stay on the paper, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "start_frame_prompt": "A woman at a window desk, leafing through a small stack of notebook pages with faint marks too small to read, minimal natural makeup, no-makeup look, relaxed hair down, a grey ribbed knit sweater, contemplative expression, three-quarter view, looking away off-frame, medium shot from chest up, soft overcast daylight, an oak desk with a ceramic cup and linen runner, vertical composition with calm empty space in the upper third for text, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "Gentle handheld drift, she moves one page to a separate spot on the desk and squares the rest of the stack, her eyes stay on the paper, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "soft piano reflective",
     "caption": "the end of a quarter is not a reason to start over.\n\nlook at what ran for three months and what didn't. change one thing for april, only one. keep the rest exactly as it is. a system that's been running quietly for twelve weeks has earned the benefit of the doubt.\n\nsend this to the friend planning to rebuild everything in april.\n\n#weeklyreview #weeklyplanning #focusprotocol #adhdwomen",
     "cta": "send"

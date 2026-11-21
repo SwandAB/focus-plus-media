@@ -101,7 +101,7 @@
       {
         "type": "hook",
         "text": "starting is a <em>separate task</em> from the task.",
-        "sub": "most lists name the work. few name the first move."
+        "sub": "a list names the work. it rarely names the first move."
       },
       {
         "type": "body",
@@ -139,7 +139,7 @@
         "shared": "cta-save"
       }
     ],
-    "caption": "the task and the start of the task are two different things.\n\nmost to-do lists only hold outcomes. add one line above each: the first physical move. open, find, type, paste. a verb and an object. starting is the hard part, so give it its own line.\n\nsave this for monday morning.\n\nsave this for monday morning.\n\n#executivefunction #adhdwomen #adhdplanning #focusprotocol",
+    "caption": "the task and the start of the task are two different things.\n\nmost to-do lists only hold outcomes. add one line above each: the first physical move. open, find, type, paste. a verb and an object. starting is the hard part, so give it its own line.\n\nsave this for monday morning.\n\n#executivefunction #adhdwomen #adhdplanning #focusprotocol",
     "cta": "save"
   },
   {
@@ -164,7 +164,7 @@
     "start_frame_prompt": "A woman seated at an oak desk beside a tall window, one hand resting on a closed laptop lid, a ceramic mug and a linen notebook beside her, minimal natural makeup, no-makeup look, relaxed hair down, oat knit sweater, focused expression, side profile, medium shot from chest up, soft nordic morning light, vertical composition with calm empty ivory wall in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "video_prompt": "slow push-in, she lifts the laptop lid with one hand and rests her fingers on the trackpad, daylight shifts softly across the desk, her gaze stays on the screen and never turns toward the lens, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "minimal piano slow",
-    "caption": "one question gives you nothing to do. the other gives you a move.\n\n'why can't i start' has no answer you can act on. 'what is the first move' does. open the document. type the title. that counts as starting.\n\nsend this to the friend who has been about to start since tuesday.\n\nsend this to the friend who has been about to start since tuesday.\n\n#executivefunction #adhdwomen #focusprotocol",
+    "caption": "one question gives you nothing to do. the other gives you a move.\n\n'why can't i start' has no answer you can act on. 'what is the first move' does. open the document. type the title. that counts as starting.\n\nsend this to the friend who has been about to start since tuesday.\n\n#executivefunction #adhdwomen #focusprotocol",
     "cta": "send"
   },
   {
@@ -241,8 +241,8 @@
     "format": "ett-verktyg",
     "avatar": false,
     "hook_lines": [
-      "one paper note on the laptop lid.",
-      "it holds the first move, nothing else.",
+      "tomorrow's first move, on the closed lid.",
+      "one paper note, nothing else on it.",
       "open the lid. do the note. then decide."
     ],
     "start_frame_prompt": "Vertical frame of a closed laptop on a warm oak desk, a small square of ivory paper with a few blurred illegible pencil marks resting on the lid, a hand holding a short pencil just above it, a ceramic tumbler of water and a linen cloth nearby, soft evening window light from the left, calm empty pale wall across the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
@@ -327,7 +327,7 @@
         "num": "01",
         "h": "4 phase protocols.",
         "p": [
-          "four full day structures inside FOCUS+ Core, built in Notion."
+          "four protocols inside FOCUS+ Core, built in Notion."
         ]
       },
       {
@@ -351,14 +351,14 @@
         "num": "04",
         "h": "pin your variant.",
         "p": [
-          "pin the phase or energy variant you are in, and open straight to it."
+          "pin the phase or energy variant you are in."
         ]
       },
       {
         "shared": "cta-core"
       }
     ],
-    "caption": "a hard start needs a smaller day, not a new plan.\n\nFOCUS+ Core has 4 phase protocols, each with a low-energy fallback. one click switches you to it. pin the phase or energy variant you are in, so the right version opens first. 14 pages, 6 databases, built in Notion.\n\nFOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #executivefunction #lowenergydays",
+    "caption": "a hard start needs a smaller day, not a new plan.\n\nFOCUS+ Core has 4 phase protocols, each with a low-energy fallback. one click switches you to it. pin the phase or energy variant you are in, so the week starts from the right version. 14 pages, 6 databases, built in Notion.\n\nFOCUS+ Core is our own product.\n\nFOCUS+ Core: focus-plus.space (link in bio). €27 one-time, 14-day money-back.\n\n#notiontemplate #executivefunction #lowenergydays",
     "cta": "core"
   },
   {
@@ -383,7 +383,7 @@
     "start_frame_prompt": "Vertical frame of a small glass sand timer standing on a pale oak desk next to an open notebook with blurred illegible handwriting, a ceramic dish holding two pencils, morning daylight from a window on the right casting a soft shadow, calm empty ivory wall filling the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "video_prompt": "static locked-off camera, a hand turns the sand timer over and sets it down, sand begins to fall, the hand withdraws, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "ambient piano soft",
-    "caption": "the first minute is the hard part, so that is the part to plan.\n\nbefore you plan the hour, plan the minute: which file opens, which line gets written, which drawer gets pulled out. once the minute is done, you are in the task.\n\nsend this to the friend who rewrites her list instead of starting it.\n\nsend this to the friend who rewrites her list instead of starting it.\n\n#executivefunction #adhdwomen #focusprotocol",
+    "caption": "the first minute is the hard part, so that is the part to plan.\n\nbefore you plan the hour, plan the minute: which file opens, which line gets written, which drawer gets pulled out. once the minute is done, the task is open.\n\nsend this to the friend who rewrites her list instead of starting it.\n\n#executivefunction #adhdwomen #focusprotocol",
     "cta": "send"
   },
   {
@@ -462,7 +462,7 @@
     "slides": [
       {
         "type": "hook",
-        "text": "the gap <em>between tasks</em> is where the day goes.",
+        "text": "the gap <em>between tasks</em> is part of the day.",
         "sub": "ending one thing and starting the next is its own step."
       },
       {
@@ -501,7 +501,7 @@
         "shared": "cta-save"
       }
     ],
-    "caption": "most days are not lost inside tasks. they are lost between them.\n\ntreat the switch as its own step. end each block with a parking line, take five minutes, then begin the next task with its first move. plan the gaps the way you plan the work.\n\nsave this for wednesday afternoon.\n\nsave this for wednesday afternoon.\n\n#executivefunction #adhdwomen #weeklyplanning #focusprotocol",
+    "caption": "a day can get lost between tasks as easily as inside them.\n\ntreat the switch as its own step. end each block with a parking line, take five minutes, then begin the next task with its first move. plan the gaps the way you plan the work.\n\nsave this for wednesday afternoon.\n\n#executivefunction #adhdwomen #weeklyplanning #focusprotocol",
     "cta": "save"
   },
   {
@@ -524,9 +524,9 @@
       "end each block with one parking line."
     ],
     "start_frame_prompt": "Vertical frame of a hand capping a black fountain pen above an open notebook on an oak desk, a laptop softly out of focus behind with a blurred pale screen, a ceramic mug and a linen napkin, late afternoon window light slanting across the page, calm empty ivory wall filling the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "slow push-in, the hand caps the pen and lays it across the notebook, then slides the notebook a little to the side, a faint wisp of steam rises from the mug, warm light drifts slowly across the desk, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "slow push-in, the hand caps the pen and lays it across the notebook, a faint wisp of steam rises from the mug, warm light drifts slowly across the desk, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "calm acoustic minimal",
-    "caption": "the afternoon goes missing in the gap, not in the work.\n\nbefore you switch, write one parking line: where you stopped and what comes next. it takes twenty seconds. the next time you open that task, the start is waiting for you.\n\nsend this to the friend whose afternoons disappear between meetings.\n\nsend this to the friend whose afternoons disappear between meetings.\n\n#executivefunction #adhdwomen #focusprotocol",
+    "caption": "the afternoon goes missing in the gap, not in the work.\n\nbefore you switch, write one parking line: where you stopped and what comes next. it takes twenty seconds. the next time you open that task, the start is waiting for you.\n\nsend this to the friend whose afternoons disappear between meetings.\n\n#executivefunction #adhdwomen #focusprotocol",
     "cta": "send"
   },
   {
@@ -608,7 +608,7 @@
       "the next start has somewhere to land."
     ],
     "start_frame_prompt": "Vertical frame looking down at an open notebook on a light oak desk, a hand holding a pencil poised over a blank line, a few blurred illegible lines above it, a small ceramic cup and a folded sage linen cloth at the edge, soft overcast window light, generous calm empty desk surface in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "gentle handheld drift, the hand writes one short line in the notebook, pauses, then sets the pencil down across the page, the camera settles, overcast light shifts softly over the paper, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "gentle handheld drift, the hand makes one short pencil stroke, too small to read, pauses, then sets the pencil down across the page, the camera settles, overcast light shifts softly over the paper, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "soft piano minimal",
     "caption": "one line before you switch tasks.\n\nwrite where you stopped and what comes next. 'stopped at the intro. next: the second quote.' when you return, you read one line instead of rebuilding the whole picture.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#executivefunction #adhdwomen #weeklyplanning",
     "cta": "reset"
@@ -689,7 +689,7 @@
         "num": "01",
         "h": "4 phase protocols.",
         "p": [
-          "each one a full day structure inside FOCUS+ Core, built in Notion."
+          "each one with its own structure inside FOCUS+ Core, built in Notion."
         ]
       },
       {
@@ -713,14 +713,14 @@
         "num": "04",
         "h": "pin your variant.",
         "p": [
-          "pin the phase or energy variant you are in so you open the right one."
+          "pin the phase or energy variant you are in for the week."
         ]
       },
       {
         "shared": "cta-core"
       }
     ],
-    "caption": "a transition inside the plan, not a new plan.\n\nFOCUS+ Core holds 4 phase protocols, each with a low-energy fallback. switching between them is one click. pin your phase or energy variant and that is the one you open. 14 pages and 6 databases, built in Notion.\n\nFOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #executivefunction",
+    "caption": "a transition inside the plan, not a new plan.\n\nFOCUS+ Core holds 4 phase protocols, each with a low-energy fallback. switching between them is one click. pin your phase or energy variant for the week. 14 pages and 6 databases, built in Notion.\n\nFOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#notiontemplate #notionsetup #executivefunction",
     "cta": "demo"
   },
   {
@@ -745,7 +745,7 @@
     "start_frame_prompt": "A woman standing at a pale oak kitchen counter, pouring water from a ceramic jug into a glass between work blocks, a window with soft daylight beside her, minimal natural makeup, no-makeup look, relaxed hair down, grey knit cardigan over an ivory top, calm expression, three-quarter view, looking away off-frame, medium shot from chest up, vertical composition with calm empty wall in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "video_prompt": "static locked-off camera, she pours water into the glass, sets the jug down and turns slightly toward the window, light shifts softly, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "calm piano ambient",
-    "caption": "five minutes between two tasks is part of the plan.\n\nwhen a block ends, stand up. pour water. look out of a window. then open the next task with the first move you already wrote. a buffer you planned is not time you lost.\n\nsave this for your next back-to-back afternoon.\n\nsave this for your next back-to-back afternoon.\n\n#executivefunction #adhdwomen #weeklyplanning",
+    "caption": "five minutes between two tasks is part of the plan.\n\nwhen a block ends, stand up. pour water. look out of a window. then open the next task with the first move you already wrote. a buffer you planned is not time you lost.\n\nsave this for your next back-to-back afternoon.\n\n#executivefunction #adhdwomen #weeklyplanning",
     "cta": "save"
   },
   {
@@ -863,7 +863,7 @@
         "shared": "cta-save"
       }
     ],
-    "caption": "when time is hard to feel, make it something you can see.\n\na clock face in sight, a timer on the desk, an estimate written next to the real time. after a week you plan with your own numbers. starting gets less guesswork when the hour is in view.\n\nsave this for monday morning.\n\nsave this for monday morning.\n\n#executivefunction #adhdwomen #adhdplanning #weeklyplanning",
+    "caption": "when time is hard to feel, make it something you can see.\n\na clock face in sight, a timer on the desk, an estimate written next to the real time. after a week you plan with your own numbers. starting gets less guesswork when the hour is in view.\n\nsave this for monday morning.\n\n#executivefunction #adhdwomen #adhdplanning #weeklyplanning",
     "cta": "save"
   },
   {
@@ -886,9 +886,9 @@
       "plan next week with the real number."
     ],
     "start_frame_prompt": "Vertical frame of a hand writing in a two-column notebook on an oak desk, the handwriting blurred and illegible, a small round analog desk clock with no numerals beside it, a ceramic mug, soft side light from a window, calm empty ivory wall across the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "slow push-in toward the notebook, the hand writes a short note in the second column and taps the pencil once on the page, the clock hand moves a small step, light shifts softly, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "slow push-in toward the notebook, the hand makes a short pencil mark in the second column, too small to read, the clock hand moves a small step, light shifts softly, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "minimal piano calm",
-    "caption": "the time you think it takes and the time it takes are two numbers.\n\nfor one week, write your estimate before each task and the real time after. then plan next week with the real numbers. no judgement, just better inputs.\n\nsend this to the friend who says 'ten minutes' about everything.\n\nsend this to the friend who says 'ten minutes' about everything.\n\n#executivefunction #adhdwomen #weeklyplanning",
+    "caption": "the time you think it takes and the time it takes are two numbers.\n\nfor one week, write your estimate before each task and the real time after. then plan next week with the real numbers. no judgement, just better inputs.\n\nsend this to the friend who says 'ten minutes' about everything.\n\n#executivefunction #adhdwomen #weeklyplanning",
     "cta": "send"
   },
   {
@@ -970,7 +970,7 @@
       "the hour becomes something you can look at."
     ],
     "start_frame_prompt": "A woman at an oak desk by a window, setting a small round pale ceramic kitchen timer with both hands, a notebook and a laptop beside her, minimal natural makeup, no-makeup look, relaxed hair down, ivory knit sweater, focused expression, over-the-shoulder, medium shot from chest up, soft nordic daylight, vertical composition with calm empty wall in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "gentle handheld drift, she turns the timer dial and sets it down beside the notebook, then opens the notebook to a fresh page, her eyes stay on the desk, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "gentle handheld drift, she turns the timer dial and sets it down beside the notebook, her eyes stay on the desk, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "soft ambient piano",
     "caption": "put the block where you can see it.\n\na physical timer on the desk, set for one block. 25 minutes, or whatever you can say yes to today. when time is visible, you can glance at it instead of guessing.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#executivefunction #adhdwomen #focusprotocol",
     "cta": "reset"
@@ -1067,7 +1067,7 @@
         "num": "03",
         "h": "pin your variant.",
         "p": [
-          "the phase or energy variant you are in, pinned where you open the day."
+          "pin the phase or energy variant you are in for the week."
         ]
       },
       {
@@ -1107,7 +1107,7 @@
     "start_frame_prompt": "Vertical frame of a quiet oak desk with an open notebook and a pencil, the shadow of a window frame falling across linen and paper in soft morning sun, a ceramic cup and a small dried flower in a bud vase, calm empty ivory wall in the upper third of the frame, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "video_prompt": "static locked-off camera, the window shadow drifts slowly across the notebook and the linen, a sheer curtain moves gently in a faint breeze, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "slow piano ambient",
-    "caption": "time you can watch is time you can plan.\n\na shadow moving across the desk, a timer, a clock face in view. anything that turns the hour into something you can see. watch one block pass on purpose today.\n\nsave this for the next afternoon that disappears.\n\nsave this for the next afternoon that disappears.\n\n#executivefunction #adhdwomen #focusprotocol",
+    "caption": "time you can watch is time you can plan.\n\na shadow moving across the desk, a timer, a clock face in view. anything that turns the hour into something you can see. watch one block pass on purpose today.\n\nsave this for the next afternoon that disappears.\n\n#executivefunction #adhdwomen #focusprotocol",
     "cta": "save"
   },
   {
@@ -1123,11 +1123,11 @@
     "month_theme": "Start friction",
     "pillar": "P3",
     "avatar": true,
-    "cover_prompt": "A woman sitting on a linen-covered window seat with a paper week planner open on her knees, a pencil in one hand, a ceramic cup of tea on the sill, minimal natural makeup, no-makeup look, relaxed hair down, oat knit sweater, contemplative expression, side profile, medium shot from chest up, sunday evening light, 4:5 frame with calm empty wall in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "cover_prompt": "A woman sitting on a linen-covered window seat with a paper week planner open on her knees, faint marks too small to read, a pencil in one hand, a ceramic cup of tea on the sill, minimal natural makeup, no-makeup look, relaxed hair down, oat knit sweater, contemplative expression, side profile, medium shot from chest up, sunday evening light, 4:5 frame with calm empty wall in the upper half for a headline, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "slides": [
       {
         "type": "hook",
-        "text": "sunday: <em>time the week</em> before you fill it.",
+        "text": "sunday: <em>count the free hours</em> first.",
         "sub": "count the hours that are free. then plan only those."
       },
       {
@@ -1245,12 +1245,12 @@
     "hook_lines": [
       "she isn't helping.",
       "she's just in the room.",
-      "and the task finally has a start."
+      "and the start is shared."
     ],
-    "start_frame_prompt": "Vertical frame of a shared oak table seen from the side, two ceramic mugs, one pair of hands typing on a laptop with a blurred pale screen and another pair writing in a linen notebook across from it, soft daylight from a tall window, calm empty wall filling the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "start_frame_prompt": "Vertical frame of a shared oak table seen from the side, two ceramic mugs, one pair of hands typing on a laptop with a blurred pale screen and another pair making small pencil marks in a linen notebook across from it, marks too small to read, soft daylight from a tall window, calm empty wall filling the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C), sage (#8A9E8C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
     "video_prompt": "static locked-off camera, both pairs of hands keep working quietly, one hand reaches for a mug, takes it and sets it back down, the other turns a notebook page, daylight shifts softly over the table, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "calm piano lofi",
-    "caption": "company that does nothing can still change where you begin.\n\nworking next to someone who is busy with their own task is called body doubling. no talking, no coaching. one table, two tasks, a start time you share.\n\nsend this to the friend you'd work next to.\n\nsend this to the friend you'd work next to.\n\n#executivefunction #adhdwomen #focusprotocol",
+    "caption": "company that does nothing can still change where you begin.\n\nworking next to someone who is busy with their own task is called body doubling. no talking, no coaching. one table, two tasks, a start time you share.\n\nsend this to the friend you'd work next to.\n\n#executivefunction #adhdwomen #focusprotocol",
     "cta": "send"
   },
   {
@@ -1317,7 +1317,7 @@
         "shared": "cta-save"
       }
     ],
-    "caption": "a co-working hour can be quiet and still work as company.\n\none person, a fixed weekly time, one task each said out loud at the start. then silence for 45 minutes. close with one word: done or started.\n\nsave this and send it to the person you'd ask.\n\nsave this and send it to the person you'd ask.\n\n#executivefunction #adhdplanning #focusprotocol",
+    "caption": "a co-working hour can be quiet and still work as company.\n\none person, a fixed weekly time, one task each said out loud at the start. then silence for 45 minutes. close with one word: done or started.\n\nsave this and send it to the person you'd ask.\n\n#executivefunction #adhdplanning #focusprotocol",
     "cta": "save"
   },
   {
@@ -1340,7 +1340,7 @@
       "two people, one clock, no call."
     ],
     "start_frame_prompt": "Vertical frame of an oak desk with a phone lying face up showing a dark blank screen, a hand resting beside it, an open notebook and a ceramic cup, a small round clock with no numerals nearby, soft morning window light, calm empty ivory wall across the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "slow push-in, the hand turns the phone face down and slides it to the far edge of the desk, then picks up a pencil and opens the notebook, soft morning light shifts across the paper, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "slow push-in, the hand turns the phone face down and slides it to the far edge of the desk, soft morning light shifts across the paper, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "soft piano focus",
     "caption": "body doubling can be one text message.\n\n'starting at 10, done at 10.50.' your friend sends the same. you both work, phones face down. at 10.50, one word each. if you want a fixed structure for the days around it, look before you decide.\n\nFOCUS+ Core is our own product.\n\nsee the public demo before you decide: focus-plus.space (link in bio).\n\n#executivefunction #adhdwomen #notiontemplate",
     "cta": "demo"
@@ -1429,7 +1429,7 @@
         "num": "02",
         "h": "4 phase protocols.",
         "p": [
-          "each with a low-energy fallback for days when company is all you have."
+          "each with a low-energy fallback for the days with less room."
         ]
       },
       {
@@ -1474,8 +1474,8 @@
       "nobody says a word for 30 minutes.",
       "the task still gets its start."
     ],
-    "start_frame_prompt": "A woman at a long oak kitchen table writing in a linen notebook, a second ceramic mug set across the table in front of an empty chair, minimal natural makeup, no-makeup look, relaxed hair down, grey knit sweater, calm expression, side profile, medium shot from chest up, soft late-morning daylight, vertical composition with calm empty wall in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "static locked-off camera, she writes a line, lifts her mug and sets it back down, light drifts over the table, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "start_frame_prompt": "A woman at a long oak kitchen table resting a pencil on an open linen notebook, a second ceramic mug set across the table in front of an empty chair, minimal natural makeup, no-makeup look, relaxed hair down, grey knit sweater, calm expression, side profile, medium shot from chest up, soft late-morning daylight, vertical composition with calm empty wall in the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and sage (#8A9E8C), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
+    "video_prompt": "static locked-off camera, she lifts her mug and sets it back down beside the notebook, light drifts over the table, ends in the same framing as it begins, seamless loop, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "lofi piano calm",
     "caption": "quiet company counts.\n\na second mug on the table, a friend across from you, or someone on the same start time by text. no talking. one task each. the start belongs to both of you.\n\nfree 7-day cycle reset: focus-plus.space (link in bio). by email, no card.\n\n#executivefunction #adhdwomen #focusprotocol",
     "cta": "reset"
@@ -1536,7 +1536,7 @@
         "shared": "cta-save"
       }
     ],
-    "caption": "company works better when it is booked.\n\non sunday, pick the task you have moved twice. check your energy log and place a quiet session on a day that usually has less room. choose the person and the place. two 45-minute blocks, in the calendar, named.\n\nsave this for sunday evening.\n\nsave this for sunday evening.\n\n#weeklyreview #cycleawareplanning #executivefunction",
+    "caption": "book the company instead of hoping for it.\n\non sunday, pick the task you have moved twice. check your energy log and place a quiet session on a day that usually has less room. choose the person and the place. two 45-minute blocks, in the calendar, named.\n\nsave this for sunday evening.\n\n#weeklyreview #cycleawareplanning #executivefunction",
     "cta": "save"
   },
   {
@@ -1595,7 +1595,7 @@
         "shared": "cta-save"
       }
     ],
-    "caption": "a big task needs a small way in.\n\nfor each large task, write the part that takes under two minutes: open the folder, name the file, write the first line. open the door, then choose whether to keep going. the entry is the plan.\n\nsave this for monday morning.\n\nsave this for monday morning.\n\n#executivefunction #adhdwomen #focusprotocol #weeklyplanning",
+    "caption": "a big task needs a small way in.\n\nfor each large task, write the part that takes under two minutes: open the folder, name the file, write the first line. open the door, then choose whether to keep going. the entry is the plan.\n\nsave this for monday morning.\n\n#executivefunction #adhdwomen #focusprotocol #weeklyplanning",
     "cta": "save"
   },
   {
@@ -1618,9 +1618,9 @@
       "write the door, not the room."
     ],
     "start_frame_prompt": "Vertical frame of a hand opening a linen-bound notebook to a fresh ivory page on an oak desk, a pencil resting at the spine, a ceramic cup and a folded wool cloth nearby, a softly lit half-open door in the blurred background, calm empty wall across the upper third, muted nordic palette of ivory (#F5F0EA), warm charcoal (#2C2C2C) and dusty rose (#C4968A), editorial documentary photography, soft natural grain, shallow depth of field, candid not posed, no text, no letters, no logos, no watermark",
-    "video_prompt": "slow push-in, the hand opens the notebook and smooths the fresh page flat with the palm, then picks up the pencil and holds it above the page, soft light shifts across the paper, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
+    "video_prompt": "slow push-in, the hand opens the notebook and smooths the fresh page flat with the palm, soft light shifts across the paper, calm pace, natural motion, no text, no captions, no subtitles, no people speaking, no lip movement",
     "music_mood": "calm piano minimal",
-    "caption": "two minutes is the door, not the room.\n\nplan the way in, not the whole task: the first action that fits in two minutes. once you are through the door, you decide what happens next.\n\nsend this to the friend with one task she has been circling for a week.\n\nsend this to the friend with one task she has been circling for a week.\n\n#executivefunction #adhdwomen #focusprotocol",
+    "caption": "two minutes is the door, not the room.\n\nplan the way in, not the whole task: the first action that fits in two minutes. once you are through the door, you decide what happens next.\n\nsend this to the friend with one task she has been circling for a week.\n\n#executivefunction #adhdwomen #focusprotocol",
     "cta": "send"
   }
 ]
